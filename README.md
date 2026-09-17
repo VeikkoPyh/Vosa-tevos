@@ -1,4 +1,4 @@
-Dictionary of Vosa tevos, Finnish, English 30000 word lines. 
+Dictionary of Vosa tevos, Finnish, English 30000 word lines, vosaFinsiEngsi.htm. 
 Vosa tevos is new and easy constructed language developed by Veikko J. Pyhtilä, 1990-2026, Finland.
 You may freely use this dictionary for learning and using Vosa tevos. 
 You can load this file on your computer and open it in Firefox, 
