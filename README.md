@@ -6,12 +6,13 @@ and by ctrl-f or Search page get good search field by good search options.
 More information https://ekovisterlo.blogspot.com/
 
 https://ekovisterlo.blogspot.com/p/ekovisterlo-home-page-etusivu.html
+
 I hope that you send comments and participate in discussions 
 https://vosa-tevos-alteosi-a-visasasi.blogspot.com/2026/09/teno-start-aloitus.html
 
 Welcome to my weppage! Thank you!
 
-Dictionaries:
+Dictionaries for downloading and using in learning, for evaluation, on creating Vosa's language model and translator using AI:
 <ul>
     <li><a href="VosaBuildingBlocks2000.txt">Vosa tevos building blocks and examples of use in Vosa, Finnish and English over 2000</a></li>
     <li><a href="VosaFrequencyEnglishFinnish30000.txt">Vosa words in frequency order and English-Finnish dictionary about 30000 words</a></li>
