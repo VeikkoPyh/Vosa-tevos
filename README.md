@@ -18,8 +18,8 @@ Welcome to my weppage! Thank you!
 
 Dictionaries and Vosa texts for downloading and using in learning, for evaluation, on creating Vosa's language model and translator using AI:
 <ul>
-    <li><a href="VosaBuildingBlocks2000.txt">Vosa tevos building blocks and examples of use in Vosa, Finnish and English over 2000</a></li>
-    <li><a href="VosaFrequencyEnglishFinnish30000.txt">Vosa words in frequency order and English-Finnish dictionary about 30000 words</a></li>
+    <li><a href="VosaBuildingBlocks2000.txt">Vosa tevos building blocks in frequency order and examples of their use in Vosa, Finnish and English over 2000</a></li>
+    <li><a href="VosaFrequencyEnglishFinnish30000.txt">Vosa words in order of frequency and English-Finnish dictionary about 30000 words</a></li>
     <li><a href="VosaFinnishEnglishDictionary30000.txt">Vosa words in alphabetical order and Finnish-English dictionary about 30000 words</a></li>
     <li><a href="VosaInLengthVosaPartsFinnishEnglish30000.txt">Vosa words in length order and Vosa building blocks English-Finnish dictionary about 30000 words</a></li>
     <li><a href="VosaReverseVosaPartsFinnishEnglish30000.txt">Vosa words in reverse order and Finnish-English  dictionary about 30000 words</a></li>
