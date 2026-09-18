@@ -31,6 +31,7 @@ Dictionaries and Vosa texts for downloading and using in learning, for evaluatio
      <li><a href="Boosting Immunity.txt">Boosting immunity. Sentences in Vosa, English and Finnish.</a></li>
      <li><a href="Better Social and World Order.txt"> Better social and world order. Sentences in Vosa, English and Finnish.</a></li>
      <li><a href="Ekovisterlo EkoälyterveläEco smart healthy place.txt">A miniature world with ecological, social and economic sustainability 29 lines.</a></li>
+     <li><a href="Johanneksen evankeliumi suomeksi ja vosaksi.txt">Gospel of John in Finnish and Vosa</a></li>
     <li><a href="vosaFinsiEngsi.htm">Vosa-Finnish-English dictionary about 30000 words, good for searching words from page on FireFox in computer by ctrl-f. Download it! 
     </a></li>
 </ul>
