@@ -1,8 +1,12 @@
-Dictionary and sentences of Vosa tevos, Finnish, English 
+Dictionary and sentences of Vosa tevos, Finnish, English.
+
 Vosa tevos is new and easy constructed language developed by Veikko J. Pyhtilä, 1990-2026, Finland.
-You may freely use this dictionaries and sentences for learning and using Vosa tevos. 
+
+You may freely use this dictionaries and sentences for learning and using Vosa tevos and for evaluation, creating Vosa's language models and translators using AI:
+
 You can load vosaFinsiEngsi.htm on your computer and open it in Firefox, 
 and by ctrl-f or Search page get good search field by good search options.
+
 More information https://ekovisterlo.blogspot.com/
 
 https://ekovisterlo.blogspot.com/p/ekovisterlo-home-page-etusivu.html
