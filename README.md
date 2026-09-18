@@ -16,7 +16,7 @@ https://vosa-tevos-alteosi-a-visasasi.blogspot.com/2026/09/teno-start-aloitus.ht
 
 Welcome to my weppage! Thank you!
 
-Dictionaries and Vosa texts for downloading and using in learning, for evaluation, on creating Vosa's language model and translator using AI:
+Dictionaries and Vosa texts for downloading and using in learning, for evaluation, on creating Vosa's language model and translator using AI. You can import these files into the database using tabs as field delimiters.
 <ul>
     <li><a href="VosaBuildingBlocks2000.txt">Vosa tevos building blocks in frequency order and examples of their use in Vosa, Finnish and English over 2000</a></li>
     <li><a href="VosaFrequencyEnglishFinnish30000.txt">Vosa words in order of frequency and English-Finnish dictionary about 30000 words</a></li>
