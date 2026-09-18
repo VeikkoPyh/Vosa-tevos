@@ -20,7 +20,7 @@ Dictionaries and Vosa texts for downloading and using in learning, for evaluatio
     <li><a href="VosaInLengthVosaPartsFinnishEnglish30000.txt">Vosa words in length order and Vosa building blocks English-Finnish dictionary about 30000 words</a></li>
     <li><a href="VosaReverseVosaPartsFinnishEnglish30000.txt">Vosa words in reverse order and Finnish-English  dictionary about 30000 words</a></li>
     <li><a href="VosaVosaPartsFinnishEnglish58000.txt">Vosa words, Vosa building blocks and Finnish-English  dictionary about 58000 english words and about 30000 Vosa and Finnish words</a></li>
-    <li><a href="CommonVosaSentencesEtc.txt">Commmon Vosa sentences in English and Finnish by topics and extra in apphabetical order about 3700 lines</a></li>
+    <li><a href="CommonVosaSentencesByTopicsEtc.txt">Commmon Vosa sentences in English and Finnish by topics and extra in apphabetical order about 3700 lines</a></li>
     <li><a href="vosaFinsiEngsi.htm">Vosa-Finnish-English dictionary about 30000 words, good for searching words from page on FireFox in computer by ctrl-f. Download it! 
     </a></li>
 </ul>
