@@ -1,0 +1,1200 @@
+English	Finnish	Vosa
+a great deal	mahdottomasti	ejvoli
+A trait to be developed	Kehitettävä ominaisuus	Deevtava ofvao
+absentmindedly	hajamielisesti	silomili
+absurdist	absurdisti	visejli
+accidence	taivutusoppi	sakaudav
+acoustics	akustiikka	tilhöda
+Active everyday life	Aktiivinen arki	Siteva tetan
+Active organizational activity	Aktiivinen järjestötoiminta	Siteva järsio ote
+actuarial science	vakuutusmatematiikka	roturrisoda
+administrative science	hallinto-oppi	pötedav
+administrative science	hallintotiede	pötedä
+admiringly	ihailevasti	fainkaali
+advantageously	vieraanvoittoisesti	vifarvinli
+aerobiology	aerobiologia	hombiodä
+aerodynamics	aerodynamiikka	homuopoda
+aeronautical engineering	lentokonetekniikka	huvötekda
+aeronautical engineering	lentotekniikka	huotekda
+aesthetics	estetiikka	kavkada
+affectionately	herttaisesti	ravoli
+against the rules	laittomasti	pösoejli
+Aging parent	Ikääntyvä vanhempi	Jänriiva unpir
+agricultural chemistry	maanviljelyskemia	molviilkemda
+agricultural economics	maatalousekonomia	vilrostada
+agricultural physics	maanviljelysfysiikka	molviilfysda
+agricultural science	maanviljelytiede	molvildä
+agricultural science	maataloustiede	vilrostadä
+agricultural technology	maatalousteknologia	vilrostatekdä
+agronomy	agronomia	divilda
+airtightly	ilmanpitävästi	homtihruli
+alchemy	alkemia	nökemda
+Algorithm-induced-impact	Algoritmin tuoma vaikutus	Proglioik aagva ys
+amazingly	huikeasti	ylpili
+amusingly	hupaisasti	hehlili
+analog technology	analogiatekniikka	lireobtekda
+analytics	analytiikka	rorikada
+anatomy	anatomia	vevda
+andrology	andrologia	märetda
+andrology	miestentautioppi	märetdav
+anesthesiology	anestesiologia	tenukdä
+animal psychology	eläinpsykologia	pemiterdä
+Animal rights	Eläinten oikeudet	Pesi ratafsi
+animal science	kotieläintiede	balpedä
+animalistically	eläimellisesti	pelili
+anthropology	antropologia	mämda
+Appropriate rental level	Sopiva vuokrataso	Soopva lonfäfrovtal
+archeology	arkeologia	unobdä
+archeology	muinaistiede	enendä
+argumentative skills	väittelytaito	lijesaalivote
+arithmetic	aritmetiikka	risodav
+arithmetic	laskuoppi	risodav
+Artificial intelligence	challenge	Tekoälyn tuoma haaste
+Artistic photography	Taiteellinen valokuvaus	Kavva katkatoap
+artistic talent	kuvaamataito	katolivote
+as a matter of routine	automaattisesti	autteli
+asepsis	aseptiikka	ejfosikpeda
+Assyriology	assyriologia	assyrdä
+astronautics	astronautiikka	kitilhuuda
+astronomy	astronomia	kitildä
+astronomy	tähtitiede	klirlodä
+astrophysics	astrofysiikka	kitilfysda
+at full length	tyhjentävästi	luufli
+at length	pitkästi	luli
+atomic physics	atomifysiikka	moikfysda
+atomic theory	atomioppi	moikdav
+atonement	sovitusoppi	tehasopdav
+audio editing technology	äänenmuokkaustekniikka	pökaumuutekda
+Authentic lifestyle	Autenttinen elämänmeno	Rorilva eotuo
+authoritarianally	autoritäärisesti	autgöpöli
+automatism	automatiikka	autteda
+Autonomous mobility	Autonominen liikkuminen	Autpölova uute
+aviation medicine	ilmailulääketiede	huutedä
+bacteriology	bakteriologia	baktda
+badly	rumasti	akli
+balancedly	tasapainoisesti	talhevrili
+ballistics	ballistiikka	obhudä
+basic doctrine	perusoppi	besdav
+Beautiful art exhibition	Kaunis taidenäyttely	Kava kav tekahäp
+Beautiful houseplant	Kaunis huonekasvi	Kava tolikep
+Beautiful memory	Kaunis muisto	Kava söto
+Beautiful mountain landscape	Kaunis vuoristomaisema	Kava sipimöyl bioka
+Beautiful season	Kaunis vuodenaika	Kava jänno
+behavioral science	käyttäytymistiede	cuodä
+Beloved pet	Rakas lemmikkieläin	Rava rape
+Beneficial health application	Hyödyllinen terveyssovellus	Görova terdaforsopto
+bias	puolueellisesti	gösioli
+biblical exegesis	raamatunselitysoppi	uskirtoklirsadav
+big	isosti	pili
+Big cleaning day	Suuri siivouspäivä	Piva lokliintan
+Big cultural difference	Suuri kulttuuriero	Piva lie
+Big dream	Suuri unelma	Piva nukob
+Big Family celebration	Suuri sukujuhla	Piva cejrono
+Big reconciliation	Suuri sovinto	Piva hasop
+bindingly	sitovasti	virupaali
+biochemistry	biokemia	biokemda
+bioelectronics	bioelektroniikka	bioipsähda
+bioethics	bioetiikka	biorattarda
+biogeography	eliömaantiede	eököldä
+biology	biologia	biodä
+biomedicine	biolääketiede	bioterdä
+biophysics	biofysiikka	biofysda
+biorhythmics	biorytmiikka	biorytmda
+biotechnology	biotekniikka	biotekda
+botany	botaniikka	epda
+botany	kasvioppi	epdav
+botany	kasvitiede	epdä
+bravely	uljaasti	kakarli
+bravely	urhoollisesti	hakarli
+Brewed green tea	Haudutettu vihreä tee	Lakvaamen grinva teavem
+bright	kirkkaasti	klirli
+Bright future	Valoisa tulevaisuus	Katva neno
+Bright spring	Valoisa kevät	Katva enlakno
+Brisk outdoor activity	Reipas ulkoilu	Nophateva sinituo
+Brisk walking	Reipas kävelylenkki	Nophateva vetuoturou
+briskly	vauhdikkaasti	nopteli
+brush technique	sivellintekniikka	heörpavotekda
+building acoustics	rakennusakustiikka	tolhöda
+business administration	liiketaloustiede	fäfrostadä
+business studies	liikeoppi	uodav
+Busy local traffic	Vilkas paikallisliikenne	Sinopteva lova tusta
+Busy weekend	Kiireinen viikonloppu	Iprinova gunön
+by a hairbreadth	täpärästi	rafkasli
+by agreement	sovinnaisesti	soplioli
+by fits and starts	epäsäännöllisesti	ejregli
+by way of exception	poikkeuksellisesti	ejreli
+captivatingly	valloittavasti	pöloaapli
+cardiology	kardiologia	hemoevda
+cardiology	sydäntautioppi	hemoevretdav
+Careful travel preparation	Huolellinen matkavalmistelu	Juskeeva rotuo enforteete
+carefully	visusti	tarkjusli
+cartography	karttaoppi	kalotodav
+Casual running	Rento juoksulenkki	Pomakva tyrou
+casually	rennosti	pomakli
+Celebratory birthday cake	Juhlava syntymäpäiväkakku	Ronova nöetan kakem
+celestial mechanics	taivaanmekaniikka	yllomekanda
+cell biology	solubiologia	solbiodä
+cell biology	soluoppi	soldav
+Challenge brought by loneliness	Yksinäisyyden tuoma haaste	Intu isvivao aagva has
+Challenge related to shift work	Vuorotyöhön liittyvä haaste	Intu altnotö rutuuva has
+Challenging collecting hobby	Haastava keräilyharrastus	Haasva kaapte mite
+Challenging entrance exam	Haastava pääsykoe	Haasva  aftuovotra
+Challenging hiking terrain	Haastava vaellusmaasto	Haasva tutuo simol
+Challenging job interview	Haastava työhaastattelu	Haasva tösidakoote
+Challenging lack of trust	Haastava luottamuspula	Haasva uscu nidsta
+Challenging language barrier	Haastava kielimuuri	Haasva vos pivol
+Challenging living abroad	Haastava ulkomailla asuminen	Haasva la nihylsi eloote
+Challenging parenting	Haastava vanhemmuus	Haasva mamsivao
+Challenging singing technique	Haastava laulutekniikka	Haasva hösa tekda
+Challenging university degree	Haastava korkeakoulututkinto	Haasva yldavlötradav
+Challenging work task	Haastava työtehtävä	Haasva töteob
+Changing gallery exhibition	Vaihtuva gallerianäyttely	Ermuuva kavtolik takahäp
+Cheap backpacking	Halpa reppumatka	Lyrovva bäkvebäg rotuo
+Cheap everyday food	Halpa arkiruoka	Lyrovva tetanem
+Cheap flight offer	Halpa lentotarjous	Lyrovva huo oftuka
+Cheap hobby	Halpa harrastus	Lyrovva mite
+cheerfully	lupsakkaasti	haetfriculi
+chemistry	kemia	kemda
+child psychology	lastenpsykologia	ipmämmiterdä
+Childhood dream profession	Lapsuuden unelma-ammatti	Ipmämno nukob votö
+Childhood-home	Lapsuuden kotitalo	Ipmämno baltol
+Children's hobby activities	Lasten harrastustoiminta	Ipmämsi miteoteete
+chord	sointuoppi	cöyhdav
+Christianity	kristinoppi	kristdav
+Christology	kristologia	kristhojodav
+Chronic illness	Krooninen sairaus	Lunova ret
+chronobiology	kronobiologia	nobiodä
+chronology	kronologia	norisoda
+civics	kansalaistaito	hyjjolivote
+civil engineering	maarakennusmekaniikka	moltooltemekanda
+civilizedly	sivistyneesti	hadapiirli
+Classic board game	Klassinen lautapeli	Enpisva kutpuple
+cleverly	neuvokkaasti	visli
+cleverly	sukkelasti	nopvisteeli
+climate science	ilmastotiede	homstadä
+climatology	ilmasto-oppi	homstadav
+climatology	klimatologia	homstadä
+Close grocery store	Läheinen ruokakauppa	Rafliva emfäflo
+Close relative	Läheinen sukulainen	Rafliva cejjo
+Close teamwork	Tiivis tiimityö	Tihruva visiotö
+Close-knit family community	Tiivis perheyhteisö	Tihruva bajisvisio
+closely	tarkasti	tarkli
+clumsily	tökerösti	ahvoteli
+cognitive science	kognitiotiede	dafidä
+cold physics	kylmäfysiikka	kalfysda
+Cold soft drink	Kylmä virvoitusjuoma	Kalva poysvem
+Cold winter morning	Kylmä talviaamu	Kalva kalnoentan
+collage technique	kollaasitekniikka	vipatötotekda
+color theory	värioppi	kädav
+colorfully	kirjavasti	sikäli
+combinatorics	kombinaatio-oppi	visipadav
+Comfortable study time	Mukava opiskeluaika	Hamiva apdavno
+commodity theory	tavaraoppi	fäftodav
+Common topic of conversation	Yleinen puheenaihe	Tihnava sasaobso
+communication science	viestintätiede	tusadä
+communication technology	viestintätekniikka	tusaatekda
+Competitive salary level	Kilpailukykyinen palkkataso	Vintravoteva törovtal
+Complex festive dish	Monimutkainen juhlaruoka	Siongva rono em
+Complex work project	Monimutkainen työprojekti	Siongva töpitöob
+comprehensively	kokonaisvaltaisesti	kiopöli
+computer science	tietojenkäsittelyoppi	dasicutedav
+computer technology	tietokonetekniikka	davötekda
+conciliatoryly	sovittelevasti	tesivisoopli
+conference technology	kokoustekniikka	visahäptekda
+confusedly	sekavasti	räjdali
+Conservative opinion	Konservatiivinen mielipide	Ungöva micu
+construction technology	rakennustekniikka	toltekda
+consumer electronics	kulutuselektroniikka	tetoriipipsähda
+contemptuously	ylenkatseellisesti	yllikaateli
+control technology	säätötekniikka	juspatekda
+conversational skills	keskustelutaito	visasalivote
+cooking skills	keittotaito	kuulivote
+cooking skills	ruoanlaittotaito	emtoolivote
+cosmetics	kosmetiikka	kahakeda
+cosmetology	kosmetologia	kahakeda
+cosmology	kosmologia	kitilda
+Cozy apartment building	Viihtyisä asuintalo	Nohamiva elotol
+Cozy balcony	Viihtyisä parveke	Nohamiva bälk
+Cozy interior	Kodikas sisustus	Balva intolpa
+Cozy place to live	Viihtyisä asuinpaikka	Nohamiva eloolo
+Cozy rental cabin	Viihtyisä vuokramökki	Nohamiva lonfäiptol
+craftsmanship	käsityötaito 	pavetölivote
+creationism	luomisoppi	novtedav
+Creative craft	Luova käsityö	Novteeva pavetö
+Creative design work	Luova suunnittelutyö	Novteeva kasootö
+Creative painting hobby	Luova maalausharrastus	Novteeva kämoto mite
+Creative writing	Luova kirjoittaminen	Novteeva kiirte
+criminal psychology	kriminaalipsykologia	pösorekmiterdä
+criminal psychology	rikospsykologia	pösorekmiterdä
+criminology	kriminologia	pösorekda
+Crispy sourdough bread	Rapea hapanjuurileipä	Emuurva hapjur bekem
+Critical money talk	Kriittinen rahapuhe	Krisva rovsasa
+cryobiology	kryobiologia	kalbiodä
+cryophysics	kryofysiikka	kalfysda
+crystal chemistry	kidekemia	kidkemda
+crystal optics	kideoptiikka	kidlinsda
+crystallography	kideoppi	kiddav
+crystallography	kidetiede	kiddä
+cultural anthropology	kulttuuriantropologia	liemämda
+cultural geography	kulttuurimaantiede	lieköldä
+cunningly	viekkaasti	visahli
+Current documentary	Ajankohtainen dokumentti	Noiplova klirsakir
+cybernetics	kybernetiikka	mämvöcuda
+Cybersecurity-related -threat	Kyberturvallisuuteen liittyvä uhka	Kyberturvao rutuuva obrisk
+cytology	sytologia	solda
+Dangerous travel destination	Vaarallinen matkakohde	Ahriskva rotuob
+Dear sibling	Rakas sisarus	Rava bajvijo
+Delayed connecting flight	Myöhästynyt jatkolento	Ylnaaen pirhuo
+delivery technology	toimitustekniikka	fätogatekda
+Demanding expert work	Vaativa asiantuntijatyö	Teniidva sokatuujotö
+demandingly	vaateliaasti	teniidli
+demography	väestötiede	joridä
+densely	tiheästi	tihnoli
+dentistry	hammaslääketiede	bitveterdä
+dermatology	dermatologia	laevretda
+dermatology	ihotautioppi	laevretdav
+developmental psychology	kehityspsykologia	devmiterdä
+diagnostics	diagnostiikka	retkada
+diagnostics	taudinmääritysoppi	retdeefdav
+dialectology	murremaantiede	alvosköldä
+didactics	didaktiikka	padavda
+dietetics	dietetiikka	emvaotoda
+Different cultural experience	Erilainen kulttuurikokemus	Erva lie davofi
+Different living arrangements	Erilainen asumismuoto	Erva elookau
+Difficult career change	Vaikea ammatinvaihto	Ongva votö ermupa
+Difficult customer situation	Vaikea asiakastilanne	Ongva sojo vista
+Difficult hobby	Vaikea harrastus	Ongva mite
+Digital automation	Digitaalinen automaatio	Kasiöva autte
+Digital fasting	Digitaalinen paasto	Kasiöva ejeemte
+Digital image editing	Digitaalinen kuvankäsittely	Kasiöva katocute
+digital technology	digitaalitekniikka	kasiötekda
+dimly	himmeästi	rilkli
+direct	välittömästi	välejna
+Disgusting taste experience	Inhottava makuelämys	Temicuaahva emfi fieka
+Distant dream destination	Kaukainen unelmakohde	Farva nukob obö
+Distant relative	Kaukainen sukulainen	Farva cejjo
+Distant space travel	Kaukainen avaruusmatkailu	Farva kitil sirotuo
+Diverse food culture	Monipuolinen ruokakulttuuri	Sisidva emlie
+divinity	jumaluusoppi	hajovaodav
+doctrinal	uskonoppi	usdav
+doctrine of justification	vanhurskauttamisoppi	ushamuudav
+doctrine of redemption	lunastusoppi	öfäfdav
+dogmatism	dogmatiikka	usdavda
+Domestic seasonal product	Kotimainen kausituote	Balhylva limnoto
+double	kaksinkertaisesti	dunoli
+drawing skills	piirustustaito	kateelivote
+driving skills	ajotaito	katuo livote
+driving technique	ajotekniikka	katuotekda
+dynamics	dynamiikka	uopoda
+Earned annual vacation	Ansaittu vuosiloma	Roaafen jänurtöno
+easily	herkästi	ylfili
+Easy baking recipe	Helppo leivontaresepti	Gnova beekte lida
+Ecological leisure time	Ekologinen vapaa-aika	Ekodäva frino
+Ecological train journey	Ekologinen junamatka	Ekodäva fetuvörotuo
+Ecological travel method	Ekologinen matkustustapa	Ekodäva rotuute lio
+ecology	ekologia	ekodä
+economic geography	talousmaantiede	rostaköldä
+economics	kansantaloustiede	hyjrostadä
+economics	taloustiede	rostadä
+economy	ekonomia	rostada
+education	kasvatusoppi	haeöpiirdav
+education	kasvatustiede	haeöpiirdä
+educational psychology	kasvatuspsykologia	haeöpiirmiterdä
+Effective stress management	Tehokas stressinhallinta	Ysriva nervögpo livotevao
+Efficient weekday morning	Tehokas arkiaamu	Ysriva tetan entan
+electrical engineering	sähköoppi	sähdav
+electrical engineering	sähkötekniikka	sähtekda
+electrical power engineering	sähkövoimatekniikka	sähpotekda
+electroacoustics	sähköakustiikka	sähhöda
+electrochemistry	sähkökemia	sähkemda
+electrodynamics	elektrodynamiikka	ipsähuopoda
+electrodynamics	sähködynamiikka	sähuopoda
+electron optics	elektronioptiikka	ipsählinsda
+electronics	elektroniikka	ipsähda
+electrostatics	sähköstatiikka	sähtalhevrida
+embryology	embryologia	enöda
+Empty nest syndrome	Tyhjän pesän syndrooma	Lufva pebal siretmark
+endocrinology	endokrinologia	ingländevda
+engineering skills	insinööritaito	tekdajolivote
+English studies	anglistiikka	engdä
+enjoyable	nautinnollisesti	rosapli
+Enough sleep	Riittävä yöuni	Hanidriva nat nuukte
+entomology	hyönteistiede	pegdä
+environmental science	ympäristöoppi	raulodav
+environmental technology	ympäristötekniikka	raulotekda
+epidemiology	epidemiologia	retleituoda
+epistemology	tieto-oppi	dadav
+equally	yhtäläisesti	reli
+ergonomics	ergonomia	töculiteda
+especially	erikoisesti	erlili
+Ethical choice	Eettinen valinta	Rattarva apkao
+ethics	etiikka	rattarda
+ethics	siveysoppi	cuhahvaodav
+ethnology	kansatiede	hyjdä
+etiology	etiologia	retsyda
+etymology	etymologia	sanöbesda
+Everyday life related to shared flats	Kimppakämppään liittyvä arki	Sivi elo rutuuva tetan
+Everyday routine	Jokapäiväinen rutiini	Kitanva liretö
+evolutionary theory	kehitysoppi	eodevdav
+Evolving artificial intelligence	Kehittyvä tekoäly	Autdeevva tevis
+exactist	eksaktisti	jusli
+Exciting travel story	Jännittävä matkatarina	Vooltva rotuo öbsasa
+exegesis	eksegetiikka	uskirtoklirsada
+exemplary	esimerkillisesti	edkalili
+exercise science	liikuntatiede	uuteodä
+Exotic cruise	Eksoottinen risteily	Farhamiva krosvuute
+Exotic fruit	Eksoottinen hedelmä	Farhamiva hed
+Exotic travel destination	Eksoottinen matkakohde	Farhamiva rotuob
+exoticism	eksotiikka	farhamida
+Expensive cost of living	Kallis elinkustannus	Ylrovva eorovpa
+Expensive grocery shopping	Kallis ruokaostos	Ylrovva emäftosi
+Expensive home decoration	Kallis kodinsisustus	Ylrovva bal intolpa
+Expensive hotel room	Kallis hotellihuone	Ylrovva rotuotol tolik
+Expensive renovation	Kallis remontti	Ylrovva siker
+Expensive rental apartment	Kallis vuokra-asunto	Ylrovva lonäfelo
+Expensive sports equipment	Kallis urheiluväline	Ylrovva rouvo
+expressiveness	ilmaisutaito	kautsalivote
+fair	rehellisesti	rilhali
+Fair employer	Reilu työnantaja	Harocuva töfaajo
+falsist	falskisti	tarmuuenli
+Family research discovery	Sukututkimukseen liittyvä löydös	Cejdaka rutuuva keesob
+Family vacation together	Yhteinen perheloma	Viofva bajurtöno
+Family-tradition	Perheen sisäinen perinne	Baj inova enlio
+Famous hometown	Tuttu kotikaupunki	Vikadava baltaunlo
+Famous museum	Kuuluisa museo	Dahonva undatol
+farming technology	viljelytekniikka	viiltekda
+fast	rohkeasti	karli
+fatally	kohtalokkaasti	ahobstali
+Fatty fast food	Rasvainen pikaruoka	Fätmova ipnaem
+Favorite childhood food	Lapsuuden lempiruoka	Ipmämno mihaem
+Fennistics	fennistiikka	finvosdaka
+Fenno-Ugric studies	fennougristiikka	finugrvoshyjdaka
+fiber optics	kuituoptiikka	fibmolinsda
+fiber optics	lasikuituoptiikka	glafibmolinsda
+fiercely	tulisesti	bönlili
+Fiery spice	Tulinen mauste	Bönva fiem
+figuratively	kuvallisesti	katolili
+finance	finanssioppi	rovdav
+finance	finanssitiede	rovdä
+fine	loistavasti	rokliirli
+firmly	jämäkästi	maspoli
+firmly	ryhdikkäästi	halyllelli
+firmly	tukevasti	supli
+Flexible remote work	Joustava etätyö	Joosva fartö
+Flexible working day	Liukuva työpäivä	Gliuva tötan
+Flexible working hours	Joustava työaika	Joosva töno
+flying skill	lentotaito	huolivote
+folklore	folkloristiikka	hylenliodaka
+fondly	typerästi	cuosivli
+food chemistry	elintarvikekemia	eonidtokemda
+food science	elintarviketiede	eonidtodä
+food technology	elintarviketeknologia	eonidtotekdä
+Food, drink and eating places	Ruoka juoma ja ruokapaikat	Em vem a emlosi
+forensic dentistry	oikeushammaslääketiede	ratafbitveterdä
+forensic linguistics	oikeuslingvistiikka	ratafvosdä
+forensic medicine	oikeuslääketiede	ratafterdä
+forensic science	rikostutkimusoppi	pösorekdakadav
+forensics	kriminalistiikka	pösorekdakadav
+forest biology	metsäbiologia	pulbiodä
+forest ecology	metsäekologia	pulekodä
+forest economics	metsäekonomia	pulrostada
+forest technology	metsäteknologia	pultekdä
+forestry	metsätaloustiede	pulrostadä
+forestry	metsätiede	puldä
+forever	loputtomasti	önejli
+fortunately	onnekkaasti	saklili
+Free hobby opportunity	Ilmainen harrastusmahdollisuus	Ejrovriva mitevovao
+Freedom related to living alone	Yksinasumiseen liittyvä vapaus	Intu isvieloote rutuuva frivao
+freely	vapaamuotoisesti	frikauli
+Fresh ingredient	Tuore raaka-aine	Rafnovva ravmo
+Fresh morning coffee	Tuore aamukahvi	Rafnovva entan kofvem
+Fresh vegetable	Tuore vihannes	Rafnovva grinem
+frictionlessly	kitkattomasti	laoyvpoejli
+Friendly locals	Ystävällinen paikallisväestö	Havijocuva lova jori
+Frozen ready	made food	Pakastettu valmisruoka
+fully	täysimittaisesti	fulpiprili
+fun	hauskasti	hehobli
+Fun evening out	Hauska illanvietto	Hehobva ennatnote
+Fun pastime	Hauska ajanviete	Hehobva noteete
+Fun souvenir	Hauska matkamuisto	Hehobva rotuosöto
+Functional work community	Toimiva työyhteisö	Oteeva tö isvisio
+Funny dog trick	Hauska koirantemppu	Hehobva iphaupe
+Future career goal	Tulevaisuuden uratavoite	Neno eolukäv obtrao
+futurology	futurologia	nenoda
+gaily	koreasti	kakali
+galvanotechnology	galvanotekniikka	moTsnpatekda
+gamely	miehuullisesti	mähali
+gamely	urheasti	hakarli
+Garden maintenance	related cooperation	Pihanhoitoon liittyvä yhteistyö
+gastronomy	gastronomia	haemda
+gemology	jalokivioppi	väkamdav
+Gender equality	Sukupuolten välinen tasa-arvo	Cejsidsi välcuva talro
+genealogy	genealogia	cejdakada
+genealogy	polveutumisoppi	autsihaardav
+general medicine	yleislääketiede	tihnaterdä
+Generational gap	Sukupolvien välinen kuilu	Cejlyl välcuva diplo
+generously	jalomielisesti	vämili
+genetic engineering	geenitekniikka	gentekda
+genetic psychology	perinnöllisyyspsykologia	eöneafmiterdä
+genetics	genetiikka	genda
+genetics	perinnöllisyystiede	eöneafvaodä
+gently	hempeästi	suitculi
+gently	leppeästi	lepli
+geography	maantiede	köldä
+geology	geologia	moldä
+geometry	geometria	piprida
+geophysics	geofysiikka	molfysda
+geoscience	geotiede	moldä
+geotechnics	geotekniikka	moltekda
+German studies	germanistiikka	germvosliedaka
+gerontology	gerontologia	unjodä
+ghostly	aavemaisesti	hokauli
+gladly	mieluisesti	mihali
+gladly	mieluusti	mihali
+Gloomy autumn	Synkkä syksy	Mitakva enkalno
+Gloomy crime novel	Synkkä rikosromaani	Mitakva pösorek kakirto
+Gloomy outlook	Synkkä tulevaisuudennäkymä	Mitakva nenoloka
+gloomyly	synkästi	mitakli
+Goal-oriented investing	Tavoitteellinen sijoittaminen	Obtraova tulopaate
+Golden childhood memory	Kultainen lapsuusmuisto	Moauva ipmämno söob
+Good academic performance	Hyvä opintomenestys	Hava apdav hasak
+Good book recommendation	Hyvä kirjasuositus	Hava kirto hapirsa
+Good hotel accommodation	Hyvä hotellimajoitus	Hava rotuotol paiptoolte
+Good mental well	being	Hyvä mielenhyvinvointi
+Good work well	being	Hyvä työhyvinvointi
+gracefully	sulavasti	havotuuli
+grammar	kielioppi	vosdav
+Great fear	Suuri pelko	Piva rak
+Great insight	Suuri oivallus	Piva satvoso
+Great professional success	Hieno ammatillinen onnistuminen	Väkava votöva saakte
+Greatest happiness	Suurin onnellisuus	Pist sakvao
+greedily	ahnaasti	teafrali
+group theory	joukko-oppi	siodav
+Groupwork-related	challenge	Ryhmätyöhön liittyvä haaste
+Guided city tour	Opastettu kaupunkikierros	Tudaaven taunlo rauno
+Guided group exercise	Ohjattu ryhmäliikunta	Tudiiren iksio uuteo
+Guided hobby activity	Ohjattu harrastustoiminta	Tudiiren miteoteete
+gynecology	gynekologia	ämretda
+gynecology	naistentautioppi	ämretdav
+happily	tyytyväisesti	nidfulculi
+hard	vaivalloisesti	tesaflili
+hardily	pelottomasti	rakejli
+hardly	työläästi	tölili
+health education	terveysoppi	terdav
+Health, well-being  and style	Terveys hyvinvointi ja tyyli	Tervao halivoote  a tyl
+Healthy lifestyle	Terveellinen elämäntapa	Forterva eolio
+Healthy nutrition	Terveellinen ravinto	Forterva roem
+Healthy vegetarian food	Terveellinen kasvisruoka	Forterva epem
+Heavy gym workout	Raskas kuntosalitreeni	Hevva vostatolik vohapiirte
+hematology	hematologia	hemoda
+heraldry	vaakunaoppi	pöermarkdav
+Hidden tourist gem	Piilotettu matkailuhelmi	Hidpaaen sirotuo rorae
+High educational background	Korkea koulutustausta	Ylva padav kadeob
+high-energy physics	suurenergiafysiikka	piporifysda
+high-frequency technology	suurtaajuustekniikka	pitihritekda
+high-tech	huipputekniikka	ylsttekda
+histology	histologia	vivevda
+Historic center	Historiallinen keskusta	Undava midtaunlo
+Historical attraction	Historiallinen nähtävyys	Undava vokaavao
+Historical biography	Historiallinen elämäkerta	Undava eosa
+history	historiatiede	undadä
+Hobbies, exercising and leisure	Harrastukset, liikunta ja vapaa-aika	Mitesi, uuteo a frino
+home technology	kodintekniikka	baltekda
+Home, family and relationships	Koti perhe ja ihmissuhteet	Bal baj a mämvicusi
+Homemade pizza	Kotitekoinen pizza	Baltooen pitsem
+hostilely	vihamielisesti	armili
+Hot soup	Kuuma keitto	Läkva kuem
+Housing association general meeting	Taloyhtiön yhtiökokous	Tolvirosio virosio visahäp
+Human rights related	discussion	Ihmisoikeuksiin liittyvä keskustelu
+humanities	ihmistiede	mämdä
+hurriedly	kiiruusti	noptuuli
+HVAC technology	LVI-tekniikka	LVT-tekda
+hydraulic engineering	vesirakennustekniikka	vamtooltekda
+hydraulics	hydrauliikka	vomlouysrida
+hydrology	hydrologia	sivamlodä
+hydrology	vesistötiede	sivamlodä
+ideology	ideologia	ide
+illicitly	pimeästi	takli
+imitation skill	matkimistaito	liteelivote
+immunology	immunologia	ögretda
+Important career event	Tärkeä uratapahtuma	Curova eolukävhäp
+Important customer meeting	Tärkeä asiakastapaaminen	Curova sojo ögkaate
+Important life principle	Tärkeä elämänohje	Curova eolida
+in a moment	joutuisasti	nopli
+in a nutshell	ylimalkaisesti	ylrafli
+in a polite way	kohteliaasti	kahaculi
+in a popular way	kansantajuisesti	hyjdafili
+in a small way	vaatimattomasti	tenidejli
+in disbelief	epäuskoisesti	ejuusli
+in fact	faktisesti	rilsoli
+in quality	laadullisesti	vaoli
+in state	komeasti	kali
+in terms of money	rahallisesti	rovli
+inadequately	puutteellisesti	ejofrili
+incomprehensibly	käsittämättömästi	vosooejli
+incomprehensibly	vaikeatajuisesti	ongdafili
+inconsolably	lohduttomasti	sorvyejli
+indecently	säädyttömästi	hastaejli
+Independent news media	Riippumaton uutismedia	Obhängejva novsa dafafvo
+Independent study	Itsenäinen opiskelu	Autnava apdav frivao
+Independent travel planning	Omatoiminen matkasuunnittelu	Autoteva rotuo kasoote
+indisputably	kiistattomasti	posvisaejli
+informatics	informatiikka	obdafada
+information technology	informaatioteknologia	obdafatekdä
+information technology	tietotekniikka	datekda
+information theory	tiedotusoppi	dafaadav
+Innovative gadget	Innovatiivinen vempain	Ideanovva vovö
+Inspiring role model	Inspiroiva esikuva	Foryysva edlika
+Inspiring supervisor	Inspiroiva esihenkilö	Foryysva edhojo
+Interactive story	Interaktiivinen tarina	Välcusiteva öbsasa
+Interesting community college course	Mielenkiintoinen kansalaisopistokurssi	Ruhamiva hyjjo davlö davhäp
+Interesting podcast	Mielenkiintoinen podcast	Ruhamiva podklirsa
+Interesting side project	Mielenkiintoinen sivuprojekti	Ruhamiva sidpitöob
+Interesting thesis	Mielenkiintoinen opinnäytetyö	Ruhamiva apdavtekatotö
+Interesting YouTube video	Kiinnostava viedeo	Ruhamiiva kahöto
+internal medicine	sisätautioppi	inoretdav
+internal reading skills	sisälukutaito	inoriiklivote
+International airport	Kansainvälinen lentoasema	Hyjsivälva hutol
+International food trend	Kansainvälinen ruokatrendi	Hyjsivälva emhäpdir
+International work environment	Kansainvälinen työympäristö	Hyjsivälva töraulo
+irrevocably	vääjäämättömästi	lourtuejli
+Italian pasta food	Italialainen pastaruoka	Itava pastem
+Joint hobby	Yhteinen harrastus	Viofva mite
+Joint negotiation	Yhteinen neuvottelu	Viofva vilisasoopte
+journalism	journalistiikka	daoteeda
+journalism	lehdistöoppi	sidapaprdav
+judiciously	viisaasti	visli
+juicyly	mehukkaasti	mehli
+jurisprudence	lainoppi	pösodav
+jurisprudence	oikeustiede	ratafdä
+kindly	suopeasti	hafali
+kinematics	kinematiikka	pipriuoda
+kinetics	kinetiikka	uoda
+know-how	tietotaito	dalivote
+language skills	kielitaito	voslivote
+Large screen time	Suuri ruutuaika	Piva tekavö no
+laser technology	lasertekniikka	laserkatiktekda
+law	lakitiede	pösodä
+lavishly	anteliaasti	pirifali
+leadership	johtamistaito	diirlivote
+learning	oppi	dav
+legally	juridisesti	ratafoli
+Lesson learned from history	Historian tuoma oppi	Unda aagva dav
+lexicology	leksikologia	sisatodav
+Liberal values	Liberaali arvomaailma	Pöfajo roköl
+library science	kirjastotiede	sikirlödä
+life science	biotiede	biodä
+Light chat	Kevyt jutustelu	Vehva sivisaate
+Light snack	Kevyt välipala	Vehva välem
+light theory	valo-oppi	katdav
+lighting technology	valaistustekniikka	kaattekda
+limitedly	rajoitetusti	teliimli
+limnology	limnologia	divamloda
+linguistic geography	kielimaantiede	vosköldä
+linguistics	kielitiede	vosdä
+linguistics	lingvistiikka	vosdä
+literacy	kirjoitustaito	kiirlivote
+literacy	lukutaito	riiklivote
+literary studies	kirjallisuustiede	kirsitodä
+Lively city break	Vilkas kaupunkiloma	Sinopteva taunlo urtöno
+Local bakery	Paikallinen leipomo	Lova beklö
+Local community	Paikallinen yhteisö	Lova isvisio
+Local cultural event	Paikallinen kulttuuritapahtuma	Lova liehäp
+Local currency	Paikallinen valuutta	Lova obrov
+Local daycare	Paikallinen päiväkoti	Lova tanbal
+Local expert	Paikallinen asiantuntija	Lova sovodajo
+Local food experience	Paikallinen ruokaelämys	Lova emfieka
+Local language skills	Paikallinen kielitaito	Lova voslivote
+Local lean	to	Paikallinen laavu
+Local public transport	Paikallinen julkinen liikenne	Lova dihva tusta
+logic	logiikka	tuvisda
+logistics	logistiikka	gagda
+Long distance	Pitkä välimatka	Luva välturi
+Long distance relationship	challenge	Etäsuhteeseen liittyvä haaste
+Long hiking trail	Pitkä vaellusreitti	Luva tutuo lalitul
+Long novel series	Pitkä romaanisarja	Luva kakirto seri
+Long study leave	Pitkä opintovapaa	Luva apdavfriurtöno
+Long waiting time	Pitkä odotusaika	Luva obnolimno
+Long weekend trip	Pitkä viikonloppureissu	Luva gunön rotuo
+Long work experience	Pitkä työkokemus	Luva tödavofi
+Long-term friendship	Pitkäaikainen ystävyyssuhde	Lunova havijovao vicu
+Long-term project	Pitkäjänteinen projekti	Luroupevva pitöob
+loosely	irrallisesti	urlili
+loosely	löyhästi	snetli
+Lost luggage	Kadonnut matkatavara	Kayyren rotuofto
+Lost relationship	Menetetty ihmissuhde	Uraafen mämvicu
+low frequency technology	pientaajuustekniikka	iptihritekda
+Luxurious spa vacation	Ylellinen kylpyläloma	Ylofva batlö urtöno
+luxuriously	ylellisesti	ylofli
+macroeconomics	makrotaloustiede	ylpirostadä
+macromolecular chemistry	makromolekyylikemia	ylpisimoikkemda
+Major house renovation	Suuri taloremontti	Piva tol siker
+management theory	johto-oppi	diirdav
+Mandatory travel insurance	Pakollinen matkavakuutus	Pitva rotuo rotur
+manly	miehekkäästi	mälili
+manufacturing technology	valmistustekniikka	tootekda
+many times	moninkertaisesti	sinoli
+marine biology	meribiologia	fovamlobiodä
+marine science	meritiede	fovamlodä
+marine technology	meritekniikka	fovamlotekda
+maritime archaeology	meriarkeologia	fovamlounobdä
+mathematics	matematiikka	risoda
+measurement technology	mittaustekniikka	pipriatekda
+mechanics	mekaniikka	mekanda
+mechatronics	mekatroniikka	mekansähda
+Media and art	Media ja taide	Dafafvo a kav
+Medical advancement	Lääketieteellinen edistysaskel	Terdäva vyrotetuoväl
+medical ethics	lääkärinetiikka	diterjo rattarda
+medicinal chemistry	lääkekemia	termokemda
+medicine	lääketiede	terdä
+Mental relaxation	Henkinen rentoutuminen	Hosova autpomaakte
+Mental well	being	Henkinen hyvinvointi
+mentally	sielullisesti	hojli
+metallurgy	metallioppi	metdav
+metaphysics	metafysiikka	obessyeovisda
+meteorology	ilmatiede	homdä
+meteorology	meteorologia	nistadä
+methodology	menetelmäoppi	culitedav
+methodology	menetelmätiede	culitedä
+methodology	metodioppi	liodav
+methodology	metodologia	lioda
+metrology	metrologia	pipridä
+metrology	mittausoppi	pipriapdav
+microbiology	mikrobiologia	fosikbiodä
+microchemistry	mikrokemia	fosikkemda
+microeconomics	mikrotaloustiede	fosikrostadä
+microelectronics	mikroelektroniikka	fosikipsähda
+microtechnology	mikrotekniikka	fosiktekda
+military technology	sotatekniikka	siptekda
+mineralogy	kivennäistiede	kammodä
+mineralogy	mineralogia	kammoda
+mining technology	vuoritekniikka	pimöyltekda
+minutely	hiuksenhienosti	heörtinli
+moderately	maltillisesti	mivoyvli
+Modern apartment building	Moderni kerrostaloasunto	Novnova leiyltol elo
+Modern electric car	Moderni sähköauto	Novnova sähtuvö
+Modern fashion	Moderni vaatemuoti	Novnova vattyl
+Modern furniture	Moderni kalustus	Novnova tolooste
+Modern metropolis	Moderni metropoli	Novnova pitaunlo
+modestly	häveliäästi	nohfili
+molecular biology	molekyylibiologia	simoikbiodä
+monotonously	monotonisesti	isfimiahli
+morphology	morfologia	kaudav
+morphology	muoto-oppi	kaudav
+Moving-to-new-home	Muutto uuteen kotiin	Erlotuo intu novva bal
+municipal engineering	kunnallistekniikka	diltekda
+music reading skills	nuotinlukutaito	rohökariiklivote
+musical skill	soittotaito	höövlivote
+musicology	musiikkitiede	rohödä
+mycology	mykologia	fungda
+mycology	sienitiede	fungdä
+nastily	nasevasti	obtuli
+National nature park	Kansallinen luonnonpuisto	Hyjva biolopul
+Natural aging	Luonnollinen ikääntyminen	Biova jänriite
+natural cosmetics	luonnonkosmetiikka	biokahakeda
+natural science	luonnonoppi	biolodav
+natural science	luonnontiede	biolodä
+naughtyly	tuhmasti	ahculi
+Nearby elementary school	Läheinen peruskoulu	Rafliva besdavlo
+Negative routine work	Puuduttava rutiinityö	Ejvofiopaava liretö
+Neighborhood	related community	Naapurustoon liittyvä yhteisöllisyys
+neurolinguistics	neurolingvistiikka	daevvosdä
+neurology	hermotautioppi	nervretdav
+neurology	neurologia	nervterda
+New apartment in an apartment building	Uusi kerrostaloasunto	Novva leiyltol elo
+New employee	Uusi työntekijä	Novva tööjo
+New friend	Uusi ystävä	Novva havijo
+New hobby equipment	Uusi harrastusväline	Novva mitevo
+New neighborhood	Uusi naapurusto	Novva siviraflo
+New professional challenge	Uusi ammatillinen haaste	Novva votöva has
+New reading device	Uusi lukulaite	Novva riikvo
+New science news	Uusi tiedeuutinen	Novva dänovsa
+New shopping center	Uusi kauppakeskus	Novva fäfmidlo
+New smartphone	Uusi älypuhelin	Novva vissavö
+New study buddy	Uusi opiskelukaveri	Novva apdav vijo
+Next holiday season	Seuraava lomakausi	Deva urtöno limno
+Nice café	Mukava kahvila	Hamiva kofvemlo
+Nice coworker	Mukava työkaveri	Hamiva tövijo
+Nice leisure time	Mukava vapaa-ajanvietto	Hamiva frino note
+nicely	kiltisti	cuhali
+nicely	mukavasti	hamili
+nicely	sievästi	kaipli
+nobly	suurenmoisesti	pilili
+Noisy city	Meluisa kaupunki	Ahhöva taunlo
+not unreasonably	ymmärrettävästi	dakavoli
+noticeably	tuntuvasti	livofiili
+notoriously	tunnetusti	kavodaali
+nuclear chemistry	ydinkemia	ydinkemda
+nuclear physics	ydinfysiikka	ydinfysda
+nuclear technology	ydintekniikka	ydintekda
+numismatics	numismatiikka	rovda
+nursing science	hoitotiede	hakedä
+nutrition	ravinto-oppi	roemdav
+nutrition science	ravitsemustiede	roeemdä
+Nutritious smoothie	Ravintorikas smoothie	Roemmova smuuthem
+obstetrics	synnytysoppi	tenöedav
+occupational medicine	työlääketiede	töterdä
+offshore technology	offshoretekniikka	lafovamlotekda
+often	monasti	sina
+Old cultural city	Vanha kulttuurikaupunki	Vonva lie taunlo
+Old detached house	Vanha omakotitalo	Vonva öfbaltol
+Old school friend	Vanha koulukaveri	Vonva davlovijovao
+oncology	kasvainoppi	pirevdav
+oncology	onkologia	pirevda
+Online study-related	freedom	Verkko
+Open communication	Avoin kommunikaatio	Oupva vidao
+operationally	operatiivisesti	forteeli
+optics	optiikka	linsda
+optoelectronics	optoelektroniikka	linsipsähda
+oratory	puhetaito	sasalivote
+Ordinary Wednesday	Tavallinen keskiviikko	Resiva ditan
+ore geology	malmigeologia	metkammoldä
+Organic local food	Ekologinen lähiruoka	Ekodäva rafem
+Organization and planning of matters in mind.	Rauhoittava meditaatio	Tepiisva sosoote
+organizational skills	järjestelytaito	sijäärlivote
+orientalism	orientalistiikka	tevhylvosliedaka
+originally	omintakeisesti	ofbesli
+ornithology	lintutiede	sifdä
+otology	korvatautioppi	höevretdav
+out of tune	epäpuhtaasti	ejklinli
+out of turn	sopimattomasti	soopejli
+Own home	Oma omistusasunto	Öfva ööfte elo
+Paid day off	Palkallinen vapaapäivä	Törovva fritan
+painting technique	maalaustekniikka	kämootekda
+paleontology	paleontologia	unbioda
+passionately	kiihkeästi	bönmili
+passionately	kiihkottomasti	bönmiejli
+Passive leisure time	Passiivinen vapaa aika	Ejsiteva frino
+pathology	patologia	retdavda
+pathology	tautioppi	retdav
+Peaceful fishing trip	Rauhallinen kalastusreissu	Öhva fiiste rotuo
+Peaceful natural destination	Rauhallinen luonnonkohde	Öhva biolo obö
+pedagogy	pedagogia	haeöpiirda
+pedagogy	pedagogiikka	haeöpiirda
+pediatrics	lastentautioppi	ipmämretdav
+penetratingly	läpitunkevasti	inlipotuuli
+performance skills	esiintymistaito	autedtukalivote
+perinatology	perinatologia	nöeipnoda
+permanently	väkinäisesti	popitli
+Personal freedom	Henkilökohtainen vapaus	Hojoiplova frivao
+Personal goal	Henkilökohtainen tavoite	Hojoiplova obtrao
+Personal outlook on life	Henkilökohtainen elämänkatsomus	Hojoiplova eokamicu
+Personal record	Henkilökohtainen ennätys	Hojoiplova tunovoote
+Personal style	Henkilökohtainen pukeutumistyyli	Hojoiplova autvaattyl
+petrochemical	petrokemia	oilkemda
+petrology	kivitiede	kamdä
+petrology	petrologia	bönoilmoda
+pharmaceutical science	lääkkeenvalmistusoppi	termotoodav
+pharmacology	farmakologia	termodä
+pharmacology	lääkeaineoppi	termodav
+philology	filologia	vosliedä
+phonetics	fonetiikka	sahöda
+phonetics	äänneoppi	sahödav
+phonics	äänioppi	hödav
+phonology	fonologia	sahödä
+photographic technique	valokuvaustekniikka	katkatoaptekda
+photography skills	kuvaamistaito	katoolivote
+Physical challenge	Fyysinen haaste	Fysva has
+Physical health	Fyysinen terveys	Fysva tervao
+Physical performance	Fyysinen suorite	Fysva tuönte
+physiology	fysiologia	bodevda
+physique	fysiikka	fysda
+plane geometry	tasogeometria	talpiprida
+plant anatomy	kasvianatomia	epvevda
+plant biology	kasvibiologia	epbiodä
+plant ecology	kasviekologia	epekodä
+plant geography	kasvimaantiede	epköldä
+plant pathology	kasvipatologia	epretdavda
+plant pathology	kasvitautioppi	epretdav
+plant physiology	kasvifysiologia	epbodevda
+plasma physics	plasmafysiikka	plasmofysda
+playing technique	soittotekniikka	höövtekda
+pneumatics	pneumatiikka	ögpohomda
+poetic meter	runomittaoppi	kausapipridav
+poetics	poetiikka	sikausadav
+poetics	runousoppi	sikausadav
+Political conviction	Poliittinen vakaumus	Pögöteva pous
+political science	valtio-oppi	pöhyldav
+political science	valtiotiede	pöhyldä
+Poor work atmosphere	Huono työilmapiiri	Ahvova tömiraulo
+Popular audiobook	Suosittu äänikirja	Hapircuuen hökirto
+Popular author	Suosittu kirjailija	Hapircuuen rokiirjo
+Popular console game	Suosittu konsolipeli	Hapircuuen ylkavöple
+Popular domestic tourism	Suosittu kotimaanmatkailu	Hapircuuen balhyl sirotuo
+Popular lunch spot	Suosittu lounaspaikka	Hapircuuen midtanemlo
+Popular meeting place	Suosittu kohtaamispaikka	Hapircuuen obtuulo
+Popular nature destination	Suosittu luontokohde	Hapircuuen biolo
+Popular radio program	Suosittu radio ohjelma	Hapircuuen hödavö prog
+Popular ski resort	Suosittu hiihtokeskus	Hapircuuen lumtuvoomidlo
+Popular social media	Suosittu sosiaalinen media	Hapircuuen sosva  dafafvo
+Popular social-media	Suosittu sosiaalinen media	Hapircuuen sosdafafvo
+Popular tourist trap	Suosittu turistirysä	Hapircuuen rotuojo puofisapvo
+Popular viewpoint	Suosittu näköalapaikka	Hapircuuen vokaleilo lo
+Position-taking Journalism	Kantaaottava Journalismi	Miscuaapva daoteide
+Positive body image	Positiivinen kehonkuva	Ylnulva bodevkato
+powerfully	voimallisesti	polili
+powerlessly	vallattomasti	pöejculi
+Practical vocational school	Käytännöllinen ammattikoulu	Liotevova votödavlo
+pragmatics	pragmatiikka	liotevoida
+precision mechanics	hienomekaniikka	väkamekanda
+predictably	arvattavasti	geesli
+predominantly	vallitsevasti	pönaali
+prejudiced	ennakkoluuloisesti	ennamejusli
+presentation skills	esitystaito	edtukalivote
+presumably	oletettavasti	mejuusli
+Preventive healthcare	Ennaltaehkäisevä terveydenhuolto	Ennaedyyvva terstake
+Previous meeting	Edellinen tapaaminen	Edva ögkaate
+printing technology	kirjapainotekniikka	kirtolötekda
+printing technology	painotekniikka	polykirtekda
+Private courtyard	Yksityinen piha	Isofva tolleilo
+problematic	problematiikka	ongda
+production technology	tuotantotekniikka	tootekda
+Professional continuing education	Ammatillinen täydennyskoulutus	Votöva fulpiirpadav
+professional ethics	ammattietiikka	votörattarda
+Professional networking	Ammatillinen verkostoituminen	Votöva  autvineette
+professionally	ammatillisesti	votöli
+properly	kunnollisesti	hastali
+psychobiology	psykobiologia	miterbiodä
+psycholinguistics	psykolingvistiikka	mistahäpvoscudaka
+psychology	psykologia	miterdä
+psychology	sielutiede	hojdä
+psychopathology	psykopatologia	miretdavda
+Public art work	Julkinen taideteos	Dihva kavtöto
+public health science	kansanterveystiede	hyjterdä
+Public institution	Julkinen oppilaitos	Dihva davlö
+Public space	Julkinen tila	Dihva vosta
+purposefully	määrätietoisesti	ridali
+pyrotechnics	pyrotekniikka	rosbönsuuttekda
+Quality magazine	Laadukas aikakauslehti	Havaova limnodapapr
+Quality olive oil	Laadukas oliiviöljy	Havaova oilpu oilmo
+Quality personal time	Laadukas oma aika	Havaova öfva no
+quantum chemistry	kvanttikemia	kvantkemda
+quantum mechanics	kvanttimekaniikka	kvantmekanda
+quantum physics	kvanttifysiikka	kvantfysda
+questioningly	kysyvästi	kooli
+Quick and smooth packing	Nopeasti sujuva pakkaaminen	Nopli havotuuva pääkte
+Quick meeting	Nopea tapaaminen	Nopva ögkaate
+quickly	metkasti	vildli
+quickly	rutkasti	siri
+quickly	sähäkästi	sadvälejli
+Quickly prepared fast food	Nopeasti valmistuva ruoka	Nopli auttefuulva em
+Quiet evening	Rauhallinen ilta	Öhva ennat
+Quiet neighborhood	Rauhallinen naapurusto	Öhva siviraflo
+quietly	hiljaisesti	öhli
+quite a few	melkoisesti	rafpirili
+racial doctrine	rotuoppi	evaodav
+radiation biology	säteilybiologia	katiikbiodä
+radiation physics	säteilyfysiikka	katiikfysda
+radio astronomy	radiotähtitiede	hödavöklirlodä
+radio technology	radiotekniikka	hödavötekda
+radiochemistry	radiokemia	hödavökemda
+radiology	radiologia	eks-katikda
+radiology	röntgenologia	eks-katikda
+Rainy afternoon	Sateinen iltapäivä	Vamlyva öntan
+Rare natural phenomenon	Harvinainen luonnonilmiö	Hitnava biokauthäp
+Rational thinking	Rationalistinen ajattelu	Visvoideva soote
+rationalism	järkeisoppi	visusdav
+rationally	järkiperäisesti	visbesli
+Reasonable saving	Järkevä säästäminen	Visva ropaoote
+reasonably	järkevästi	visli
+recording technology	äänitystekniikka	höslootekda
+Recruitment-related	process	Rekrytointiin liittyvä prosessi
+Refreshing summer drink	Raikas kesäjuoma	Fresva laknovem
+refrigeration technology	kylmätekniikka	kaltekda
+Regular exercise	Säännöllinen kuntoilu	Regva vostau
+Regular practice	Säännöllinen harjoittelu	Regva sivopiirte
+Regular skin care	Säännöllinen ihonhoito	Regva laev hake
+Regular wake-up routine	Säännöllinen heräämisrutiini	Regva önnuukte liretö
+related science	lähitiede	rafdä
+Relaxed day off	Rento vapaapäivä	Pomakva fritan
+Relaxing beach holiday	Rentouttava rantaloma	Pomaakva vamdim urtöno
+Relaxing gardening	Rentouttava puutarhanhoito	Pomaakva tolsieplohake
+Relaxing massage	Rentouttava hieronta	Pomaakva raabte
+Relaxing swimming trip	Rentouttava uintireissu	Pomaakva vuute rotuo
+Reliable everyday recipe	Luotettava arkiresepti	Uscuva tetan emlida
+Reliable friend	Luotettava ystävä	Uscuva havijo
+religious studies	uskontotiede	usidedä
+Renewable energy technology	Uusiutuva energiateknologia	Autnoovva pori tekdä
+Repeated routine	Toistuva rutiini	Autduteeva liretö
+reportedly	tiettävästi	daavoli
+Reputed university	Arvostettu yliopisto	Rocuuen yldavlö
+Revolutionary invention	Mullistava keksintö	Yllyrääjva ideavooto
+rhetoric	retoriikka	sasavoda
+rheumatology	reumatologia	reumruevretda
+rhythm theory	rytmioppi	rytmdav
+Rich flavor	Täyteläinen maku	Fulliva emfi
+road construction technology	tienrakennustekniikka	tultooltekda
+robotics	robotiikka	vöjoda
+robotics	robottitekniikka	vöjotekda
+Romance studies	romanistiikka	romanvosdaka
+room acoustics	huoneakustiikka	tolikhöda
+row technique	rivitekniikka	leijärtekda
+royally	kuninkaallisesti	roylli
+Rural tranquility	Maaseutumainen rauhallisuus	Nuatliva uohvao
+Russian studies	russistiikka	rusvosliedaka
+ruthlessly	säälimättömästi	hagöahejli
+sadly	murheellisesti	sorli
+Safe living environment	Turvallinen asuinympäristö	Turva eloraulo
+Safe school trip	Turvallinen koulumatka	Turva davlo välturi
+Safe travel country	Turvallinen matkustusmaa	Turva rotuute hyl
+satisfactorily	tyydyttävästi	nidfuuli
+Savory pastry	Suolainen leivonnainen	Kusmova bekto
+Savory snack	Suolainen naposteltava	Kusmova si-ipbiittava
+school grammar	koulukielioppi	davlovosdav
+school medicine	koululääketiede	davloterdä
+school psychology	koulupsykologia	davlomiterdä
+Scientific breakthrough	Tieteellinen läpimurto	Däva inliturek
+Scientific research result	Tieteellinen tutkimustulos	Däva dakautro
+seamanship	merenkulkutaito	fovamtuolivote
+secretly	salamyhkäisesti	dahidcuoli
+security technology	turvatekniikka	turtekda
+seismology	maanjäristysoppi	molpitärdav
+seismology	seismologia	molpitärda
+Selfless morality	Epäitsekäs moraalisuus	Ejauthava cuhahvao
+selflessly	pyyteettömästi	ejauthali
+selflessly	uhrautuvasti	offali
+Self-training	Omatoiminen treenaaminen	Autoteva vohapiirte
+semantics	merkitysoppi	obmarkdav
+semantics	semantiikka	obmarkda
+semiconductor technology	puolijohdetekniikka	duiksähdirmotekda
+semiotics	semiotiikka	tusamarkda
+separation of powers doctrine	vallanjako-oppi	pöiikdav
+serology	serologia	hemovomda
+servo technology	servotekniikka	auttejuspatekda
+Severe food allergy	Vaikea ruoka-allergia	Ongva em ylfiret
+Shared future plan	Yhteinen tulevaisuudensuunnitelma	Viofva neno kasoto
+Shared housework	Jaettu kotityö	Tusipaaen baltö
+Shared living area	Yhteinen oleskelutila	Viofva siootil
+sharp	jyrkästi	jyrli
+shipbuilding technology	laivanrakennustekniikka	vuvötooltekda
+shooting lessons	ampumaoppi	suutdav
+Short commute	Lyhyt työmatka	Ulva törotuori
+short story	novellistiikka	ipkakirda
+Short story collection	Lyhyt novellikokoelma	Ulva ipkakirto siviap
+shortly	töykeästi	ahcuoli
+Side-job entrepreneurship	Sivutoiminen yrittäjyys	Sidoteeva trajovao
+signology	merkkioppi	markdav
+singing ability	laulutaito	hösalivote
+single-mindedly	yksioikoisesti	isgnoli
+skill	erätaito	vildmollivote
+skill	taito	livote
+Slavic studies	slavistiikka	slavvoslieda
+Sleepy Sunday	Unelias sunnuntai	Nukliva jätan
+slippery	lipevästi	gliusali
+slippery	liukkaasti	gliuli
+slowly	verkkaisasti	friponli
+sly	köpelösti	kasli
+Small family dispute	Pieni perheriita	Ipva cejpos
+Small fishing village	Pieni kalastajakylä	Ipva fiisjo cel
+Small handicraft work	Pieni nikkarointityö	Ipva osteetö
+Small housework	Pieni kotityö	Ipva baltö
+small-cycle technology	pienjaksotekniikka	ipveivnotekda
+Smart home device	Älykodin laite	Visbal vö
+Smooth border crossing	Sujuva rajanylitys	Havotuuva limyllituo
+Smooth morning routine	Sujuva aamurutiini	Havotuuva entan liretö
+smoothly	liukuvasti	gliuuli
+social anthropology	sosiaaliantropologia	sosmämda
+social ecology	sosiaaliekologia	sosekodä
+Social interaction	Sosiaalinen kanssakäyminen	Sosva vioteete
+Social justice	Yhteiskunnallinen oikeudenmukaisuus	Visoslova rataflivao
+social medicine	sosiaalilääketiede	sosterdä
+Social network	Sosiaalinen verkosto	Sosva sinet
+social psychology	sosiaalipsykologia	sosmiterdä
+social science	yhteiskuntatiede	visoslodä
+social studies	yhteiskuntaoppi	visoslodav
+sociobiology	sosiobiologia	sosbiodä
+sociolinguistics	sosiolingvistiikka	sosvosdä
+sociology	sosiologia	sosdä
+sociology of language	kielisosiologia	vossosdä
+soil biology	maaperäbiologia	almolbiodä
+soil geology	maaperägeologia	almoldä
+solid geometry	avaruusgeometria	kitilpiprida
+solidly	vankasti	ponitli
+sorely	kipeästi	iprinoli
+sound engineering	äänitekniikka	hötekda
+sound recording technology	äänentallennustekniikka	pönoturpatekda
+sound technology	äänentoistotekniikka	pödutetakda
+sovereignist	suvereenisti	hängejpöli
+space medicine	avaruuslääketiede	kitilterdä
+space technology	avaruustekniikka	kitiltekda
+Special ingredient	Erityinen raaka-aine	Eröva ravmo
+speech technology	puhetekniikka	sasatekda
+speech therapy	puheoppi	sasadav
+Spicy Asian cuisine	Mausteinen aasialainen keittiö	Fiemva asiava kulo
+Spiritual recovery	Henkinen palautuminen	Hosova autretupa
+spiritual science	henkitiede	hodä
+Spiritual spirituality	Henkinen henkisyys	Hosova hosovao
+Spiritual winning	Henkinen voittaminen	Hosova viinte
+sports medicine	urheilulääketiede	routerdä
+State student aid	Valtion opintotuki	Pöhylof apdav suprov
+statesmanship	valtiomiestaito	pöhylmälivote
+statics	statiikka	talhevrida
+statistical mathematics	tilastomatematiikka	nodarisoda
+statistics	statistiikka	nodaridä
+statistics	tilastotiede	nodaridä
+steadily	vakaasti	taloli
+Steinerpedagogy	steinerpedagogiikka	steiner-haeöpiirda
+stiffly	kankeasti	poruli
+strangely	älyttömästi	vovisejli
+Strategic computer game	Strateginen tietokonepeli	Oteliova davöple
+stream of consciousness technique	tajunnanvirtatekniikka	dafituotekda
+strength theory	lujuusoppi	ögpovaodav
+Stressful everyday life	Stressaava arkipäivä	Nervögpova tetan
+Strict child-rearing	Tiukka lastenkasvatus	Urtensva mämsi haeöpiirte
+Strict diet	Tiukka dieetti	Urtensva emvaoto
+Strict special diet	Tiukka erityisruokavalio	Urtensva eröva emvaoto
+structural linguistics	strukturaalikielitiede	litolvosdä
+stubbornly	itsepintaisesti	autögpoli
+stubbornly	jääräpäisesti	ögpäli
+Student life-related	community	Opiskelijaelämään liittyvä yhteisöllisyys
+stylistics	stilistiikka	tyldav
+stylistics	tyylioppi	tyldav
+subtly	ovelasti	visahli
+Successfult Hairdresser visit	Onnistunut kampaajakäynti	Saaken heörjo uttuo
+Sunny weekend	Aurinkoinen viikonloppu	Aurlova gunön
+supposedly	otaksuttavasti	dausli
+sure as a rock	vuorenvarmasti	varmvarmli
+Surprising weather change	Yllättävä säänmuutos	Kasadva nista temuo
+surveying	maanmittausoppi	molpipriapdav
+Sweet chocolate bar	Makea suklaalevy	Suitva suklem leito
+Sweet dessert	Makea jälkiruoka	Suitva de-em
+swimming skills	uimataito	vuulivote
+syntax	lauseoppi	lusadav
+systematics	systematiikka	lijärda
+systems biology	systeemibiologia	lijärbiodä
+tamely	nöyrästi	plyli
+taxonomy	taksonomia	paersioda
+teaching doctrine	opetusoppi	padavdav
+technically	muodollisesti	kauoli
+technique	tekniikka	tekda
+Technological innovation	Teknologinen innovaatio	Tekdäva ideanov
+technology	teknologia	tekdä
+Technology, science  and the future	Teknologia tiede ja tulevaisuus	Tekdä dä a neno
+Teenage challenge	Teini	ikään liittyvä haaste
+telecommunications	teletekniikka	fartusatekda
+telematics	telematiikka	fartusapiprida
+telemedicine	telelääketiede	fartusaterdä
+tellingly	sanottavasti	saali
+tensely	kireästi	tensli
+terribly	kamalasti	hirli
+text linguistics	tekstilingvistiikka	kirvosdä
+thematics	tematiikka	obsoda
+theology	teologia	usdä
+thermochemistry	lämpökemia	lakkemda
+thermochemistry	termokemia	lakkemda
+thermodynamics	lämpöoppi	lakdav
+thermodynamics	termodynamiikka	lakporimuoda
+thin film technology	ohutkalvotekniikka	tinlaototekda
+thoughtfully	huomaavaisesti	cuvokaali
+threefold	kolminkertaisesti	trenoli
+Tight deadline	Tiukka määräaika	Urtensva rino
+tissue theory	kudosoppi	vivevdav
+to admiration	ihailtavasti	fainkavoli
+to good purpose	hyödyllisesti	göroli
+Tough exam week	Tiukka tenttiviikko	Urtensva davotra gun
+toxicology	toksikologia	toksmodä
+Traditional Christmas dish	Perinteinen jouluruoka	Enliova julnoem
+Traditional detached house	Perinteinen omakotitalo	Enliova öfbaltol
+Traditional family Christmas	Perinteinen perhejoulu	Enliova bajjulno
+Traditional harvest festival	Perinteinen sadonkorjuujuhla	Enliova vilafap rono
+Traditional holiday	Perinteinen juhlapäivä	Enliova ronotan
+Traditional home cooking	Perinteinen kotiruoka	Enliova balem
+Traditional market hall	Perinteinen kauppahalli	Enliova fäfleitol
+Traditional office work	Perinteinen toimistotyö	Enliova otelo tö
+Traditional piano	Perinteinen piano	Enliova pianhöv
+Traditional religion	Perinteinen uskonto	Enliova uside
+traditional science	perinnetiede	enliodä
+Traditional ski trip	Perinteinen hiihtoretki	Enliova lumtuvoote  nirotuo
+Traditional tent trip	Perinteinen telttaretki	Enliova vattol nirotuo
+Traditional travel agency	Perinteinen matkatoimisto	Enliova rotuo-otelo
+traffic engineering	liikennetekniikka	tustatekda
+translation studies	käännöstiede	vosmuodä
+Travel and places	Matkustaminen paikat	Rotuute losi
+Travel-related nostalgia	Matkustamiseen liittyvä nostalgia	Intu rotuute rutuuva farofra
+tremendously	huimasti	ylhirli
+Trendy street food stall	Trendikäs katuruokakoju	Häpdirva tauntulem lida
+trigonometry	trigonometria	trerisoda
+Trinity doctrine	kolminaisuusoppi	vitrevaodav
+Turquoise sea water	Turkoosi merivesi	Grinbluva fovam
+Typical weekday	Tyypillinen arkipäivä	Typva tetan
+typography	kirjapainotaito	kirtolölivote
+typology	typologia	typdav
+typology	tyyppioppi	typdav
+Ugricism	ugristiikka	ugrvoshyjdaka
+unauthorized	luvattomasti	ejpöaafli
+uncomplicatedly	mutkattomasti	ierloejli
+unfavorably	epäedullisesti	ejedroli
+Unforgettable holiday trip	Unohtumaton lomamatka	Öösenejva urtöno rotuo
+Unhealthy treat day	Epäterveellinen herkkupäivä	Ejterliva haemtan
+universal science	universaalitiede	kiköldä
+Unlikely lottery win	Epätodennäköinen arpavoitto	Ejrilvokava gestovin
+unlimited	rajattomasti	limejli
+unnecessarily	aiheettomasti	obsoejli
+unsatisfactory	epätyydyttävästi	ejnidfulli
+Unstable weather	Epävakaa sää	Ejtalova nista
+Upward career development	Nousujohteinen urakehitys	Yyldirva eolukäv dev
+Urban lifestyle	Urbaani elämäntapa	Taunliva eolio
+urban planning	asemakaavaoppi	culokasotodav
+urgently	kiireesti	iprinoli
+urology	urologia	urevomda
+Useful mobile application	Hyödyllinen mobiilisovellus	Görova uovisavö daforsopto
+Useful skill	Hyödyllinen taito	Görova livote
+usually	tavanomaisesti	resilioli
+Valid travel document	Voimassaoleva matkustusasiakirja	Inpoova rotuute sokir
+Values, philosophy and dreams	Arvot filosofia ja unelmat	Rosi eovisda a nukobsi
+Variable weather forecast	Vaihteleva sääennuste	Siermuuva nista ennesa
+Warm summer day	Lämmin kesäpäivä	Lakva laknotan
+Warm trip to the south	Lämmin etelänmatka	Lakva ronrotuo
+Waste	reducing cooking	Hävikkiä vähentävä kokkaus
+weapons technology	asetekniikka	sipvotekda
+Weekly shopping trip	Jokaviikkoinen kauppareissu	Kigunva fäfrotuo
+weightily	painavasti	hevli
+well	reilusti	haroculi
+venereology	venerologia	cejsidretda
+Versatile breakfast	Monipuolinen aamiainen	Sisidva entanem
+Versatile sport	Monipuolinen urheilulaji	Sisidva rouvaik
+Versatile vitamin supplement	Monipuolinen vitamiinilisä	Sisidva eogömo pirob
+veterinary medicine	eläinlääketiede	peterdä
+White sandy beach	Valkoinen hiekkaranta	Vitva hiekvamdim
+wickedly	jumalattomasti	hajoejli
+widely	laveasti	leili
+video technology	videotekniikka	kahötotekda
+Vigorous cycling trip	Vauhdikas pyöräilylenkki	Nopteva darauute turou
+virology	virologia	virda
+virology	virusoppi	virdav
+Virtual friendship	Virtuaalinen kaverisuhde	Firilva vijovicu
+Virtual game world	Virtuaalinen pelimaailma	Firilva pleköl
+Virtual reality	Virtuaalinen todellisuus	Firilva rilvao
+Visual effect	Visuaalinen tehoste	Kaliva povopiirob
+vitally	ratkaisevasti	gnooli
+with a will	tarmokkaasti	joporili
+with difficulty	vaikeasti	ongli
+with ease	vaivattomasti	tesafejli
+with finesse	taidokkaasti	livoteli
+with grace	viehkeästi	karali
+with little gesture	vähäeleisesti	ipricukali
+with one voice	yksimielisesti	ismili
+with pride	ylpeästi	ylpli
+with reservations	varauksellisesti	reslili
+with restraint	hillitysti	ipyyvli
+with unruffled calm	tyynesti	uohli
+without favor	puolueettomasti	gösioejli
+without prejudice	ennakkoluulottomasti	ennamejusejli
+witty	nokkelasti	nopvisli
+vocabulary	sanasto-oppi	sisatodav
+Voluntary charity work	Vapaaehtoinen hyväntekeväisyystyö	Friofrava hateevaotö
+wonderfully	upeasti	kaylli
+wood chemistry	puukemia	pukemda
+wood technology	puuteknologia	pumtekdä
+work psychology	työpsykologia	tömiterdä
+Work, study and career	Työ opiskelu ja ura	Tö apdav a lukäv
+workmanship	ammattitaito	votölivote
+Work-related-uncertainty	Työelämään liittyvä epävarmuus	Töeo rutuuva  ejvarmvao
+worldwide	maailmanlaajuisesti	kölleili
+X-ray diagnostics	röntgendiagnostiikka	eks-katikretkada
+Youngster's independence	Nuoren itsenäistyminen	Nujo autnamuo
+yours truly	kunnioittavasti	honrooli
+Youthful hostel accommodation	Nuorekas hostellimajoitus	Nuliva lyrovva vioftil rotuotol paiptoolte
+zoogeography	eläinmaantiede	peköldä
+zoology	eläinoppi	pedav
+zoology	eläintiede	pedä
