@@ -23,7 +23,7 @@ Genitiv with -of suffix and of preposition.	Genetiivi -of päätteellä ja of pr
 I, my. Matti, Matti's.	Minä, minun. Matti, Matin.	Aj, ajof. Matti. Mattiof.
 Matti's and Maija's car is better to say: Tuvö of Matti a Maija.	Matin ja Maijan auto on parempi sanoa: Tuvö of Matti a Maija.	Mattiof a Majaof tuvö oo hapir saa: Tuvö of Matti a Maija.
 Often a genitive is not needed, even when used in Finnish or in English.	Usein ei tarvita genetiiviä, vaikka suomen tai englannin kielessä käytetään.	Tihna ej niidta ofsa, tajli in fin or in eng teoota.
-overgrowth of a cell	solun ylikasvu	solof ylpir = sol ylpiirte
+overgrowth of a cell	solun ylikasvu	solof ylpiirte = sol ylpiirte
 There are no genera or cases. Case is expressed by a preposition and postposition, which can be connected also to the root word.	Sukuja ja sijamuotoja ei ole. Sijat ilmaistaan prepositioilla ja postpositioilla, joita voidaan liittää myös juurisanaan.	Cejsi a culosakausi ej oo. Culosakausi kautsaata vi edsasi a desasi, kosi voota rupaa ali tu jursa.
 Articles	Artikkelit	Defsasi
 There are no articles, but equivalent expressions are obtained by pointing pronouns.	Artikkeleita ei ole, mutta niitä vastaavia ilmaisuja saadaan osoittavilla pronomineilla.	Defsasi ej oo, mut itsi lireobva kautsasi aafta tukaava cuosasi.
