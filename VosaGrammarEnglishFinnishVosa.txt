@@ -1,105 +1,105 @@
 Vosa Grammar	Vosan Kielioppi	Vosa Vosdav
-Copyright Veikko J. Pyhtil‰, Finland, 7.11.2024.	Tekij‰noikeus Veikko J. Pyhtil‰, Suomi, 7.11.2024.	Toojorataf Veikko J. Pyhtil‰, Finlo, 7.11.2024.
-The grammar is short because this language is regular and simple.	Kielioppi on lyhyt, koska t‰m‰ kieli on s‰‰nnˆnmukainen ja yksinkertainen.	Vosdav oo ulva, syfor t‰ vos oo pˆregliva a isgnova.
-Sounds and Letters	ƒ‰ntiˆt ja kirjaimet	Sahˆsi a kirkasi
-a, b, c (voiced s), d, e, f, g, h, i, j, k, l, m, n o, p, r, s, t, u, v, y, ‰, ˆ.	a, b, c (soinnillinen s ), d, e, f, g, h, i, j, k, l, m, n o, p, r, s, t, u, v, y, ‰, ˆ.	a, b, c (cˆynva-s), d, e, f, g, h, i, j, k, l, m, n o, p, r, s, t, u, v, y, ‰, ˆ.
-So there are 16 consonants and vowels 8, for a total of 24 letters.	Siis konsonantteja on 16 ja vokaaleja 8, yhteens‰ 24 kirjainta.	Syklirli konssi oo 16 a vousi oo 8, virili 24 kirkasi.
-Letters of proper nouns are changed or they can be left as they are.	Erisnimien kirjaimet muutetaan tai ne voidaan j‰tt‰‰ ennalleen.	Ersasi kirkasi temuuta taj itsi voota tej‰‰ enli.
-q > kv, w > vu, x > ks, Z > ts Â > oo and other possible characters.	q > kv, w > vu, x > ks, Z > ts Â > oo ja muut mahdolliset merkit.	q > kv, w > vu, x > ks, Z > ts Â > oo a tuasi vova marksi.
-Alphabetical order: a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, r, s, t, u, v, y, ‰, ˆ.	Aakkosj‰rjestys: a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, r, s, t, u, v, y, ‰, ˆ.	A-ˆj‰r: a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, r, s, t, u, v, y, ‰, ˆ.
-Letters pronouncing: aa, bee, cee (voiced s ), dee, ee, ef, gee, hoo, ii, jii, koo, el, em, en, oo, pee, er, es, tee, uu, vee, yy, ‰‰, ˆˆ.	Kirjaimien ‰‰nt‰minen: aa, bee, cee (soinnillinen s ), dee, ee, ef, gee, hoo, ii, jii, koo, el, em, en, oo, pee, er, es, tee, uu, vee, yy, ‰‰, ˆˆ.	Kirkasi sahˆˆte: aa, bee, cee (cˆyhva s), dee, ee, ef, gee, hoo, ii, jii, koo, el, em, en, oo, pee, er, es, tee, uu, vee, yy, ‰‰, ˆˆ.
-Pronunciation is based on the Finnish pronunciation, but ö = sh in Vosa. 	ƒ‰nt‰minen on suomen kielen ‰‰nt‰misen mukaan. 	Sahˆˆte oo li fin sahˆˆte. 
-Words are pronounced as they are written. Except: Ang-sound of the called nk and ng . C is n-voiced s, mouth -s is expressed by sh.	Sanat ‰‰nnet‰‰n niin kuin ne kirjoitetaan. Paitsi: ƒng-‰‰nne nk ja ng. C on n soinnillinen s, suhu-s ilmaistaan sh:lla.	Sasi sahˆˆta li itsi kiirta. ÷ej: ƒng-sahˆ nk a ng. C oo cˆyhva s, shu-s kautsaata vy sh.
-The accent of a word is usually on the first syllable, but you can freely emphasize different syllables in the speech, which gives emphasis. 	Sanan paino on yleens‰ ensimm‰isell‰ tavulla, mutta puheessa voi vapaasti painottaa eri tavuja, jolloin saadaan korostuksia aikaan.	Saof lypo oo tihna la isva saik, mut in sasa voo frili lypoo er saiksi, kona tonoaafta lyposi. 
-When spelling letters, they may have nuances in different languages 	Kirjaimia ‰‰nnett‰ess‰ voi niiss‰ olla eri kieliss‰ olevia vivahteita,	Na kirkasi sahˆˆta voo in itsi oo in er vosasi oova vaoipsi, 
-as long as they are only distinguished by their basic pronunciation and are recognized as the same letter.	kunhan ne vain perus‰‰nt‰mykselt‰‰n erottuvat ja tunnistetaan samaksi kirjaimeksi.	na a itsi erisli in bessahˆˆte autervokaa a vokadaata re kirka.
+Copyright Veikko J. Pyhtil√§, Finland, 7.11.2024.	Tekij√§noikeus Veikko J. Pyhtil√§, Suomi, 7.11.2024.	Toojorataf Veikko J. Pyhtil√§, Finlo, 7.11.2024.
+The grammar is short because this language is regular and simple.	Kielioppi on lyhyt, koska t√§m√§ kieli on s√§√§nn√∂nmukainen ja yksinkertainen.	Vosdav oo ulva, syfor t√§ vos oo p√∂regliva a isgnova.
+Sounds and Letters	√Ñ√§nti√∂t ja kirjaimet	Sah√∂si a kirkasi
+a, b, c (voiced s), d, e, f, g, h, i, j, k, l, m, n o, p, r, s, t, u, v, y, √§, √∂.	a, b, c (soinnillinen s ), d, e, f, g, h, i, j, k, l, m, n o, p, r, s, t, u, v, y, √§, √∂.	a, b, c (c√∂ynva-s), d, e, f, g, h, i, j, k, l, m, n o, p, r, s, t, u, v, y, √§, √∂.
+So there are 16 consonants and vowels 8, for a total of 24 letters.	Siis konsonantteja on 16 ja vokaaleja 8, yhteens√§ 24 kirjainta.	Syklirli konssi oo 16 a vousi oo 8, virili 24 kirkasi.
+Letters of proper nouns are changed or they can be left as they are.	Erisnimien kirjaimet muutetaan tai ne voidaan j√§tt√§√§ ennalleen.	Ersasi kirkasi temuuta taj itsi voota tej√§√§ enli.
+q > kv, w > vu, x > ks, Z > ts √• > oo and other possible characters.	q > kv, w > vu, x > ks, Z > ts √• > oo ja muut mahdolliset merkit.	q > kv, w > vu, x > ks, Z > ts √• > oo a tuasi vova marksi.
+Alphabetical order: a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, r, s, t, u, v, y, √§, √∂.	Aakkosj√§rjestys: a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, r, s, t, u, v, y, √§, √∂.	A-√∂j√§r: a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, r, s, t, u, v, y, √§, √∂.
+Letters pronouncing: aa, bee, cee (voiced s ), dee, ee, ef, gee, hoo, ii, jii, koo, el, em, en, oo, pee, er, es, tee, uu, vee, yy, √§√§, √∂√∂.	Kirjaimien √§√§nt√§minen: aa, bee, cee (soinnillinen s ), dee, ee, ef, gee, hoo, ii, jii, koo, el, em, en, oo, pee, er, es, tee, uu, vee, yy, √§√§, √∂√∂.	Kirkasi sah√∂√∂te: aa, bee, cee (c√∂yhva s), dee, ee, ef, gee, hoo, ii, jii, koo, el, em, en, oo, pee, er, es, tee, uu, vee, yy, √§√§, √∂√∂.
+Pronunciation is based on the Finnish pronunciation, but ≈° = sh in Vosa. 	√Ñ√§nt√§minen on suomen kielen √§√§nt√§misen mukaan. 	Sah√∂√∂te oo li fin sah√∂√∂te. 
+Words are pronounced as they are written. Except: Ang-sound of the called nk and ng . C is n-voiced s, mouth -s is expressed by sh.	Sanat √§√§nnet√§√§n niin kuin ne kirjoitetaan. Paitsi: √Ñng-√§√§nne nk ja ng. C on n soinnillinen s, suhu-s ilmaistaan sh:lla.	Sasi sah√∂√∂ta li itsi kiirta. √ñej: √Ñng-sah√∂ nk a ng. C oo c√∂yhva s, shu-s kautsaata vy sh.
+The accent of a word is usually on the first syllable, but you can freely emphasize different syllables in the speech, which gives emphasis. 	Sanan paino on yleens√§ ensimm√§isell√§ tavulla, mutta puheessa voi vapaasti painottaa eri tavuja, jolloin saadaan korostuksia aikaan.	Saof lypo oo tihna la isva saik, mut in sasa voo frili lypoo er saiksi, kona tonoaafta lyposi. 
+When spelling letters, they may have nuances in different languages 	Kirjaimia √§√§nnett√§ess√§ voi niiss√§ olla eri kieliss√§ olevia vivahteita,	Na kirkasi sah√∂√∂ta voo in itsi oo in er vosasi oova vaoipsi, 
+as long as they are only distinguished by their basic pronunciation and are recognized as the same letter.	kunhan ne vain perus√§√§nt√§mykselt√§√§n erottuvat ja tunnistetaan samaksi kirjaimeksi.	na a itsi erisli in bessah√∂√∂te autervokaa a vokadaata re kirka.
 Nouns	Substantiivit	Osasi
-The verb becomes a noun by removing the vowel doubling or appending -so, -o or -te suffixes .	Verbist‰ tulee substantiivi ottamalla vokaalinkahdennus pois tai liitt‰m‰ll‰ -so, -o tai -te-p‰‰tteet.	Tesa muu tu osa vy aap ur vouduute taj vy rupaa -so, -o taj -te -ˆnsasi.
-The adjective becomes a noun by connecting the -o suffix .	Adjektiivista tulee substantiivi liitt‰m‰ll‰ o -p‰‰te. 	Vasa muu tu osa vy rupaa -o ˆnsa. 
-good, goodness	hyv‰, hyvyys	hava, havao 
-Plural with -si suffix. Collective with the prefix si-.	Monikko si-p‰‰tteell‰. Kollektiivi si-alkuliitteell‰.	Sisakau vi -si ˆnrupa. Sivio vi si-ˆnrupa.
+The verb becomes a noun by removing the vowel doubling or appending -so, -o or -te suffixes .	Verbist√§ tulee substantiivi ottamalla vokaalinkahdennus pois tai liitt√§m√§ll√§ -so, -o tai -te-p√§√§tteet.	Tesa muu tu osa vy aap ur vouduute taj vy rupaa -so, -o taj -te -√∂nsasi.
+The adjective becomes a noun by connecting the -o suffix .	Adjektiivista tulee substantiivi liitt√§m√§ll√§ o -p√§√§te. 	Vasa muu tu osa vy rupaa -o √∂nsa. 
+good, goodness	hyv√§, hyvyys	hava, havao 
+Plural with -si suffix. Collective with the prefix si-.	Monikko si-p√§√§tteell√§. Kollektiivi si-alkuliitteell√§.	Sisakau vi -si √∂nrupa. Sivio vi si-√∂nrupa.
 word, words, vocabulary	sana, sanat, sanasto	sa, sasi, sisato
-Genitiv with -of suffix and of preposition.	Genetiivi -of p‰‰tteell‰ ja of prepositiolla.	Ofsa vi -of ˆnrupa a of edsa.
-I, my. Matti, Matti's.	Min‰, minun. Matti, Matin.	Aj, ajof. Matti. Mattiof.
-Matti's and Maija's car is better to say: Tuvˆ of Matti a Maija.	Matin ja Maijan auto on parempi sanoa: Tuvˆ of Matti a Maija.	Mattiof a Majaof tuvˆ oo hapir saa: Tuvˆ of Matti a Maija.
-Often a genitive is not needed, even when used in Finnish or in English.	Usein ei tarvita genetiivi‰, vaikka suomen tai englannin kieless‰ k‰ytet‰‰n.	Tihna ej niidta ofsa, tajli in fin or in eng teoota.
-overgrowth of a cell	solun ylikasvu	solof ylpir = sol ylpir
-There are no genera or cases. Case is expressed by a preposition and postposition, which can be connected also to the root word.	Sukuja ja sijamuotoja ei ole. Sijat ilmaistaan prepositioilla ja postpositioilla, joita voidaan liitt‰‰ myˆs juurisanaan.	Cejsi a culosakausi ej oo. Culosakausi kautsaata vi edsasi a desasi, kosi voota rupaa ali tu jursa.
+Genitiv with -of suffix and of preposition.	Genetiivi -of p√§√§tteell√§ ja of prepositiolla.	Ofsa vi -of √∂nrupa a of edsa.
+I, my. Matti, Matti's.	Min√§, minun. Matti, Matin.	Aj, ajof. Matti. Mattiof.
+Matti's and Maija's car is better to say: Tuv√∂ of Matti a Maija.	Matin ja Maijan auto on parempi sanoa: Tuv√∂ of Matti a Maija.	Mattiof a Majaof tuv√∂ oo hapir saa: Tuv√∂ of Matti a Maija.
+Often a genitive is not needed, even when used in Finnish or in English.	Usein ei tarvita genetiivi√§, vaikka suomen tai englannin kieless√§ k√§ytet√§√§n.	Tihna ej niidta ofsa, tajli in fin or in eng teoota.
+overgrowth of a cell	solun ylikasvu	solof ylpir = sol ylpiirte
+There are no genera or cases. Case is expressed by a preposition and postposition, which can be connected also to the root word.	Sukuja ja sijamuotoja ei ole. Sijat ilmaistaan prepositioilla ja postpositioilla, joita voidaan liitt√§√§ my√∂s juurisanaan.	Cejsi a culosakausi ej oo. Culosakausi kautsaata vi edsasi a desasi, kosi voota rupaa ali tu jursa.
 Articles	Artikkelit	Defsasi
-There are no articles, but equivalent expressions are obtained by pointing pronouns.	Artikkeleita ei ole, mutta niit‰ vastaavia ilmaisuja saadaan osoittavilla pronomineilla.	Defsasi ej oo, mut itsi lireobva kautsasi aafta tukaava cuosasi.
-This, that, that, these, those, those.	T‰m‰, tuo, se, n‰m‰, nuo, ne.	T‰, ‰t, it, t‰si, ‰tsi, itsi.
-The word ˆ can also express indefiniteness.	Sana ˆ voi myˆs ilmaista ep‰m‰‰r‰isyytt‰.	Sa ˆ voo ali kautsaa kratvao.
+There are no articles, but equivalent expressions are obtained by pointing pronouns.	Artikkeleita ei ole, mutta niit√§ vastaavia ilmaisuja saadaan osoittavilla pronomineilla.	Defsasi ej oo, mut itsi lireobva kautsasi aafta tukaava cuosasi.
+This, that, that, these, those, those.	T√§m√§, tuo, se, n√§m√§, nuo, ne.	T√§, √§t, it, t√§si, √§tsi, itsi.
+The word √∂ can also express indefiniteness.	Sana √∂ voi my√∂s ilmaista ep√§m√§√§r√§isyytt√§.	Sa √∂ voo ali kautsaa kratvao.
 Adjectives	Adjektiivit	Vasasi
-All adjectives have the ending -va . 	Kaikilla adjektiiveilla on loppuliite -va. 	Ki vasasi oof ˆnrupa -va.
-If the suffix -va is in other places of a word, it is no longer an adjective. Exception kva = 4.	Jos va-liite on muissa kohdissa sanaa, se ei ole en‰‰ adjektiivi. Poikkeus kva = 4.	If va-ˆnsa oo in tua losi sa, it ejpirnen oo vasa. Ejre kva = 4.
-And the -va suffix may not form words other than adjectives. 	Ja va-loppuliitteell‰ ei saa muodostaa muita sanoja kuin adjektiiveja.	A vy va-ˆnrupa ej aaf kautee tua sasi li vasasi.
-The comparative is formed by the suffix -pir = more and superlative by the suffix -st = most. They will be attached by removing -va.	Komparatiivi muodostetaan loppuliitteell‰: -pir. Superlatiivi muodostetaan -st loppuliittell‰. Ne liitet‰‰n, ottamalla pois -va.	Pirkau kauteeta vy ˆnrupa -pir = pipir a stkau vy -st pist ˆnrupa . Itsi rupaata vy aap yr -va.
+All adjectives have the ending -va . 	Kaikilla adjektiiveilla on loppuliite -va. 	Ki vasasi oof √∂nrupa -va.
+If the suffix -va is in other places of a word, it is no longer an adjective. Exception kva = 4.	Jos va-liite on muissa kohdissa sanaa, se ei ole en√§√§ adjektiivi. Poikkeus kva = 4.	If va-√∂nsa oo in tua losi sa, it ejpirnen oo vasa. Ejre kva = 4.
+And the -va suffix may not form words other than adjectives. 	Ja va-loppuliitteell√§ ei saa muodostaa muita sanoja kuin adjektiiveja.	A vy va-√∂nrupa ej aaf kautee tua sasi li vasasi.
+The comparative is formed by the suffix -pir = more and superlative by the suffix -st = most. They will be attached by removing -va.	Komparatiivi muodostetaan loppuliitteell√§: -pir. Superlatiivi muodostetaan -st loppuliittell√§. Ne liitet√§√§n, ottamalla pois -va.	Pirkau kauteeta vy √∂nrupa -pir = pipir a stkau vy -st pist √∂nrupa . Itsi rupaata vy aap yr -va.
 big, bigger, biggest	suuri, suurempi, suurin	piva, pipir, pist
-more, less	enemm‰n, v‰hemm‰n	pir, rip
-Increase, decrease	kasvaa, v‰henty‰	piir, riip
+more, less	enemm√§n, v√§hemm√§n	pir, rip
+Increase, decrease	kasvaa, v√§henty√§	piir, riip
 Numerals	Lukusanat	Sisasi
-1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 20, 24, 100, 102, 1000, 1200, million, billion, tera, peta, exa	1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 20, 24, 100, 102, 1000, 1200, miljoona, miljardi, tera, peta, eksa	is, du, tre, kva, fiv, sik, sev, aht, nan, bas, basis, basdu, dubaskva, ces, cesdu, dis, disduces, fos, gus, hys, j‰s, kˆs.
-The rating system is used to derive the words in consecutive series, by the next prefixe:. ba-, ce-, di-, fo- , gu-, hy-, j‰-, kˆ-. 	Luokitusj‰rjestelm‰n avulla johdetaan sanoja per‰kk‰isin‰ sarjoina, seuraavilla etuliitteill‰: ba-, ce-, di-, fo- , gu-, hy-, j‰-, kˆ-.	Vy paersioote lij‰r deriivta sasi li eddeva serisi, vy deva edrupasi: ba-, ce-, di-, fo- , gu-, hy-, j‰-, kˆ-.
-Multiples of numerals is obtained by the following words: deka, hehto, kilo, mega, giga, tera, peta, eksa.	Lukujen monikerta on saatu seuraavilla sanoilla: deka, hehto, kilo, mega, giga, tera, peta, eksa	Sivaosi of siˆsa aafta vy deva sasi: bas, ces, dis, fos, gus, hys, j‰s, kˆs
-The sequence numbers are formed by the -va suffix. 	J‰rjestysluvut muodostetaan va-p‰‰tteell‰. Isva, treva = Ensimm‰inen, kolmas.	J‰rsisasi kauteeta vy -va ˆnrupa. First, third = Isva, treva.
-The parts are formed by the -ik-suffix. Half, quarter, ppm (micro). 	Osat muodostetaan -ik-p‰‰tteell‰. Puoli, nelj‰nnes, miljoonasosa (mikro)	Iksi kauteeta vy -ik-ˆnrupa. Duik, kvaik, fosik.
-10-1, 10-2, 10-3, 10-6, 10-9,10-12, 10-15, 10-18.	10-1, 10-2, 10-3, 10-6, 10-9,10-12, 10-15, 10-18.	Basik, cesik, disik, fosik, gusik, hysik, j‰sik, kˆsik
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 20, 24, 100, 102, 1000, 1200, million, billion, tera, peta, exa	1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 20, 24, 100, 102, 1000, 1200, miljoona, miljardi, tera, peta, eksa	is, du, tre, kva, fiv, sik, sev, aht, nan, bas, basis, basdu, dubaskva, ces, cesdu, dis, disduces, fos, gus, hys, j√§s, k√∂s.
+The rating system is used to derive the words in consecutive series, by the next prefixe:. ba-, ce-, di-, fo- , gu-, hy-, j√§-, k√∂-. 	Luokitusj√§rjestelm√§n avulla johdetaan sanoja per√§kk√§isin√§ sarjoina, seuraavilla etuliitteill√§: ba-, ce-, di-, fo- , gu-, hy-, j√§-, k√∂-.	Vy paersioote lij√§r deriivta sasi li eddeva serisi, vy deva edrupasi: ba-, ce-, di-, fo- , gu-, hy-, j√§-, k√∂-.
+Multiples of numerals is obtained by the following words: deka, hehto, kilo, mega, giga, tera, peta, eksa.	Lukujen monikerta on saatu seuraavilla sanoilla: deka, hehto, kilo, mega, giga, tera, peta, eksa	Sivaosi of si√∂sa aafta vy deva sasi: bas, ces, dis, fos, gus, hys, j√§s, k√∂s
+The sequence numbers are formed by the -va suffix. 	J√§rjestysluvut muodostetaan va-p√§√§tteell√§. Isva, treva = Ensimm√§inen, kolmas.	J√§rsisasi kauteeta vy -va √∂nrupa. First, third = Isva, treva.
+The parts are formed by the -ik-suffix. Half, quarter, ppm (micro). 	Osat muodostetaan -ik-p√§√§tteell√§. Puoli, nelj√§nnes, miljoonasosa (mikro)	Iksi kauteeta vy -ik-√∂nrupa. Duik, kvaik, fosik.
+10-1, 10-2, 10-3, 10-6, 10-9,10-12, 10-15, 10-18.	10-1, 10-2, 10-3, 10-6, 10-9,10-12, 10-15, 10-18.	Basik, cesik, disik, fosik, gusik, hysik, j√§sik, k√∂sik
 Pronouns	Pronominit	Cuosasi
-something, a, an	jokin	ˆ
+something, a, an	jokin	√∂
 nobody	kukaan	ejjo
-nothing	mik‰‰n	ejko
+nothing	mik√§√§n	ejko
 few	muutama	ipsi
-what ever	mik‰ tahansa	ko sattaj
+what ever	mik√§ tahansa	ko sattaj
 all, every	kaikki, jokainen	ki, kijo
-I, you, he / she, we, you, they. No inflexions.	Min‰, sin‰, h‰n, me, te, he. Ei taivutusmuotoja.	Aj, ja, h‰, ajsi, jasi, h‰si. Ej sakausi.
-This, that, it, these, those, they. No inflexions.	T‰m‰, tuo, se, n‰m‰, nuo, ne. Ei taivutusmuotoja.	T‰, ‰t, it, t‰si, ‰tsi, itsi. Ej sakausi.
-Ownership is obtained by attaching the of suffix to the pronoun.	Omistus saadaan liitt‰m‰ll‰ of-p‰‰te pronominiin.	Oofo aafta vy rupaa of-ˆnsa tu cuosa.
-who , which	joka, mik‰	kojo, ko
-Self and other = aut- and tua-, are connected to verbs, when the verb changes meaning.	Itse ja muu = aut-ja tua-, liitet‰‰n verbeihin, jolloin verbin merkitys muuttuu.	Aut- a tua-, rupaata tu tesasi, kona tesa obmark muu.
+I, you, he / she, we, you, they. No inflexions.	Min√§, sin√§, h√§n, me, te, he. Ei taivutusmuotoja.	Aj, ja, h√§, ajsi, jasi, h√§si. Ej sakausi.
+This, that, it, these, those, they. No inflexions.	T√§m√§, tuo, se, n√§m√§, nuo, ne. Ei taivutusmuotoja.	T√§, √§t, it, t√§si, √§tsi, itsi. Ej sakausi.
+Ownership is obtained by attaching the of suffix to the pronoun.	Omistus saadaan liitt√§m√§ll√§ of-p√§√§te pronominiin.	Oofo aafta vy rupaa of-√∂nsa tu cuosa.
+who , which	joka, mik√§	kojo, ko
+Self and other = aut- and tua-, are connected to verbs, when the verb changes meaning.	Itse ja muu = aut-ja tua-, liitet√§√§n verbeihin, jolloin verbin merkitys muuttuu.	Aut- a tua-, rupaata tu tesasi, kona tesa obmark muu.
 one another, others to each other	toinen toistaan, toiset toisiaan	obki tua, obki tuasi
 English	Finnish	Vosa
-a	jokin	ˆ
-a	muuan	ˆ
+a	jokin	√∂
+a	muuan	√∂
 a few	jokunen	ipsi
-about him	h‰nest‰	ˆb h‰
-about me	minusta	ˆb aj
-about other	muusta	ˆb tua
-about those	niist‰	ˆb itsi
-about us	meist‰	ˆb ajsi
+about him	h√§nest√§	√∂b h√§
+about me	minusta	√∂b aj
+about other	muusta	√∂b tua
+about those	niist√§	√∂b itsi
+about us	meist√§	√∂b ajsi
 additional	muu	tua
 all	kaikki	ki
 all	koko	kio
 all of	kaikki	ki
 all of it	kaikki tyynni	kiki
 among other things	muun muassa	intuasi
-an	er‰s	ˆ
-an	jokin	ˆ
+an	er√§s	√∂
+an	jokin	√∂
 another	toinen	tua
-any	joku	ˆjo
-any	mik‰‰n	ejˆ
-anybody	joku	ˆjo
-anybody	ket‰‰n	ejjo
-anyone	joku	ˆjo
+any	joku	√∂jo
+any	mik√§√§n	ej√∂
+anybody	joku	√∂jo
+anybody	ket√§√§n	ejjo
+anyone	joku	√∂jo
 anyone	kuka tahansa	kojo sattaj
 anyone	kukaan	ejkojo
-anything	jokin	ˆ
-anything	mist‰‰n	ejˆ
-anything	mit‰‰n	ejˆ
-anything else	mik‰‰n muu	ejˆ tua
-anywhere	mihink‰‰n	ejkointu
+anything	jokin	√∂
+anything	mist√§√§n	ej√∂
+anything	mit√§√§n	ej√∂
+anything else	mik√§√§n muu	ej√∂ tua
+anywhere	mihink√§√§n	ejkointu
 anywhere	minnekin	kotu a
-anywhere	miss‰kin	koin a
-anywhere	miss‰‰n	ejkoin
+anywhere	miss√§kin	koin a
+anywhere	miss√§√§n	ejkoin
 assorted	useat	sirisi
 at least not	ei ainakaan	ripstli ej
-aught	mit‰‰n	ejˆ
+aught	mit√§√§n	ej√∂
 become something preposition	joksikin	mu
 both	kumpikin	dutaj
 both	molemmat	dutaj
 both of them	kummatkin	dutaj
-by this	t‰ll‰	vy t‰
+by this	t√§ll√§	vy t√§
 by which	jolla	kovy
-certain	tietty	daˆ
+certain	tietty	da√∂
 different	eri	er
 distinct	eri	er
 ditto	sama	re
@@ -108,7 +108,7 @@ each	jokainen	ki
 each	kukin	obki
 each	kumpikin	dutaj
 each other	toinen toistaan	obki tuasi
-ego	min‰	aj
+ego	min√§	aj
 either	jompikumpi	tajdu
 either	kumpikaan	dutajej
 either one	jompikumpi	tajdu
@@ -130,38 +130,38 @@ few	muutama	ipsi
 for each	jokaiselle	tu ki
 for everyone	jokaiselle	tu ki
 for it	sille	le it
-for this	t‰lle	le t‰
+for this	t√§lle	le t√§
 for you	sinulle	for ja
-from anything	mist‰kin	kout a
+from anything	mist√§kin	kout a
 from me	minulta	ut aj
 from the rest	muusta	ut tua
-from what	mist‰	kout
-from where	mist‰	kout
+from what	mist√§	kout
+from where	mist√§	kout
 from whom	joilta	kojoel
-from whom	kenelt‰	kojout
+from whom	kenelt√§	kojout
 from you	sinulta	ut ja
 full	koko	kio
-he	h‰n	h‰
-her	h‰nen	h‰of
-her	h‰net	h‰
-her	h‰nt‰	h‰
-hers	h‰nen	h‰of
-herself	h‰n itse	h‰ aut
-herself	itsens‰	h‰ aut
-herself	oma itsens‰	ˆfaut
-him	h‰net	h‰
-him	h‰nt‰	h‰
-himself	h‰n itse	h‰ aut
-himself	itsens‰	h‰ aut
-his	h‰nen	h‰of
+he	h√§n	h√§
+her	h√§nen	h√§of
+her	h√§net	h√§
+her	h√§nt√§	h√§
+hers	h√§nen	h√§of
+herself	h√§n itse	h√§ aut
+herself	itsens√§	h√§ aut
+herself	oma itsens√§	√∂faut
+him	h√§net	h√§
+him	h√§nt√§	h√§
+himself	h√§n itse	h√§ aut
+himself	itsens√§	h√§ aut
+his	h√§nen	h√§of
 how many	montako	siko
-I	min‰	aj
-I	m‰	aj
+I	min√§	aj
+I	m√§	aj
 it	se	it
-it	sit‰	it
+it	sit√§	it
 its	sen	itof
 itself	se itse	it aut
-known	tietty	daˆ
+known	tietty	da√∂
 lone	ainoa	eris
 lonesome	ainoa	eris
 many	monet	si
@@ -180,24 +180,24 @@ multiple	usea	si
 multiple	useita	sirisi
 my	minun	ajof
 myself	itseni	aj aut
-myself	min‰ itse	aj aut
+myself	min√§ itse	aj aut
 neither	ei kumpikaan	ejtajdu
-neither	kenk‰‰n	ejkojo
-nobody	ket‰‰n	ejjo
+neither	kenk√§√§n	ejkojo
+nobody	ket√§√§n	ejjo
 nobody	kukaan	ejkojo
-nothing	ei mik‰‰n	ejˆ
-nothing	mit‰‰n	ejˆ
-nothing else	mik‰‰n muu	ejˆ tua
-nought	ei mit‰‰n	ejˆ
-nowhere	minnek‰‰n	ejkotu
-of these	n‰iden	t‰siof
-one	er‰s	ˆ
-one	jokin	ˆ
+nothing	ei mik√§√§n	ej√∂
+nothing	mit√§√§n	ej√∂
+nothing else	mik√§√§n muu	ej√∂ tua
+nought	ei mit√§√§n	ej√∂
+nowhere	minnek√§√§n	ejkotu
+of these	n√§iden	t√§siof
+one	er√§s	√∂
+one	jokin	√∂
 one another	toinen toistaan	obki tuasi
 one of two	jompikumpi	tajdu
 one or the other	jompikumpi	tajdu
 one or two	muutama	ipsi
-one's	itsens‰	autof
+one's	itsens√§	autof
 oneself	se itse	it aut
 only	ainoa	eris
 only	ainut	eris
@@ -207,13 +207,13 @@ others	muiden	tuasiof
 others	muut	tuasi
 others each other	toset toisiaan	obki tuasi
 others to each other	toiset toisiaan	obki tuasi
-our	meid‰n	ajsiof
-ours	meid‰n	ajsiof
+our	meid√§n	ajsiof
+ours	meid√§n	ajsiof
 ourselves	itsemme	ajsi aut
-ourselves	itse‰mme	ajsi aut
+ourselves	itse√§mme	ajsi aut
 ourselves	me itse	ajsi aut
 particular	eri	er
-particular	tietty	daˆ
+particular	tietty	da√∂
 personally	itse	aut
 remaining	muu	tua
 same	sama	re
@@ -222,112 +222,112 @@ separate	eri	er
 several	eri	er
 several	useat	sirisi
 several	useita	sirisi
-she	h‰n	h‰
+she	h√§n	h√§
 sole	ainoa	eris
 solitary	ainoa	eris
-some	jotkin	ˆsi
-some	jotkut	ˆjosi
+some	jotkin	√∂si
+some	jotkut	√∂josi
 some	muutama	ipsi
-somebody	er‰s	ˆ
-somebody	joku	ˆjo
-somebody's	jonkun	ˆjo-of
-someone	er‰s	ˆ
-someone	joku	ˆjo
-someone's	jonkun	ˆjo-of
-something	jokin	ˆ
-something	jotain	ˆ
-something	jotakin	ˆ
-sometimes this sometimes that	joskus t‰t‰ joskus tuota	koˆ sattaj
-sometimes this sometimes that	mit‰ milloinkin	koˆ sattaj
-somewhere	johonkin	ˆtu
-specific	tietty	daˆ
+somebody	er√§s	√∂
+somebody	joku	√∂jo
+somebody's	jonkun	√∂jo-of
+someone	er√§s	√∂
+someone	joku	√∂jo
+someone's	jonkun	√∂jo-of
+something	jokin	√∂
+something	jotain	√∂
+something	jotakin	√∂
+sometimes this sometimes that	joskus t√§t√§ joskus tuota	ko√∂ sattaj
+sometimes this sometimes that	mit√§ milloinkin	ko√∂ sattaj
+somewhere	johonkin	√∂tu
+specific	tietty	da√∂
 sundry	useat	sirisi
 that	joka	ko
 that	jotka	kosi
-that	mik‰	ko
-that	mit‰	ko
-that	tuo	‰t
-that there	tuo	‰t
-that there	tuo tuolla	‰t ‰tla
-that's it	se siit‰	it ˆb it
+that	mik√§	ko
+that	mit√§	ko
+that	tuo	√§t
+that there	tuo	√§t
+that there	tuo tuolla	√§t √§tla
+that's it	se siit√§	it √∂b it
 the	se	it
-the	sit‰	it
+the	sit√§	it
 thee	sinua	ja
 thee	sinut	ja
-their	heid‰n	h‰siof
+their	heid√§n	h√§siof
 their	niiden	itsiof
-theirs	heid‰n	h‰siof
+theirs	heid√§n	h√§siof
 theirs	niiden	itsiof
-them	heit‰	h‰si
-them	niit‰	itsi
-themselves	he itse	h‰si aut
-themselves	itsens‰	h‰si aut
-themselves	itse‰ns‰	h‰si aut
-therefrom	niist‰	ut itsi
-thereof	niist‰	ob itsi
-these	n‰it‰	t‰si
-these	n‰m‰	t‰si
-they	he	h‰si
+them	heit√§	h√§si
+them	niit√§	itsi
+themselves	he itse	h√§si aut
+themselves	itsens√§	h√§si aut
+themselves	itse√§ns√§	h√§si aut
+therefrom	niist√§	ut itsi
+thereof	niist√§	ob itsi
+these	n√§it√§	t√§si
+these	n√§m√§	t√§si
+they	he	h√§si
 they	ne	itsi
 thine	sinun	jaof
-this	t‰m‰	t‰
-this	t‰n‰	na t‰
-this	t‰t‰	t‰
-this	t‰‰	t‰
-those	nuo	‰tsi
-thou	sin‰	ja
+this	t√§m√§	t√§
+this	t√§n√§	na t√§
+this	t√§t√§	t√§
+this	t√§√§	t√§
+those	nuo	√§tsi
+thou	sin√§	ja
 thy	sinun	jaof
-thyself	itse‰si	ja aut
+thyself	itse√§si	ja aut
 to each other	toisiinne	tu obki tuasi
-to her	h‰nelle	tu h‰
-to him	h‰nelle	tu h‰
+to her	h√§nelle	tu h√§
+to him	h√§nelle	tu h√§
 to me	minulle	tu aj
 to which	mille	kole
 to whom	kenelle	kojotu
 to you	sinulle	tu ja
 upon which	jolla	kovy
-us	meid‰t	ajsi
-us	meit‰	ajsi
+us	meid√§t	ajsi
+us	meit√§	ajsi
 various	monta	si
 varying	eri	er
 we	me	ajsi
-what	mik‰	ko
-what	mit‰	ko
-what ... about	mist‰	koˆb
-what about	mist‰	koˆb
-what ever	mit‰ milloinkin	koˆ sattaj
-whatever	mik‰ tahansa	ko sattaj
-whatever	mit‰ vaan	ko sattaj
-whatsoever	mik‰ tahansa	ko sattaj
-whatsoever	mit‰ vaan	ko sattaj
-whence	mist‰	kout
+what	mik√§	ko
+what	mit√§	ko
+what ... about	mist√§	ko√∂b
+what about	mist√§	ko√∂b
+what ever	mit√§ milloinkin	ko√∂ sattaj
+whatever	mik√§ tahansa	ko sattaj
+whatever	mit√§ vaan	ko sattaj
+whatsoever	mik√§ tahansa	ko sattaj
+whatsoever	mit√§ vaan	ko sattaj
+whence	mist√§	kout
 where	minne	kotu
-where	miss‰	koin
-where from	mist‰	kout
+where	miss√§	koin
+where from	mist√§	kout
 where to	minne	kotu
 whereby	jolla	kovy
-wherefrom	mist‰	kout
-wheresoever	miss‰ tahansa	koin sattaj
-wherever	mihin hyv‰ns‰	kointu sattaj
-wherever	miss‰ tahansa	koin sattaj
-which	joka	koˆ
-which	jonka	koˆ
-which	mik‰	ko
-which	mitk‰	kosi
-which	mit‰	ko
-which about	mist‰	koˆb
+wherefrom	mist√§	kout
+wheresoever	miss√§ tahansa	koin sattaj
+wherever	mihin hyv√§ns√§	kointu sattaj
+wherever	miss√§ tahansa	koin sattaj
+which	joka	ko√∂
+which	jonka	ko√∂
+which	mik√§	ko
+which	mitk√§	kosi
+which	mit√§	ko
+which about	mist√§	ko√∂b
 which in order	mones	sivako
 which one (of two)	kumpi	dutajko
-which one's	mink‰	ko-of
+which one's	mink√§	ko-of
 whichever	kumpi	dutajko
 whither	minne	kotu
 who	joka	kojo
 who	jotka	kojosi
 who	ken	kojo
 who	kenet	kojo
-who	ketk‰	kojosi
+who	ketk√§	kojosi
 who	kuka	kojo
-who (there are)	keit‰	kojosi
+who (there are)	keit√§	kojosi
 who ever	kuka tahansa	kojo sattaj
 who for	kenelle	kojofor
 whoever	kuka tahansa	kojo sattaj
@@ -335,160 +335,160 @@ whole	koko	kio
 whole of	koko	kio
 whom	jolle	tu kojo
 whom	jota	kojo
-whom	ket‰	kojo
+whom	ket√§	kojo
 whose	joiden	kojosi-of
 whose	joiden	kosiof
 whose	jonka	kojo-of
 whose	kenen	kojo-of
 whosoever	kuka tahansa	kojo sattaj
-ye	sin‰	ja
+ye	sin√§	ja
 ye	te	jasi
-yon	tuo	‰t
+yon	tuo	√§t
 you	sinua	ja
 you	sinut	ja
-you	sin‰	ja
-you	s‰	ja
+you	sin√§	ja
+you	s√§	ja
 you	te	jasi
-you	teit‰	jasi
+you	teit√§	jasi
 your	sinun	jaof
-your	teid‰n	jasiof
+your	teid√§n	jasiof
 yours	sinun	jaof
 yourself	itsesi	ja aut
-yourself	itse‰nne	jasi aut
-yourself	itse‰si	ja aut
-yourself	sin‰ itse	ja aut
+yourself	itse√§nne	jasi aut
+yourself	itse√§si	ja aut
+yourself	sin√§ itse	ja aut
 yourselves	te itse	jasi aut
 Question words	Kysymyssanoja	Kootesasi
 question	kysymys	koote
-to ask	kysy‰	koo
+to ask	kysy√§	koo
 answer	vastaus	ookte
 to answer	vastata	ook
 At who?	Kenen luona?	Tut kojo?
-By what?	Mink‰ avulla?	Kovy?
-Do you?	Teetkˆ sin‰?	Teeko ja?
-For what?	Mit‰ varten?	Kofor?
-From where?	Mist‰?	Kout?
+By what?	Mink√§ avulla?	Kovy?
+Do you?	Teetk√∂ sin√§?	Teeko ja?
+For what?	Mit√§ varten?	Kofor?
+From where?	Mist√§?	Kout?
 How big?	Kuinka suuri?	Koli piva?
 How many?	Montako?	Siko?
 How much?	Paljonko?	Kori?
 How?	Miten? Kuinka?	Koli?
-Is it he?	H‰nkˆ?	H‰ko?
-Is it it?	Sekˆ?	Itko?
-Is it this?	T‰m‰kˆ?	T‰ko?
-Is it th‰t?	Tuoko?	ƒtko?
-What	Mik‰? Mit‰?	Ko?
-What are you doing?	Mit‰ sin‰ Teet?	Ko ja tee?
+Is it he?	H√§nk√∂?	H√§ko?
+Is it it?	Sek√∂?	Itko?
+Is it this?	T√§m√§k√∂?	T√§ko?
+Is it th√§t?	Tuoko?	√Ñtko?
+What	Mik√§? Mit√§?	Ko?
+What are you doing?	Mit√§ sin√§ Teet?	Ko ja tee?
 What kind?	Milllainen?	Kova?
-What place?	Mik‰ paikka?	Kolo?
+What place?	Mik√§ paikka?	Kolo?
 What's the time?	Paljonko kello on?	Kono?
 When?	Milloin?	Kona?
 Where to?	Minne?	Kotu?
-Where?	Miss‰?	Koin?
-Who?	Kuka? Ket‰?	Kojo?
+Where?	Miss√§?	Koin?
+Who?	Kuka? Ket√§?	Kojo?
 Why?	Miksi?	Kosy?
 With what?	With what?	Kovi?
-You do?	Sin‰kˆ teet?	Jako tee?
+You do?	Sin√§k√∂ teet?	Jako tee?
 Verbs	Verbit	Tesasi
-Verbs are formed by doubling the last vowel of a word.	Verbit muodostetaan sanan viimeisen vokaalin kahdennuksella.	Tesa kauteeta vy duute ˆnva vou of sa.
-deed, do	teko, tehd‰	te, tee
+Verbs are formed by doubling the last vowel of a word.	Verbit muodostetaan sanan viimeisen vokaalin kahdennuksella.	Tesa kauteeta vy duute √∂nva vou of sa.
+deed, do	teko, tehd√§	te, tee
 standard, standardize	standardi, standardoida.	sirepipri, sirepiprii.
-Passive is formed by connecting to the end of the verb -ta suffix.	Passiivi muodostetaan liitt‰m‰ll‰ verbin loppuun -ta.	Passiv kauteeta vy rupaa vi tesa ˆn -ta.
-Verb tenses: I'll do, I did, I've done, I was done. I'll do. Was made. Will be done. Done, written.	Aikamuodot: Teen, tein, olen tehnyt, olin tehnyt. Tulen tekem‰‰n. Tehtiin. Tullaan tekem‰‰n. Tehty, kirjoitettu.	Nokausi: Aj tee, aj tee-en, aj oo tee-en , aj ooen tee-en. Aj teene. Tee-enta. Teetane. Tee-en, kiiren.
-going on by -nen suffix , under construction	tekeill‰ -nen-liitteell‰, rakenteilla	teenen vy -nen rupa, toolnen
+Passive is formed by connecting to the end of the verb -ta suffix.	Passiivi muodostetaan liitt√§m√§ll√§ verbin loppuun -ta.	Passiv kauteeta vy rupaa vi tesa √∂n -ta.
+Verb tenses: I'll do, I did, I've done, I was done. I'll do. Was made. Will be done. Done, written.	Aikamuodot: Teen, tein, olen tehnyt, olin tehnyt. Tulen tekem√§√§n. Tehtiin. Tullaan tekem√§√§n. Tehty, kirjoitettu.	Nokausi: Aj tee, aj tee-en, aj oo tee-en , aj ooen tee-en. Aj teene. Tee-enta. Teetane. Tee-en, kiiren.
+going on by -nen suffix , under construction	tekeill√§ -nen-liitteell√§, rakenteilla	teenen vy -nen rupa, toolnen
 Participles: Reading, has read, is read	Partisiipit: Lukeva, on lukenut, luettu	Vaoliosi: riikva, oo riiken, oota riiken
-He is a known person.He has known me.He has a well-known person at work.	H‰n on tunnettu henkilˆ. H‰n on tuntenut minut. H‰nell‰ on tunnettu henkilˆ tˆiss‰.	H‰ oota kavodaaen hojo. H‰ oo kavodaaen aj. H‰ oof kavodaaen hojo in tˆsi.
-The hyphen should be used if there are three similar vowels in a row for clarity. tee-en	V‰liviivaa tulee k‰ytt‰‰, jos tulisi kolme samanlaista vokaalia per‰kk‰in selvyyden vuoksi. tee-en	Medlin piit teoo, if uutif tre reva vousi edde for soklirvao. tee-en
-Conditional sentence: If I were rich, I would buy a detached house.	Ehtolause: Jos olisin rikas, ostaisin omakotitalon.	Ifolusa: If aj ooif ritsva, aj ‰‰fif ˆftol.
-Potential sentence, might: I might (perhaps would) start a business.	Potentiaali, mahtaa: Min‰ perustanen yrityksen.	Mejlusa: Aj meej altoo tralˆ.
-Imperative, command clause: Go out! Let us go out! Let him go out! Let them go out!	Imperatiivi, k‰skylause: Mene ulos! Menk‰‰ ulos! Menk‰‰mme ulos! Menkˆˆn h‰n ulos! Menkˆˆt he ulos!	Pˆtusalusa: Tuu ja nitu! Tuu jasi nitu! Tuu ajsi nitu! Tuu h‰ nitu! Tuu h‰si nitu!
-Question clause: Do you go to the store? Yes (I go). No (I don't).	Kysymyslause: Menetkˆ kauppaan? Kyll‰ (menen). En (mene).	Kolusa: Tuuko ja (intu) f‰flo? Je (aj tuu). Ej (aj ej tuu).
-Once a verb prefix is is-.	Kerran verbeill‰ alkuliite on is-.	Isna tesasi nˆrupa oo is- .
+He is a known person.He has known me.He has a well-known person at work.	H√§n on tunnettu henkil√∂. H√§n on tuntenut minut. H√§nell√§ on tunnettu henkil√∂ t√∂iss√§.	H√§ oota kavodaaen hojo. H√§ oo kavodaaen aj. H√§ oof kavodaaen hojo in t√∂si.
+The hyphen should be used if there are three similar vowels in a row for clarity. tee-en	V√§liviivaa tulee k√§ytt√§√§, jos tulisi kolme samanlaista vokaalia per√§kk√§in selvyyden vuoksi. tee-en	Medlin piit teoo, if uutif tre reva vousi edde for soklirvao. tee-en
+Conditional sentence: If I were rich, I would buy a detached house.	Ehtolause: Jos olisin rikas, ostaisin omakotitalon.	Ifolusa: If aj ooif ritsva, aj √§√§fif √∂ftol.
+Potential sentence, might: I might (perhaps would) start a business.	Potentiaali, mahtaa: Min√§ perustanen yrityksen.	Mejlusa: Aj meej altoo tral√∂.
+Imperative, command clause: Go out! Let us go out! Let him go out! Let them go out!	Imperatiivi, k√§skylause: Mene ulos! Menk√§√§ ulos! Menk√§√§mme ulos! Menk√∂√∂n h√§n ulos! Menk√∂√∂t he ulos!	P√∂tusalusa: Tuu ja nitu! Tuu jasi nitu! Tuu ajsi nitu! Tuu h√§ nitu! Tuu h√§si nitu!
+Question clause: Do you go to the store? Yes (I go). No (I don't).	Kysymyslause: Menetk√∂ kauppaan? Kyll√§ (menen). En (mene).	Kolusa: Tuuko ja (intu) f√§flo? Je (aj tuu). Ej (aj ej tuu).
+Once a verb prefix is is-.	Kerran verbeill√§ alkuliite on is-.	Isna tesasi n√∂rupa oo is- .
 say, mention	sanoa, mainita	saa, issaa
-For a long time, many times, the prefix is si- or doubling root word.	Pitk‰‰n, monta kertaa verbeill‰ alkuliite si- tai kahdennetaan kantasana.	Luna, si isnosi nˆrupa oo si- taj vy duteeta jursa.
+For a long time, many times, the prefix is si- or doubling root word.	Pitk√§√§n, monta kertaa verbeill√§ alkuliite si- tai kahdennetaan kantasana.	Luna, si isnosi n√∂rupa oo si- taj vy duteeta jursa.
 say many times, speak	puhella, puhua	sisasaa, sasaa
-Thus si- form is plural of verb and is-form is singular of verb.	Siis si- verbin monikko, is- verbin yksikkˆ.	Syklirli si-kau oo tesaof sisakau a is- oo tesaof issakau.
+Thus si- form is plural of verb and is-form is singular of verb.	Siis si- verbin monikko, is- verbin yksikk√∂.	Syklirli si-kau oo tesaof sisakau a is- oo tesaof issakau.
 Formation of transitive and intransitive verbs . 	Transitiivi- ja intransitiiviverbien muodostus. 	Kauteo of obsa-aafva a ejobsa-aafva tesasi. 
-The verb can be in the basic form of both one, in this case a transitive verb becomes intransitive with aut- prefix 	Verbi voi olla jo perusmuodossa jompi kumpi, t‰llˆin transitiiviverbist‰ saadaan intransitiivinen aut-etuliitteell‰ 	Tesa voo oo in beskau tajdu, t‰na ob obva tesa aafta ejobva vy aut-edrupa 
-and from inransitive verb transitive with te- or pa- prefixes.	ja inransitiiviverbist‰ transitiivinen te- tai pa-etuliitteill‰.	a ejobva vy te- taj pa-edrupasi.
+The verb can be in the basic form of both one, in this case a transitive verb becomes intransitive with aut- prefix 	Verbi voi olla jo perusmuodossa jompi kumpi, t√§ll√∂in transitiiviverbist√§ saadaan intransitiivinen aut-etuliitteell√§ 	Tesa voo oo in beskau tajdu, t√§na ob obva tesa aafta ejobva vy aut-edrupa 
+and from inransitive verb transitive with te- or pa- prefixes.	ja inransitiiviverbist√§ transitiivinen te- tai pa-etuliitteill√§.	a ejobva vy te- taj pa-edrupasi.
 form sentences	muodostaa lauseita	kautee lusasi
-steam is formed	hˆyry‰ muodostuu	vomhom autkautee
-eat	syˆd‰	eem
-feed	syˆtt‰‰	paeem
-It begins.	Se alkaa.	It nˆˆ.
-He starts work.	H‰n aloittaa tyˆn.	H‰ tenˆˆ tˆ.
-By itself by the verb prefix aut-: look, is seen	Itsest‰‰n verbeill‰ alkuliitteell‰ aut-: katsoa, n‰ky‰	Autli vy tesa edsa aut-: kaa, autkaa.
-develop, is developing	kehitt‰‰, kehitty‰	deev, autdeev
-Doing by other	Teet‰tt‰‰ muilla	tuatee vy tua
-He has his hair cut.	H‰n leikkautti tukkansa.	H‰ tuakuuten h‰ˆf p‰siheˆr.
+steam is formed	h√∂yry√§ muodostuu	vomhom autkautee
+eat	sy√∂d√§	eem
+feed	sy√∂tt√§√§	paeem
+It begins.	Se alkaa.	It n√∂√∂.
+He starts work.	H√§n aloittaa ty√∂n.	H√§ ten√∂√∂ t√∂.
+By itself by the verb prefix aut-: look, is seen	Itsest√§√§n verbeill√§ alkuliitteell√§ aut-: katsoa, n√§ky√§	Autli vy tesa edsa aut-: kaa, autkaa.
+develop, is developing	kehitt√§√§, kehitty√§	deev, autdeev
+Doing by other	Teet√§tt√§√§ muilla	tuatee vy tua
+He has his hair cut.	H√§n leikkautti tukkansa.	H√§ tuakuuten h√§√∂f p√§sihe√∂r.
 cut	leikata	kuut
 clean	puhdistaa	kliin
-wash himself	peseyty‰	autvoosh
-have wash	pesett‰‰	tuavoosh
+wash himself	peseyty√§	autvoosh
+have wash	pesett√§√§	tuavoosh
 become clean	puhdistua	autkliin
 have clean	puhdistuttaa	tuakliin
 Conjunctions and others	Konjunktiota ja muita	Asasi a tuasi
 English	Finnish	Vosa
-absolutely	per‰ti	jea
-against it	sit‰ vastoin	ˆgli it
+absolutely	per√§ti	jea
+against it	sit√§ vastoin	√∂gli it
 albeit	vaikkakin	tajli a
 all the more so	saatikka	ejali a
-also	myˆs	ali
-also	myˆskin	ali
+also	my√∂s	ali
+also	my√∂skin	ali
 although	vaikka	tajli
 although	vaikkapa	tajli je
 although not	vaikkei	tajliej
 and	ja	a
-and also	sek‰	a ali
-and not	eik‰	a ej
+and also	sek√§	a ali
+and not	eik√§	a ej
 and so on	ja niin edelleen	a itli depirna
 and yet	kuitenkin	amut
 anyway	kuitenkin	amut
 anyway	kumminkin	amut
-apart from	paitsi	ˆej
-as	sit‰ mukaa kuin	li na
+apart from	paitsi	√∂ej
+as	sit√§ mukaa kuin	li na
 as long as	kunhan	na a
-as well as the	sek‰ ett‰	duvio a
+as well as the	sek√§ ett√§	duvio a
 at least not	ainakaan	ripstli ej
 aye	joo	je
-aye	kyll‰	je
+aye	kyll√§	je
 barely	tuskin	ejejje
 because	koska	syfor
 because	siksi	itsy
-because	sill‰	syfor
+because	sill√§	syfor
 because of	vuoksi	syfor
 because of that	sen vuoksi	itsy
-because of this	t‰m‰n vuoksi	t‰sy
-besides	paitsi	ˆej
-besides	sit‰paitsi	itˆej
-both and	sek‰ ett‰	duvio a
+because of this	t√§m√§n vuoksi	t√§sy
+besides	paitsi	√∂ej
+besides	sit√§paitsi	it√∂ej
+both and	sek√§ ett√§	duvio a
 but	mutta	mut
 but	vaan	mut
 but no	muttei	mut ej
-by contrast	sit‰ vastoin	ˆgli it
+by contrast	sit√§ vastoin	√∂gli it
 certainly	toki	rilje
 consequently	siksi	itsy
-despite the fact	siit‰ huolimatta	amut it
+despite the fact	siit√§ huolimatta	amut it
 does not	ei	ej
-et cetera	ynn‰ muuta	atua
+et cetera	ynn√§ muuta	atua
 etc.	jne.	aid.
 etc.	yms.	ati.
 even	jopa	jea
-even	per‰ti	jea
-even	viel‰p‰	jea
-even then	sittenk‰‰n	itne ej a
-except	paitsi	ˆej
-for	sill‰	syfor
-for good reason	syyst‰	forhasy
+even	per√§ti	jea
+even	viel√§p√§	jea
+even then	sittenk√§√§n	itne ej a
+except	paitsi	√∂ej
+for	sill√§	syfor
+for good reason	syyst√§	forhasy
 for sake of	vuoksi	syfor
 for sure	varmastikin	varmli a
-for the sake of	t‰hden	forsy
-for what reason	mink‰ t‰hden	kosy
+for the sake of	t√§hden	forsy
+for what reason	mink√§ t√§hden	kosy
 hardly	tokko	ejejje
 hardly	tuskin	ejejje
 hence	joten	itsy
 hence	sen takia	itsy
 hence	siksi	itsy
-how about	ent‰s	ako
+how about	ent√§s	ako
 how so	miksi	kosy
 however	kuitenkin	amut
 however	vaikkakin	tajli a
@@ -504,21 +504,21 @@ in order to	jotta	syt
 in spite of the fact	kumminkin	amut
 in the interest of	vuoksi	syfor
 indeed	johan	riljeli a
-isn't it	etteikˆ	syt ejko
+isn't it	etteik√∂	syt ejko
 jah	joo	je
-justly	syyst‰	forhasy
-laboriously	tyˆl‰‰sti	tˆlili
+justly	syyst√§	forhasy
+laboriously	ty√∂l√§√§sti	t√∂lili
 lest	ettei	syt ej
 lest	jottei	sytej
 maybe or not	tokko	ejejje
 nay	ei	ej
-neither	eik‰	a ej
+neither	eik√§	a ej
 nevertheless	kuitenkin	amut
 no	ei	ej
 non	ei	ej
 nonetheless	kuitenkin	amut
 nope	ei	ej
-nor	eik‰	a ej
+nor	eik√§	a ej
 not	ei	ej
 of course	ilman muuta	dajeli a
 on account of	vuoksi	syfor
@@ -533,23 +533,23 @@ sake	vuoksi	syfor
 say	vaikkapa	tajli je
 scarcely	tuskin	ejejje
 since	koska	syfor
-so	elikk‰	tuasaali a
+so	elikk√§	tuasaali a
 so	joten	itsy
-so	siisp‰	syklirli a
+so	siisp√§	syklirli a
 so	siksi	itsy
 so that	jotta	syt
-soever	mitenk‰‰n	ej koli a
+soever	mitenk√§√§n	ej koli a
 suddenly	yks kaks	sadna
 supposedly	muka	lije
 supposedly	mukamas	lije
 surely	toki	rilje
 surely	varmaankin	mejvarmli a
 thanks to	ansiosta	rosy
-that	ett‰	syt
+that	ett√§	syt
 that for	siksi	itsy
 that not	ettei	syt ej
 that's why	sen takia	itsy
-then either	sittenk‰‰n	itne ej a
+then either	sittenk√§√§n	itne ej a
 thereafter	siksi	itsy
 therefore	joten	itsy
 therefore	niin muodoin	syfor
@@ -558,75 +558,75 @@ therefore	sen vuoksi	itsy
 therefore	siksi	itsy
 though	vaikka	tajli
 thus	sen takia	itsy
-too	myˆs	ali
-un-	ep‰-	ej-
+too	my√∂s	ali
+un-	ep√§-	ej-
 unless	ellei	ifej
 unless	jollei	ifej
 until	siihen asti kun	tuitna
 whatever	tahansa	sattaj
 whether	jos	if
 why	miksi	kosy
-why	mink‰ takia	kosy
-why	mink‰ t‰hden	kosy
-why	mink‰ vuoksi	kosy
+why	mink√§ takia	kosy
+why	mink√§ t√§hden	kosy
+why	mink√§ vuoksi	kosy
 why not	miksei	kosy ej
 with little possibility	tuskin	ejejje
 would	konditionaali	-if
-yea	kyll‰	je
+yea	kyll√§	je
 yeah	joo	je
 yeah	juu	je
 yep	joo	je
 yes	joo	je
 yes	juu	je
-yes	kyll‰	je
+yes	kyll√§	je
 yet	kuitenkin	amut
 yoo	joo	je
 Adverbs 	Adverbit	Lilonosasi
-The way how, is expressed by li-suffix: good, well	Tapaa miten, ilmaistaan li-p‰‰tteell‰: hyv‰, hyvin	Lio koli, kasaata vy li-ˆnsa: hava, hali
-Place and other adverb-like words can be formed by prepositions and postpositions, see the following section. 	Paikkaa ja muita adverbien kaltaisia sanoja voidaan muodostaa prepositioilla ja postpositioilla, katso seuraavasta kohdasta niit‰. 	Lo a tuasi lilonosasi liva sasi voota kautee vy edsasi a desasi, kaa ja itsi ut deva iplo.
-When attached to the body of a word, the word becomes an adverb.	Kun ne liitet‰‰n sanan runkoon, tulee sanasta adverbi-ilmaisu.	Na itsi rupaata saof bod, muu sa mu lilonosa kautsa.
-here	t‰‰ll‰, t‰ss‰	t‰la, t‰in
-Amount how much, is expressed by ri-suffix.	M‰‰r‰‰ kuinka paljon, ilmaistaan ri-p‰‰tteell‰.	Ri koli piri kasaata vy ri-rupa.
+The way how, is expressed by li-suffix: good, well	Tapaa miten, ilmaistaan li-p√§√§tteell√§: hyv√§, hyvin	Lio koli, kasaata vy li-√∂nsa: hava, hali
+Place and other adverb-like words can be formed by prepositions and postpositions, see the following section. 	Paikkaa ja muita adverbien kaltaisia sanoja voidaan muodostaa prepositioilla ja postpositioilla, katso seuraavasta kohdasta niit√§. 	Lo a tuasi lilonosasi liva sasi voota kautee vy edsasi a desasi, kaa ja itsi ut deva iplo.
+When attached to the body of a word, the word becomes an adverb.	Kun ne liitet√§√§n sanan runkoon, tulee sanasta adverbi-ilmaisu.	Na itsi rupaata saof bod, muu sa mu lilonosa kautsa.
+here	t√§√§ll√§, t√§ss√§	t√§la, t√§in
+Amount how much, is expressed by ri-suffix.	M√§√§r√§√§ kuinka paljon, ilmaistaan ri-p√§√§tteell√§.	Ri koli piri kasaata vy ri-rupa.
 big, much, many	iso, paljon, monta	piva, piri, si
-Time when, is expressed by the -na-suffix or na perposition.	Aikaa milloin, ilmaistaan -na-p‰‰tteell‰ tai na-prepositiolla.	No kona kautsaata vy -na-rupa taj na edsa.
+Time when, is expressed by the -na-suffix or na perposition.	Aikaa milloin, ilmaistaan -na-p√§√§tteell√§ tai na-prepositiolla.	No kona kautsaata vy -na-rupa taj na edsa.
 then	silloin	itna
-on day	p‰iv‰n‰, p‰iv‰ll‰	tanna
-between	v‰lill‰, v‰liss‰	v‰lna, in v‰l
-per day	p‰iv‰ss‰	in tan
-The reason may be expressed by the suffix sy.	Syyt‰ voidaan ilmaista sy-liitteell‰.	Sy voota kasaa sy-rupa.
-because of this	t‰m‰n vuoksi	t‰sy
-See more from a vosa dictionary!	Katso lis‰‰ vosan sanastosta!	Kaa pir ut ˆ vosa sisato!
+on day	p√§iv√§n√§, p√§iv√§ll√§	tanna
+between	v√§lill√§, v√§liss√§	v√§lna, in v√§l
+per day	p√§iv√§ss√§	in tan
+The reason may be expressed by the suffix sy.	Syyt√§ voidaan ilmaista sy-liitteell√§.	Sy voota kasaa sy-rupa.
+because of this	t√§m√§n vuoksi	t√§sy
+See more from a vosa dictionary!	Katso lis√§√§ vosan sanastosta!	Kaa pir ut √∂ vosa sisato!
 Prepositions and Postpositions	Prepositiot ja postpositiot	Edsasi a desasi
 English	Finnish	Vosa
-a day	p‰iv‰ss‰	in tan
-abaft	per‰‰n	detu
+a day	p√§iv√§ss√§	in tan
+abaft	per√§√§n	detu
 abaft	taakse	kadetu
 abaft	takana	kade
 abed	vuoteessa	in nukos
 abloom	kukassa	nakuk
-about	jostakin	ˆb
-about	-sta	ˆb
+about	jostakin	√∂b
+about	-sta	√∂b
 about	tienoilla	rafla
-about faith	uskosta	ˆb us
-about it	siit‰	ˆb it
-about other	toisesta	ˆb tua
-about that	siit‰	ˆb it
-about that	tuosta	ˆb ‰t
-about which	josta	ˆb ko
-above	edell‰	edla
-above	ylemp‰n‰	la yllapir
-above	yll‰	layl
-above	yl‰puolella	ylsidla
+about faith	uskosta	√∂b us
+about it	siit√§	√∂b it
+about other	toisesta	√∂b tua
+about that	siit√§	√∂b it
+about that	tuosta	√∂b √§t
+about which	josta	√∂b ko
+above	edell√§	edla
+above	ylemp√§n√§	la yllapir
+above	yll√§	layl
+above	yl√§puolella	ylsidla
 accessible	saatavilla	voafna
 accompanied	mukana	ofvi
 accompanying	mukana	ofvi
 according	mukaan	vili
-according to	jonkin mukaan	li ˆ
+according to	jonkin mukaan	li √∂
 according to	mukaan	vili
 accountable	vastuussa	in okofo
 across	halki	duiktu
 across	ristiin	krostu
-ad infinitum	‰‰rettˆmiin	tu ultejva
+ad infinitum	√§√§rett√∂miin	tu ultejva
 adhere	kiinni	ru
 adhered	kiinni	ru
 adhering	kiinni	ru
@@ -634,32 +634,32 @@ adrift	tuuliajolla	houkatuona
 afar	kauas	tu far
 afar	kaukaa	ut far
 afar	kaukana	far
-afire	tulessa	in bˆn
+afire	tulessa	in b√∂n
 afloat	pinnalla	la lao
-afore	edell‰	edla
-after	j‰lkeen	ne
+afore	edell√§	edla
+after	j√§lkeen	ne
 after	kuluttua	ne
-after	per‰ss‰	dein
-after	per‰‰n	detu
+after	per√§ss√§	dein
+after	per√§√§n	detu
 after	taa	kadetu
 after a short time	pian	ipne
-after that	sen j‰lkeen	itne
-after which	jonka j‰lkeen	kone
-afternoon	iltap‰iv‰ll‰	ˆntanna
+after that	sen j√§lkeen	itne
+after which	jonka j√§lkeen	kone
+afternoon	iltap√§iv√§ll√§	√∂ntanna
 afterwards	sitten	itne
 against	varalta	for res
-against	vastaan	ˆg
-against	vasten	ˆgtu
-ahead	edess‰p‰in	kaeddir
+against	vastaan	√∂g
+against	vasten	√∂gtu
+ahead	edess√§p√§in	kaeddir
 al fresco	ulkosalla	niylloal
 alfresco	ulkona	ni
 alias	alias	tuaersa
-alive	el‰v‰lt‰	li eeva
-alive	hengiss‰	in eo
+alive	el√§v√§lt√§	li eeva
+alive	hengiss√§	in eo
 all the time	koko ajan	kiona
 aloft	korkealla	la ylva
 alone	yksin	isvi
-alone	yksin‰‰n	isvi
+alone	yksin√§√§n	isvi
 along	mukaan	tuvi
 along	mukana	ofvi
 along	pitkin	luvi
@@ -669,108 +669,108 @@ along with	muassa	vi
 alongside	rinnalla	sidvi
 alongside	rinnalle	sidle
 alongside	varrella	luraf
-alongside	vieress‰	sidvi
-aloof	syrj‰ss‰	in sidlo
-alphabetically	aakkosj‰rjestyksess‰	in a-ˆj‰r
+alongside	vieress√§	sidvi
+aloof	syrj√§ss√§	in sidlo
+alphabetically	aakkosj√§rjestyksess√§	in a-√∂j√§r
 always	aina	kina
 always	alati	kina
 always	alinomaa	kina
 amid	aikana	na
-amid	keskell‰	midin
+amid	keskell√§	midin
 amid tears	itkusilmin	vi eehkaevsi
-amidst	keskell‰	midin
+amidst	keskell√§	midin
 amidst	seurassa	tutvi
 among	joukkoon	tusio
 among	joukossa	insio
-among	kesken	vigˆg
+among	kesken	vig√∂g
 among	keskuudessa	siovi
 among	parissa	tutvi
 among	seassa	insio
 among other things	mm.	intuasi
-among themselves	kesken‰‰n	vigˆg
+among themselves	kesken√§√§n	vig√∂g
 amongst	keskuudessa	siovi
 amongst	parissa	tutvi
 amongst	seurassa	tutvi
 antecedently	aiemmin	edpirna
-anteriorly	edess‰	kaed
-anti-	vasta-	ˆg-
-anyway	joka tapauksessa	in ki obh‰p
-anywhere	jossakin	ˆin
-apart	syrj‰ss‰	in sidlo
+anteriorly	edess√§	kaed
+anti-	vasta-	√∂g-
+anyway	joka tapauksessa	in ki obh√§p
+anywhere	jossakin	√∂in
+apart	syrj√§ss√§	in sidlo
 around	tienoilla	rafna
-around	ymp‰rille	raule
-around	ymp‰rill‰	raula
+around	ymp√§rille	raule
+around	ymp√§rill√§	raula
 as a result of which	jonka seurauksena	li ko-of deo
 as an offer	tarjona	oftukana
 ashore	maihin	tu mol
 ashore	maissa	lamol
 ashore	rannalla	la vamdim
-aside	poisp‰in	yrdirtu
+aside	poisp√§in	yrdirtu
 aside	sivummalle	le sidpir
 aside	sivussa	sidin
 aside	sivuun	sidtu
-aside	syrj‰‰n	tu sidlo
+aside	syrj√§√§n	tu sidlo
 aside	talteen	tunotur
 askance	viistoon	tukia
 askew	vinoon	tukia
 asleep	uneen	tu nukka
 asleep	unessa	in nukka
 asleep	unissaan	in nukka
-aslope	rinteess‰	la mˆylleikia
-associated with	yhteydess‰	in vio
-astern	per‰ss‰	dein
-astern	per‰‰n	detu
+aslope	rinteess√§	la m√∂ylleikia
+associated with	yhteydess√§	in vio
+astern	per√§ss√§	dein
+astern	per√§√§n	detu
 astray	harhaan	tarobtu
 at	klo	na
 at	luona	tut
-at	vieress‰	sidvi
-at	‰‰reen	tuttu
-at	‰‰ress‰	tut
+at	vieress√§	sidvi
+at	√§√§reen	tuttu
+at	√§√§ress√§	tut
 at a convenient time	otolliseen aikaan	apsopna
 at all times	aina	kina
 at another time	muulloin	tuana
 at best	parhaimmillaan	na hast
-at customs	tullissa	in limpˆrovlˆ
+at customs	tullissa	in limp√∂rovl√∂
 at eight	kahdeksalta	na aht
-at first	aluksi	nˆmu
+at first	aluksi	n√∂mu
 at first	ensiksi	isvana
 at half time	puoliajalla	na duikno
-at hand	k‰sill‰	tut pavesi
+at hand	k√§sill√§	tut pavesi
 at home	kotona	in bal
 at home	kotosalla	tut bal
-at issue	esill‰	kaedla
-at issue	kyseess‰	in ˆbko
-at large	karkuteill‰	la yrifrtulsi
+at issue	esill√§	kaedla
+at issue	kyseess√§	in √∂bko
+at large	karkuteill√§	la yrifrtulsi
 at level	tasolla	la tal
-at night	yˆll‰	natna
-at nights	ˆisin	na natsi
-at noon	keskip‰iv‰ll‰	na midtan
+at night	y√∂ll√§	natna
+at nights	√∂isin	na natsi
+at noon	keskip√§iv√§ll√§	na midtan
 at once	kerralla	vy isno
 at our house	talossamme	in ajsiof tol
 at place	paikalla	la lo
-at seven	seitsem‰lt‰	na sev
+at seven	seitsem√§lt√§	na sev
 at stage	vaiheessa	feisna
-at the beginning of	alussa	nˆna
+at the beginning of	alussa	n√∂na
 at the border	rajalla	la lim
-at the center	keskell‰	midin
-at the cottage	mˆkill‰	la iptol
-at the destination	perill‰	obla
+at the center	keskell√§	midin
+at the cottage	m√∂kill√§	la iptol
+at the destination	perill√§	obla
 at the door	ovella	tut ouv
-at the edge of	‰‰rell‰	tut dim
-at the end	lopulla	la ˆn
-at the end	lopussa	in ˆn
-at the moment	t‰ll‰ hetkell‰	nenipna
-at the outpatient clinic	poliklinikalla	la tanretlˆ
-at the polyclinic	poliklinikalla	la tanretlˆ
+at the edge of	√§√§rell√§	tut dim
+at the end	lopulla	la √∂n
+at the end	lopussa	in √∂n
+at the moment	t√§ll√§ hetkell√§	nenipna
+at the outpatient clinic	poliklinikalla	la tanretl√∂
+at the polyclinic	poliklinikalla	la tanretl√∂
 at the right time	ajallaan	ofna
 at the risk of	uhalla	riskvi
 at the same time	samalla	rena
 at the station	asemalla	la fetultol
-at the threshold	kynnyksell‰	la lyouv
+at the threshold	kynnyksell√§	la lyouv
 at the worst	pahimmillaan	na ahst
-at this hour	t‰h‰n aikaan	t‰na
-at this time	t‰llˆin	t‰na
-at times	ajoittain	ˆsina
+at this hour	t√§h√§n aikaan	t√§na
+at this time	t√§ll√∂in	t√§na
+at times	ajoittain	√∂sina
 at two	kahdelta	na du
 at two	kello kaksi	na du
 at which time	jolloin	kona
@@ -782,21 +782,21 @@ available	tarjolla	oftukana
 awake	hereille	kunle
 away	irti	ur
 away	pois	yr
-away	poisp‰in	yrdirtu
-awry	mˆnk‰‰n	tu vik
+away	poisp√§in	yrdirtu
+awry	m√∂nk√§√§n	tu vik
 back	takaisin	retu
 back and forth	edestakaisin	tuaut
 backward and forward	edestakaisin	tuaut
-be met by	vastassa	ˆgla
-be washed	pest‰v‰ksi	for voosh
+be met by	vastassa	√∂gla
+be washed	pest√§v√§ksi	for voosh
 beachfront	rannalla	la vamdim
 because of	takia	syfor
 before	edelle	edle
-before	edelt‰	edel
+before	edelt√§	edel
 before	ennen	en
-before long	ennen pitk‰‰	en luna
-beforehand	edelt‰	edel
-behind	j‰ljess‰	de
+before long	ennen pitk√§√§	en luna
+beforehand	edelt√§	edel
+behind	j√§ljess√§	de
 behind	taa	kadetu
 behind	taakse	kadetu
 behind	takana	kade
@@ -807,18 +807,18 @@ beneath	alla	al
 beside	rinnalla	sidvi
 beside	sivulla	la sid
 beside	viereen	tu sidvi
-beside	vieress‰	sidvi
-beside	‰‰relle	tuttu
-beside	‰‰ress‰	tut
-beside me	vieress‰ni	sidvi aj
+beside	vieress√§	sidvi
+beside	√§√§relle	tuttu
+beside	√§√§ress√§	tut
+beside me	vieress√§ni	sidvi aj
 beside oneself	poissa tolalta	yrdakavostana
 betimes	varhain	lyna
-between	kesken	vigˆg
-between	v‰liin	v‰ltu
-between	v‰lille	v‰ltu
-between	v‰lill‰	v‰lla
-between	v‰lill‰	v‰lna
-between	v‰liss‰	inv‰l
+between	kesken	vig√∂g
+between	v√§liin	v√§ltu
+between	v√§lille	v√§ltu
+between	v√§lill√§	v√§lla
+between	v√§lill√§	v√§lna
+between	v√§liss√§	inv√§l
 beyond	toisella puolen	la tua sid
 beyond	yli	ylli
 bisected	kahtia	duikmu
@@ -829,92 +829,92 @@ by	mukaan	vili
 by	oheen	tu sido
 by	ohitse	sidut
 by	varaan	vytu
-by	vieress‰	sidvi
-by	‰‰rell‰	tut
-by day	p‰iv‰saikaan	na tanno
+by	vieress√§	sidvi
+by	√§√§rell√§	tut
+by day	p√§iv√§saikaan	na tanno
 by half	puoleen	tu duik
 by land	maitse	luvi mol
-by letter	kirjeell‰	vy kirgao
+by letter	kirjeell√§	vy kirgao
 by letter	kirjeitse	vy kirgao
 by means of	turvin	vy tur
 by oneself	yksin	isvi
 by post	postitse	vy pagat
-by profession	ammatiltaan	na votˆ
-by radio	radioitse	vy hˆdavˆ
+by profession	ammatiltaan	na vot√∂
+by radio	radioitse	vy h√∂dav√∂
 by reason of	takia	syfor
 by road	maanteitse	vy ditul
 by sea	meritse	luvi fovamlo
-by telephone	puhelimitse	vy visavˆ
+by telephone	puhelimitse	vy visav√∂
 by the side	sivulla	la sid
 by the side of	varrelta	ut luraf
 by time	ajan kanssa	vi no
 by way of trial	kokeeksi	mu votra
 catching	kiinni	ru
 cheers	kippis	muter
-chuffed	mieliss‰‰n	na hamiva
+chuffed	mieliss√§√§n	na hamiva
 clashing	ristiriidassa	in krospos
-close	l‰helle	tu raf
-close	l‰hell‰	raf
-close by	l‰hell‰	raf
-close to	liepeill‰	dimtut
-closer	l‰hemm‰ksi	tu rafpir
-closer	l‰hemm‰s	tu rafpir
-closer	l‰hemp‰n‰	la rafpir
-closer	l‰hemp‰‰	ut rafpir
+close	l√§helle	tu raf
+close	l√§hell√§	raf
+close by	l√§hell√§	raf
+close to	liepeill√§	dimtut
+closer	l√§hemm√§ksi	tu rafpir
+closer	l√§hemm√§s	tu rafpir
+closer	l√§hemp√§n√§	la rafpir
+closer	l√§hemp√§√§	ut rafpir
 clutched	kiinni	ru
-cold	kylmilt‰‰n	li kalva
+cold	kylmilt√§√§n	li kalva
 conciliatorily	sovinnolla	vy hasop
-concluding	lopuksi	ˆnna
+concluding	lopuksi	√∂nna
 conditioning	ehdolla	na ifo
 considering	ottaen huomioon	aapli tu obtark
 constantly	alinomaa	kina
-contained	sis‰ll‰	in
+contained	sis√§ll√§	in
 continually	alinomaa	kina
 continuously	alinomaa	kina
-contra-	vasta-	ˆg-
+contra-	vasta-	√∂g-
 contradict	ristiriidassa	in krospos
 contradicted	ristiriidassa	in krospos
-contrary	vasta-	ˆg-
-cooped	h‰kiss‰	in netos
-cow is pregnant	ummessa lehm‰	milkejna
+contrary	vasta-	√∂g-
+cooped	h√§kiss√§	in netos
+cow is pregnant	ummessa lehm√§	milkejna
 crosswise	ristiin	krostu
-currently	nyky‰‰n	nenna
-daily	p‰ivisin	tansina
+currently	nyky√§√§n	nenna
+daily	p√§ivisin	tansina
 day after tomorrow	ylihuomenna	yldetanna
-daytime	p‰iv‰ll‰	tanna
-daytime	p‰iv‰saikaan	na tanno
-daytimes	p‰iv‰saikaan	na tanno
-deep	syv‰ll‰	la dipva
-deep	syv‰‰n	tu dipva
-deeper	syvemm‰ksi	tu dippir
-deeper	syvemm‰lle	le dippir
+daytime	p√§iv√§ll√§	tanna
+daytime	p√§iv√§saikaan	na tanno
+daytimes	p√§iv√§saikaan	na tanno
+deep	syv√§ll√§	la dipva
+deep	syv√§√§n	tu dipva
+deeper	syvemm√§ksi	tu dippir
+deeper	syvemm√§lle	le dippir
 delusional	harhassa	in tarob
-diagonally upwards	yl‰viistoon	yltukia
+diagonally upwards	yl√§viistoon	yltukia
 did he already	joko	ripnenko
 disconnected	irti	ur
 disengaged	irti	ur
 distant	kaukana	far
-doorstep	kynnyksell‰	la lyouv
+doorstep	kynnyksell√§	la lyouv
 dormant	lepotilassa	na etsta
 down	alas	lytu
 down	alhaalla	lyla
 down below	alhaalla	lyla
 down here	alhaalla	lyla
 down there	alhaalla	lyla
-downhill	alam‰ess‰	in lymˆyl
-downhill	alam‰keen	tu lymˆyl
-downhill	alam‰ke‰	luvi lymˆyl
+downhill	alam√§ess√§	in lym√∂yl
+downhill	alam√§keen	tu lym√∂yl
+downhill	alam√§ke√§	luvi lym√∂yl
 downward	alas	lytu
 due	odotettavissa	obnoone
 due to	johdosta	syfor
 during	aikana	na
 during the week	viikolla	gunna
-each year	joka vuosi	ki j‰nna
+each year	joka vuosi	ki j√§nna
 earlier	aiemmin	edpirna
 early	aikaisin	lyna
 early	varhain	lyna
 early in the morning	aamuvarhain	entanlyna
-eastward	it‰‰n	tu tev
+eastward	it√§√§n	tu tev
 either	joko	tajko
 elated	riemuissaan	rosna
 elsewhere	muualla	tuala
@@ -923,41 +923,41 @@ elsewhere	toisaalla	tuala
 emerge	esiin	tued
 en route	matkalla	la rotuo
 enclosed	mukana	ofvi
-end to end	p‰itt‰in	ˆn ˆg ˆn
+end to end	p√§itt√§in	√∂n √∂g √∂n
 engaged	kihloissa	enbajvi
 enraged	raivoissaan	miarna
 entrained	mukana	ofvi
 entrust	huomaan	ofle
 ere	ennen	en
 escape of	pakoon	tu raktuo
-eternally	i‰ti	kikina
+eternally	i√§ti	kikina
 evenings	iltaisin	na ennatsi
 ever	alinomaa	kina
-ever	ikin‰	kina
+ever	ikin√§	kina
 ever	koskaan	ejna
 ever	milloinkaan	ejna
-every now and then	hetkitt‰in	na ipnosi
-every now and then	silloin t‰llˆin	itna t‰na
+every now and then	hetkitt√§in	na ipnosi
+every now and then	silloin t√§ll√∂in	itna t√§na
 every time	joka kerta	ki isno
-every year	joka vuosi	ki j‰nna
+every year	joka vuosi	ki j√§nna
 everytime	aina	kina
 everywhere	kaikkialla	kila
 everywhere	kaikkialle	kile
-except	lukuun ottamatta	ˆej
-exhibited	n‰ytteill‰	la teka
+except	lukuun ottamatta	√∂ej
+exhibited	n√§ytteill√§	la teka
 extant	tallella	noturla
 face to face	kahden kesken	duvi
-face to face	kasvokkain	edp‰ tu edp‰
-face-to-face	kasvokkain	edp‰ tu edp‰
-face-to-face	kasvotusten	edp‰ tu edp‰
-facing	p‰in	dirtu
-facing forward	edess‰p‰in	kaeddir
-far	et‰‰lle	le far
-far	et‰‰ll‰	la far
+face to face	kasvokkain	edp√§ tu edp√§
+face-to-face	kasvokkain	edp√§ tu edp√§
+face-to-face	kasvotusten	edp√§ tu edp√§
+facing	p√§in	dirtu
+facing forward	edess√§p√§in	kaeddir
+far	et√§√§lle	le far
+far	et√§√§ll√§	la far
 far	kauas	tu far
 far	kaukana	far
-far	pitk‰lle	lule
-far	pitk‰ll‰	lula
+far	pitk√§lle	lule
+far	pitk√§ll√§	lula
 far away	kauaksi	tu far
 far away	kaukana	far
 far away	loitolla	urfar
@@ -969,41 +969,41 @@ farther	kauemmas	tu farpir
 farthest	kauimpana	la farst
 fastened	kiinni	ru
 faster	pikemmin	ripna
-finally	lopuksi	ˆnna
+finally	lopuksi	√∂nna
 first	ensiksi	isvana
 first	ensin	isvana
-first thing in the morning	aamutuimaan	nˆli na entan
+first thing in the morning	aamutuimaan	n√∂li na entan
 firstly	ensiksi	isvana
 flank	sivusta	sidob
-for	eteen	gˆ
+for	eteen	g√∂
 for	kohden	obri
-for	puolesta	gˆ
+for	puolesta	g√∂
 for	varten	for
 for a city tour	kaupunkikierrokselle	tu taunrauno
-for a long time	pitk‰‰n aikaan	ejluna
+for a long time	pitk√§√§n aikaan	ejluna
 for a month	kuukaudeksi	for hyn
 for a trip	retkelle	tu nirotuo
 for a week	viikon verran	liri gun
-for dessert	j‰lkiruoaksi	for de-em
-for ever	i‰ksi	mu kikino
+for dessert	j√§lkiruoaksi	for de-em
+for ever	i√§ksi	mu kikino
 for everyone	kaikille	tu ki
-for exhibition	n‰ytteille	le tekasi
+for exhibition	n√§ytteille	le tekasi
 for fun	huvikseen	for hehob
 for help	apuun	tu vyo
 for hours	tuntikaupalla	vy dinsi
-for how long	kuinka pik‰ksi aikaa	for lunako
-for how long time	kuinka pik‰ksi aikaa	for lunako
+for how long	kuinka pik√§ksi aikaa	for lunako
+for how long time	kuinka pik√§ksi aikaa	for lunako
 for long	kauan	luna
 for now	toistaiseksi	tuaenmu
-for our sake	meid‰n edest‰mme	for ajsi
-for our sake	meid‰n t‰htemme	for ajsi
-for sale	myyt‰v‰n‰	for f‰‰
+for our sake	meid√§n edest√§mme	for ajsi
+for our sake	meid√§n t√§htemme	for ajsi
+for sale	myyt√§v√§n√§	for f√§√§
 for the present	toistaiseksi	tuaenmu
 for the time	ajaksi	for no
-for their own	omilleen	tu ˆfli
-for this	t‰t‰ varten	for t‰
-for us	meid‰n edest‰mme	for ajsi
-for whom	ket‰ varten	kojofor
+for their own	omilleen	tu √∂fli
+for this	t√§t√§ varten	for t√§
+for us	meid√§n edest√§mme	for ajsi
+for whom	ket√§ varten	kojofor
 fore	eteen	kaedtu
 forever	ainiaan	kina
 formerly	aiemmin	edpirna
@@ -1011,7 +1011,7 @@ formerly	ennen	en
 formerly	kerran	isna
 forth	esiin	tued
 forth	eteen	kaedtu
-forthwith	v‰littˆm‰sti	v‰lejna
+forthwith	v√§litt√∂m√§sti	v√§lejna
 forward	esiin	tued
 free	irti	ur
 frequent	usein	sina
@@ -1020,113 +1020,113 @@ frequently	usein	sina
 freshly	juuri	rafnen
 from	luota	ut
 from (time)	lukien	ut no
-from a distance	et‰‰lt‰	el far
-from above	ylh‰‰lt‰	ylel
+from a distance	et√§√§lt√§	el far
+from above	ylh√§√§lt√§	ylel
 from afar	kaukaa	ut far
 from behind	takaa	kadeut
-from behind	takaap‰in	kadeut
+from behind	takaap√§in	kadeut
 from below	alhaalta	lyel
 from below	alta	alel
-from between	v‰lilt‰	el v‰l
-from between	v‰list‰	ut v‰l
-from deep	syv‰lt‰	el dipva
-from deep	syv‰st‰	ut dipva
-from early autumn	alkusyksyst‰	ut nˆenkalno
+from between	v√§lilt√§	el v√§l
+from between	v√§list√§	ut v√§l
+from deep	syv√§lt√§	el dipva
+from deep	syv√§st√§	ut dipva
+from early autumn	alkusyksyst√§	ut n√∂enkalno
 from elsewhere	muualta	tuael
 from everywhere	kaikkialta	kiel
-from head to toe	ylt‰ p‰‰lt‰	ylkiel
-from here	t‰st‰	t‰ut
-from here	t‰‰lt‰	t‰el
-from higher up	ylemp‰‰	ut yllapir
+from head to toe	ylt√§ p√§√§lt√§	ylkiel
+from here	t√§st√§	t√§ut
+from here	t√§√§lt√§	t√§el
+from higher up	ylemp√§√§	ut yllapir
 from home	kotoa	ut bal
-from internet	internetist‰	ut vinet
-from it	siit‰	ut it
+from internet	internetist√§	ut vinet
+from it	siit√§	ut it
 from London	Lontoosta	ut London
-from my heart	syd‰mest‰ni	ut ajof hemoev
-from near by	l‰helt‰	ut raf
-from now on	t‰stedes	t‰ne
-from now on	t‰st‰ l‰htien	t‰ne
-from now on	vastedes	t‰ne
-from on	p‰‰lt‰	el
+from my heart	syd√§mest√§ni	ut ajof hemoev
+from near by	l√§helt√§	ut raf
+from now on	t√§stedes	t√§ne
+from now on	t√§st√§ l√§htien	t√§ne
+from now on	vastedes	t√§ne
+from on	p√§√§lt√§	el
 from one thing to another	asiasta toiseen	ut so tu tua
 from outside	ulkoa	utni
 from outside	ulkopuolelta	nisidel
 from side	sivulta	el sid
-from something	jostain	ut ˆlo
-from somewhere	jostain	ut ˆlo
-from somewhere	jostakin	ˆut
-from that	siit‰	ut it
+from something	jostain	ut √∂lo
+from somewhere	jostain	ut √∂lo
+from somewhere	jostakin	√∂ut
+from that	siit√§	ut it
 from the country	maasta	ut hyl
-from the front	edest‰	ut kaed
+from the front	edest√§	ut kaed
 from the ground	maasta	ut mol
-from the group	ryhm‰st‰	ut iksio
-from the heart	syd‰mest‰	ut hemoev
-from the inside	sis‰st‰	inut
-from the internet	netist‰	ut vinet
+from the group	ryhm√§st√§	ut iksio
+from the heart	syd√§mest√§	ut hemoev
+from the inside	sis√§st√§	inut
+from the internet	netist√§	ut vinet
 from the left	vasemmalta	el lev
-from the middle	keskelt‰	ut mid
+from the middle	keskelt√§	ut mid
 from the place	paikalta	el lo
 from the right	oikealta	el vel
-from the sauna	saunasta	ut l‰ktol
+from the sauna	saunasta	ut l√§ktol
 from the side	sivulta	el sid
-from the side of	vierest‰	ut sidvi
-from the south	etel‰st‰	ut ron
+from the side of	vierest√§	ut sidvi
+from the south	etel√§st√§	ut ron
 from the station	asemalta	el fetultol
-from the table	pˆyd‰lt‰	el laos
-from the trail	j‰ljilt‰	ut deka
+from the table	p√∂yd√§lt√§	el laos
+from the trail	j√§ljilt√§	ut deka
 from the window	ikkunasta	ut kauv
-from there	sielt‰	itel
-from there	tuolta	‰tel
+from there	sielt√§	itel
+from there	tuolta	√§tel
 from time to time	aika ajoin	ut no tu no
-from top to bottom	ylt‰ p‰‰lt‰	ylkiel
+from top to bottom	ylt√§ p√§√§lt√§	ylkiel
 from under	alta	alel
-from us	meilt‰	ut ajsi
-from which subject	mist‰ aineesta	ko-ob mo
-from within	sis‰lt‰	inut
-from within	sis‰st‰	inut
-frontal	edest‰	ut kaed
-full	t‰yteen	fultu
+from us	meilt√§	ut ajsi
+from which subject	mist√§ aineesta	ko-ob mo
+from within	sis√§lt√§	inut
+from within	sis√§st√§	inut
+frontal	edest√§	ut kaed
+full	t√§yteen	fultu
 furious	raivoissaan	miarna
 furiously	raivoissaan	miarna
 further	edelleen	depirna
-further	peremm‰lle	intupir
+further	peremm√§lle	intupir
 further back	taaemma	kadetupir
-further in	sisemp‰n‰	inpirla
+further in	sisemp√§n√§	inpirla
 further on	kauempana	la farpir
 furthest	kauimpana	la farst
-generally	yleens‰	tihna
+generally	yleens√§	tihna
 get fit	kuntoon	mu havosta
 get married	naimisiin	tu bajvi
 gettable	saatavissa	voafna
-going astray	harhateill‰	la tarobtulsi
-Goodbye	kuulemiin	vohˆˆta
+going astray	harhateill√§	la tarobtulsi
+Goodbye	kuulemiin	voh√∂√∂ta
 gridlocked	umpikujassa	in yvfultul
 half asleep	puoliunessa	in duiknuk
 half way	puolimatkassa	in duikrotuo
 half-asleep	puoliunessa	in duiknuk
-halfway	puolitiess‰	in duiktul
-handed	k‰sill‰	tut pavesi
+halfway	puolitiess√§	in duiktul
+handed	k√§sill√§	tut pavesi
 hard at it	kimpussa	in sipao
 have sense	tolalla	na visva
-held	hallussa	pˆvi
-henceforth	t‰stedes	t‰ne
-henceforth	vastedes	t‰ne
-henpecked	tossun alla	pˆal vim‰m
-here	t‰llˆin	t‰na
-here	t‰nne	t‰le
-here	t‰ss‰	t‰in
-here	t‰‰ll‰	t‰la
-hereafter	t‰st‰ eteenp‰in	t‰ut eddir
-herein	t‰ss‰	t‰in
-hereinafter	j‰ljemp‰n‰	depirla
-hereof	t‰st‰	t‰ut
+held	hallussa	p√∂vi
+henceforth	t√§stedes	t√§ne
+henceforth	vastedes	t√§ne
+henpecked	tossun alla	p√∂al vim√§m
+here	t√§ll√∂in	t√§na
+here	t√§nne	t√§le
+here	t√§ss√§	t√§in
+here	t√§√§ll√§	t√§la
+hereafter	t√§st√§ eteenp√§in	t√§ut eddir
+herein	t√§ss√§	t√§in
+hereinafter	j√§ljemp√§n√§	depirla
+hereof	t√§st√§	t√§ut
 hereunder	alla	al
 high	korkealle	le ylva
-high	ylh‰‰ll‰	ylla
+high	ylh√§√§ll√§	ylla
 high up	korkealla	la ylva
-high up	ylh‰‰ll‰	ylla
-higher up	ylemp‰n‰	la yllapir
-hither	t‰nne	t‰le
+high up	ylh√§√§ll√§	ylla
+higher up	ylemp√§n√§	la yllapir
+hither	t√§nne	t√§le
 home	kotia	tu bal
 home	kotiin	tu bal
 hooked	koukkuun	tu huk
@@ -1134,38 +1134,38 @@ horrified	kauhuissaan	hirna
 how long	kuinka kauan	lunako
 how many	kuinka monta	kosi
 how many	monettako	na sivako
-I think	mielest‰ni	ob ajof mi
-immediately	v‰littˆm‰sti	v‰lejna
-imminent	l‰hell‰	raf
-impending	likell‰	raf
-in	perill‰	obla
-in	sis‰ll‰	in
-in	sis‰ss‰	in
-in	sis‰‰n	intu
+I think	mielest√§ni	ob ajof mi
+immediately	v√§litt√∂m√§sti	v√§lejna
+imminent	l√§hell√§	raf
+impending	likell√§	raf
+in	perill√§	obla
+in	sis√§ll√§	in
+in	sis√§ss√§	in
+in	sis√§√§n	intu
 in	-ssa	in
-in a fairy tale	sadussa	in feˆsa
+in a fairy tale	sadussa	in fe√∂sa
 in a house	talossa	in tol
-in a hurry	kiireell‰	vi iprino
-in a moment	hetkess‰	in ipno
+in a hurry	kiireell√§	vi iprino
+in a moment	hetkess√§	in ipno
 in a moment	piakkoin	ipne
-in a moment	silm‰nr‰p‰yksess‰	in kaevtik
-in a real fix	pinteess‰	in ong
-in a row	riviss‰	in leij‰r
+in a moment	silm√§nr√§p√§yksess√§	in kaevtik
+in a real fix	pinteess√§	in ong
+in a row	riviss√§	in leij√§r
 in a suit	puvussa	in rovat
-in alphabetical order	aakkosj‰rjestyksess‰	in a-ˆj‰r
-in any case	joka tapauksessa	in ki obh‰p
-in autumn	syksyll‰	enkalna
+in alphabetical order	aakkosj√§rjestyksess√§	in a-√∂j√§r
+in any case	joka tapauksessa	in ki obh√§p
+in autumn	syksyll√§	enkalna
 in bed	vuoteessa	in nukos
-in between	v‰liss‰	inv‰l
+in between	v√§liss√§	inv√§l
 in bows	kumarruksissa	in bausi
 in case	varalle	tu res
-in childhood	lapsuudessa	ipm‰mna
-in connection with	yhteydess‰	in vio
+in childhood	lapsuudessa	ipm√§mna
+in connection with	yhteydess√§	in vio
 in custody	huostassa	in turke
-in customs	tullissa	in limpˆrovlˆ
+in customs	tullissa	in limp√∂rovl√∂
 in danger	vaarassa	in ahrisk
 in December	joulukuussa	na basduhyn
-in distress	h‰d‰ss‰	in ahnid
+in distress	h√§d√§ss√§	in ahnid
 in due course	aikanaan	itofna
 in due time	ajallaan	ofna
 in excess of	yli	ylli
@@ -1174,106 +1174,106 @@ in faith	uskossa	in us
 in favor of	kannalla	in micu
 in February	helmikuussa	na duhyn
 in Finland	Suomessa	in Finlo
-in front	edess‰	kaed
-in front of	edess‰	kaed
+in front	edess√§	kaed
+in front of	edess√§	kaed
 in front of	eteen	kaedtu
 in ground	maassa	in mol
-in hands	k‰siss‰	in pavesi
+in hands	k√§siss√§	in pavesi
 in hard	kovassa	in kamva
-in head	p‰‰ss‰	in p‰
-in internet	internetiss‰	in vinet
+in head	p√§√§ss√§	in p√§
+in internet	internetiss√§	in vinet
 in its place	paikalleen	le itof lo
 in January	tammikuussa	na ishyn
-in July	hein‰kuussa	na sevhyn
-in June	kes‰kuussa	na sikhyn
+in July	hein√§kuussa	na sevhyn
+in June	kes√§kuussa	na sikhyn
 in March	maaliskuussa	na trehyn
 in May	toukokuussa	na fivhyn
-in mind	mieless‰	in mi
+in mind	mieless√§	in mi
 in October	lokakuussa	na bashyn
-in one	yhdess‰	in is
-in one direction	yht‰‰lle	tu is dir
+in one	yhdess√§	in is
+in one direction	yht√§√§lle	tu is dir
 in one fell swoop	kertaheitolla	vy is heiite
-in one's opinion	jonkun mielest‰	ob kojo-of mi
-in one's possession	omassa hallussaan	ˆfpˆvi
+in one's opinion	jonkun mielest√§	ob kojo-of mi
+in one's possession	omassa hallussaan	√∂fp√∂vi
 in one's sleep	unessa	in nukka
 in one's sleep	unissaan	in nukka
-in order	j‰rjestyksess‰	in j‰r
+in order	j√§rjestyksess√§	in j√§r
 in order	kunnossa	hastana
 in our house	talossamme	in ajsiof tol
 in peace	rauhassa	in pis
 in place	kohdallaan	in iplo
 in place	paikallaan	la itof lo
 in position	paikoilleen	lole
-in possession	hallussa	pˆvi
-in possession	haltuun	tupˆvi
-in power	vallalla	na pˆ
-in power	vallassa	in pˆ
-in preparation	tekeill‰	teenen
+in possession	hallussa	p√∂vi
+in possession	haltuun	tup√∂vi
+in power	vallalla	na p√∂
+in power	vallassa	in p√∂
+in preparation	tekeill√§	teenen
 in private	kahden kesken	duvi
-in remembrance of	muistoksi	for sˆob
-in reserve	reserviss‰	in res
+in remembrance of	muistoksi	for s√∂ob
+in reserve	reserviss√§	in res
 in respect to	suhteen	cu
 in safety	turvassa	in tur
 in secrecy	salassa	dahidna
 in secret	salassa	dahidna
 in September	syyskuussa	na ninhyn
 in service	palvelussa	in ser
-in silence	hiljaisuudessa	in ˆhsta
+in silence	hiljaisuudessa	in √∂hsta
 in spotlight	valokeilassa	in obkat
-In spring	kev‰‰ll‰	enlakna
+In spring	kev√§√§ll√§	enlakna
 in stage	vaiheessa	feisna
 in step with	tasalla	la tal vi
-in summer	kes‰ll‰	lakna
-in that	siin‰	itin
+in summer	kes√§ll√§	lakna
+in that	siin√§	itin
 in the air	ilmassa	in hom
-in the beginning	alussa	in nˆ
-in the berry forest	marjamets‰ss‰	in berpul
-in the chest	rinnassa	in k‰bve
+in the beginning	alussa	in n√∂
+in the berry forest	marjamets√§ss√§	in berpul
+in the chest	rinnassa	in k√§bve
 in the closet	kaapissa	in gabos
-in the cold	kylmiss‰‰n	kalna
-in the daytime	p‰ivisin	tansina
+in the cold	kylmiss√§√§n	kalna
+in the daytime	p√§ivisin	tansina
 in the depths of	uumenissa	in dip
-in the distance	matkan p‰‰ss‰	utfar
+in the distance	matkan p√§√§ss√§	utfar
 in the evening	illalla	ennatna
 in the evening	illan suussa	luvi ennat
-in the event that	mik‰li	ifliko
-in the exhibition	n‰yttelyss‰	in tekah‰p
+in the event that	mik√§li	ifliko
+in the exhibition	n√§yttelyss√§	in tekah√§p
 in the flu	flunssassa	in fluret
-in the forest	mets‰ss‰	in pul
-in the forties	nelj‰kymmenluvulla	kvabasna
-in the group	ryhm‰ss‰	in iksio
+in the forest	mets√§ss√§	in pul
+in the forties	nelj√§kymmenluvulla	kvabasna
+in the group	ryhm√§ss√§	in iksio
 in the hall	hallissa	in leitol
-in the hospital	sairaalassa	in retlˆ
-in the Internet	netiss‰	in vinet
+in the hospital	sairaalassa	in retl√∂
+in the Internet	netiss√§	in vinet
 in the lead	johdossa	na diir
 in the light of	valossa	in kat
-in the meantime	sill‰ v‰lin	itv‰lna
-in the middle	keskell‰	midin
-in the middle	puoliv‰liss‰	in midv‰l
+in the meantime	sill√§ v√§lin	itv√§lna
+in the middle	keskell√§	midin
+in the middle	puoliv√§liss√§	in midv√§l
 in the middle part	keskiosassa	in midik
 in the morning	aamulla	entanna
-in the mountains	vuoristossa	in sipimˆyl
-in the name of	nimess‰	in ersa
+in the mountains	vuoristossa	in sipim√∂yl
+in the name of	nimess√§	in ersa
 in the open air	ulkoilmassa	niylloal
-in the package	paketissa	in p‰k
+in the package	paketissa	in p√§k
 in the park	puistossa	in taunpul
-in the past	menneisyydess‰	na enno
+in the past	menneisyydess√§	na enno
 in the position	kannassa	in micu
 in the rain	sateessa	in vamly
 in the rear	taa	kadetu
-in the sauna	saunassa	in l‰ktol
+in the sauna	saunassa	in l√§ktol
 in the service	palvelussa	in ser
-in the south	etel‰ss‰	in ron
-in the spring	kev‰isin	na enlaknosi
+in the south	etel√§ss√§	in ron
+in the spring	kev√§isin	na enlaknosi
 in the street	kadulla	la tauntul
 in the tower	tornissa	in taptol
 in the wagon	vaunussa	in tutolik
-in the village	kyl‰ss‰	in cel
+in the village	kyl√§ss√§	in cel
 in the wind	tuulessa	in hou
-in the woods	mets‰ss‰	in pul
-in the year	vuonna	j‰nna
-in this	t‰ss‰	t‰in
-in this century	t‰ll‰ vuosisadalla	t‰j‰ncesna
+in the woods	mets√§ss√§	in pul
+in the year	vuonna	j√§nna
+in this	t√§ss√§	t√§in
+in this century	t√§ll√§ vuosisadalla	t√§j√§ncesna
 in threes	kolmittain	vy tre
 in time	aikojaan	inofno
 in time	ajallaan	ofna
@@ -1283,59 +1283,59 @@ in travel fever	matkakuumeessa	in rotuofra
 in two	kahdessa	in du
 in two	kahtia	duikmu
 in two parts	halki	duikmu
-in use	k‰ytˆss‰	na teo
+in use	k√§yt√∂ss√§	na teo
 in way	matkalla	la tuo
 in which	jossa	koin
 in winter	talvella	na kalno
 in winter	talvisin	na kalnosi
-in your hand	k‰dess‰si	in jaof pave
-inboard	sis‰ll‰	in
+in your hand	k√§dess√§si	in jaof pave
+inboard	sis√§ll√§	in
 included	mukana	ofvi
-indefinitely	loputtomiin	ˆnejtu
-indoors	sis‰ll‰	in
+indefinitely	loputtomiin	√∂nejtu
+indoors	sis√§ll√§	in
 infrequency	harvoin	hitna
 infrequent	harvoin	hitna
 infrequently	harvoin	hitna
-infrequently	toisinaan	ˆsina
+infrequently	toisinaan	√∂sina
 infuriated	raivoissaan	miarna
-initially	aluksi	nˆmu
-inner	sisemp‰n‰	inpirla
-inside	sis‰ll‰	in
-inside	sis‰puolella	inosidla
-inside	sis‰ss‰	in
-instantaneously	v‰littˆm‰sti	v‰lejna
-instantly	v‰littˆm‰sti	v‰lejna
+initially	aluksi	n√∂mu
+inner	sisemp√§n√§	inpirla
+inside	sis√§ll√§	in
+inside	sis√§puolella	inosidla
+inside	sis√§ss√§	in
+instantaneously	v√§litt√∂m√§sti	v√§lejna
+instantly	v√§litt√∂m√§sti	v√§lejna
 instead of	asemasta	forsij
 instead of	asemesta	forsij
 instead of	sijaan	forsij
 interacted	vuorovaikutuksessa	in altys
 interacting	vuorovaikutuksessa	in altys
-intermittently	ajoittain	ˆsina
-intermittently	joskus	ˆsina
+intermittently	ajoittain	√∂sina
+intermittently	joskus	√∂sina
 interspersed	seassa	insio
 intime	ajallaan	ofna
-into	sis‰lle	inle
-into	sis‰‰n	intu
+into	sis√§lle	inle
+into	sis√§√§n	intu
 into account	huomioon	tu obtark
 into mind	mieleen	tu mi
 into something	jonkin sekaan	tu siovi
 into the dish	astiaan	intu ves
 into the liquid	nesteeseen	intu vom
 into the mix	sekaan	intusio
-into view	n‰kyviin	le autkaava
-inward	sis‰‰np‰in	indirtu
-inwards	sis‰‰np‰in	indirtu
+into view	n√§kyviin	le autkaava
+inward	sis√§√§np√§in	indirtu
+inwards	sis√§√§np√§in	indirtu
 involve	mukana	ofvi
 involved	mukana	ofvi
-jointly	yhdess‰	revi
+jointly	yhdess√§	revi
 just	juuri	jusna
-lagging	j‰ljess‰	de
-last	viimeksi	ˆnstna
+lagging	j√§ljess√§	de
+last	viimeksi	√∂nstna
 last evening	viime iltana	edennatna
-lastly	lopuksi	ˆnna
-late	myˆh‰‰n	ylna
-lately	viime aikoina	edˆnna
-lately	viimeaikoina	edˆnna
+lastly	lopuksi	√∂nna
+late	my√∂h√§√§n	ylna
+lately	viime aikoina	ed√∂nna
+lately	viimeaikoina	ed√∂nna
 later in life	vanhemmiten	nepir in eo
 leading	johdossa	na diir
 leave alone	hunningolle	tu ahvosta
@@ -1346,142 +1346,142 @@ liable	vastuussa	in okofo
 liberate	irti	ur
 livid	raivoissaan	miarna
 long	kauan	luna
-long	pitk‰‰n	luna
+long	pitk√§√§n	luna
 long time	kauaa	luna
 loose	irti	ur
 lower	alempana	la lypir
 many times	monasti	sina
 married	naimisissa	bajvi
-meantime	sill‰ v‰lin	itv‰lna
-meantime	t‰ll‰ v‰lin	t‰v‰lna
-meanwhile	sill‰ v‰lin	itv‰lna
-middle	keskell‰	midin
-midnight	keskiyˆll‰	na midnat
-midst	keskell‰	midin
-midway	puoliv‰liss‰	in midv‰l
+meantime	sill√§ v√§lin	itv√§lna
+meantime	t√§ll√§ v√§lin	t√§v√§lna
+meanwhile	sill√§ v√§lin	itv√§lna
+middle	keskell√§	midin
+midnight	keskiy√∂ll√§	na midnat
+midst	keskell√§	midin
+midway	puoliv√§liss√§	in midv√§l
 modernist	modernisti	novnolijo
 mondays	maanantaisin	na batansi
 more	edelleen	depirna
-more central	keskemm‰lle	tu midpir
+more central	keskemm√§lle	tu midpir
 mornings	aamuisin	na entansi
-near	likell‰	raf
+near	likell√§	raf
 near	luona	tut
-near	l‰hell‰	raf
-near	l‰hettyvill‰	raf
-near	tykˆn‰	tut
-near	‰‰rell‰	tut
-near by	l‰hell‰	raf
-nearby	l‰hell‰	raf
-nearby	l‰himain	la raflo
-nearer	l‰hemm‰ksi	tu rafpir
-nearer	l‰hemm‰s	tu rafpir
-nearer	l‰hemp‰n‰	la rafpir
+near	l√§hell√§	raf
+near	l√§hettyvill√§	raf
+near	tyk√∂n√§	tut
+near	√§√§rell√§	tut
+near by	l√§hell√§	raf
+nearby	l√§hell√§	raf
+nearby	l√§himain	la raflo
+nearer	l√§hemm√§ksi	tu rafpir
+nearer	l√§hemm√§s	tu rafpir
+nearer	l√§hemp√§n√§	la rafpir
 necessary	tarpeen	fornid
 necessitated	tarpeen	fornid
-never	ei ikin‰	ejejna
+never	ei ikin√§	ejejna
 never	ei koskaan	ejna
 never	ei milloinkaan	ejkona
-next to	vieress‰	sidvi
-next to me	vieress‰ni	sidvi aj
-nigh	l‰hell‰	raf
+next to	vieress√§	sidvi
+next to me	vieress√§ni	sidvi aj
+nigh	l√§hell√§	raf
 nightly	iltaisin	na ennatsi
-nightly	ˆisin	na natsi
-nighttime	yˆaikaan	na natno
-nine months pregnant	viimeisill‰‰n	ˆnstlina
-noonday	keskip‰iv‰ll‰	na midtan
-noontide	keskip‰iv‰ll‰	na midtan
-normally	yleens‰	tihna
+nightly	√∂isin	na natsi
+nighttime	y√∂aikaan	na natno
+nine months pregnant	viimeisill√§√§n	√∂nstlina
+noonday	keskip√§iv√§ll√§	na midtan
+noontide	keskip√§iv√§ll√§	na midtan
+normally	yleens√§	tihna
 northeast	koilliseen	tu nortev
 northeastern	koilliseen	tu nortev
 northwest	luoteeseen	tu norvet
-now and then	silloin t‰llˆin	itna t‰na
-now and then	toisinaan	ˆsina
+now and then	silloin t√§ll√∂in	itna t√§na
+now and then	toisinaan	√∂sina
 nowadays	nykyisin	nenna
-nowadays	nyky‰‰n	nenna
+nowadays	nyky√§√§n	nenna
 obtainable	saatavissa	voafna
-occasionally	silloin t‰llˆin	itna t‰na
-occasionally	toisinaan	ˆsina
-occasionally	v‰lill‰	v‰lna
+occasionally	silloin t√§ll√∂in	itna t√§na
+occasionally	toisinaan	√∂sina
+occasionally	v√§lill√§	v√§lna
 of	omistusprepositio	of
 of all	kaikista	ob ki
 of all	kaikkein	kiob
 of faith	uskosta	ob us
 of iron	raudasta	ob moFe
-of it	siit‰	ob it
+of it	siit√§	ob it
 of oak	tammesta	ob ekpu
-of power	vallasta	ˆb pˆ
-of that	tuosta	ob ‰t
+of power	vallasta	√∂b p√∂
+of that	tuosta	ob √§t
 of the two	kahdesta	ob du
-of what material	mist‰ aineesta	ko-ob mo
-of what material	mist‰ materiaalista	ko-ob mo
+of what material	mist√§ aineesta	ko-ob mo
+of what material	mist√§ materiaalista	ko-ob mo
 of wood	puusta	ob pum
 off	irti	ur
 off	pois	yr
-off (current)	pois p‰‰lt‰ (virta)	yr (s‰htuo)
-off (device)	pois p‰‰lt‰ (laite)	yr (vˆ)
-off (light)	pois p‰‰lt‰ (valo)	yr (kat)
+off (current)	pois p√§√§lt√§ (virta)	yr (s√§htuo)
+off (device)	pois p√§√§lt√§ (laite)	yr (v√∂)
+off (light)	pois p√§√§lt√§ (valo)	yr (kat)
 oft	usein	sina
 often	monesti	sina
 often	useasti	sina
 often	usein	sina
 okay	kunnossa	hastana
 on	pinnalle	le lao
-on	p‰‰lle	le
-on	p‰‰ll‰	la
+on	p√§√§lle	le
+on	p√§√§ll√§	la
 on	varaan	vytu
 on	varrella	luraf
-on	yll‰	la
-on (light, device)	p‰‰ll‰ (valo, laite)	ry (kat, vˆ)
+on	yll√§	la
+on (light, device)	p√§√§ll√§ (valo, laite)	ry (kat, v√∂)
 on a level with	tasalle	le tal
-on a public holiday	pyh‰n‰	na pyhtan
+on a public holiday	pyh√§n√§	na pyhtan
 on a visit	vieraisilla	la vifaroote
-on behalf of	nimiss‰	in ersa
-on behalf of	puolesta	gˆ
-on board	kyydiss‰	la rotut
-on display	n‰ytteill‰	la teka
+on behalf of	nimiss√§	in ersa
+on behalf of	puolesta	g√∂
+on board	kyydiss√§	la rotut
+on display	n√§ytteill√§	la teka
 on edge	reunalla	la dim
-on fire	tulessa	in bˆn
+on fire	tulessa	in b√∂n
 on foot	jalkaisin	tuveli
 on Friday	perjantaina	na gutan
 on Fridays	perjantaisin	na gutansi
-on hand	k‰dess‰	in pave
-on head	p‰‰h‰n	le p‰
-on head	p‰‰ss‰	la p‰
-on holiday	lomalla	urtˆna
+on hand	k√§dess√§	in pave
+on head	p√§√§h√§n	le p√§
+on head	p√§√§ss√§	la p√§
+on holiday	lomalla	urt√∂na
 on Monday	maanantaina	na batan
 on Mondays	maanantaisin	na batansi
-on occasion	silloin t‰llˆin	itna t‰na
+on occasion	silloin t√§ll√∂in	itna t√§na
 on one's own	yksin	isvi
-on our behalf	meid‰n edest‰mme	for ajsi
+on our behalf	meid√§n edest√§mme	for ajsi
 on our behalf	puolestamme	for ajsi
-on request	pyynnˆst‰	ob teaf
+on request	pyynn√∂st√§	ob teaf
 on Saturday	lauantaina	na hytan
 on saturdays	lauantaisin	na hytansi
-on Sunday	sunnuntaina	na j‰tan
-on Sundays	sunnuntaisin	na j‰tansi
+on Sunday	sunnuntaina	na j√§tan
+on Sundays	sunnuntaisin	na j√§tansi
 on the bridge	sillalla	la yllitulos
 on the brink of	partaalla	la dim
 on the day after tomorrow	ylihuomenna	yldetanna
-on the defensive	puolustuskannalla	na ˆgyvmicu
-on the farm	maatilalla	la villˆ
+on the defensive	puolustuskannalla	na √∂gyvmicu
+on the farm	maatilalla	la vill√∂
 on the floor	lattialla	la lytal
 on the ground	maassa	la mol
-on the hook	kiikiss‰	hukru
-on the lam	k‰p‰l‰m‰ess‰	la raktuo
+on the hook	kiikiss√§	hukru
+on the lam	k√§p√§l√§m√§ess√§	la raktuo
 on the left	vasemmalla	la lev
-on the loose	karkuteill‰	la yrifrtulsi
-on the mountain	vuorella	la pimˆyl
+on the loose	karkuteill√§	la yrifrtulsi
+on the mountain	vuorella	la pim√∂yl
 on the page	sivulla	la kirsid
 on the right	oikealla	la vel
-on the road	tiell‰	la tul
-on the screen	n‰ytˆll‰	la tekalao
+on the road	tiell√§	la tul
+on the screen	n√§yt√∂ll√§	la tekalao
 on the shore	rannalla	la vamdim
 on the side of	puolella	la sid
-on the slope	rinteess‰	la mˆylleikia
+on the slope	rinteess√§	la m√∂ylleikia
 on the spot	paikalla	la lo
-on the table	pˆyd‰ll‰	la laos
-on the trail of	j‰ljill‰	la deka
-on the wall	sein‰ll‰	la vol
+on the table	p√∂yd√§ll√§	la laos
+on the trail of	j√§ljill√§	la deka
+on the wall	sein√§ll√§	la vol
 on the way	matkalla	la rotuo
 on the verge of	partaalla	la dim
 on Thursday	torstaina	na fotan
@@ -1490,42 +1490,42 @@ on time	ajallaan	ofna
 on time	ajoissa	haedna
 on times	aikoina	nosina
 on tiptoes	varpaillaan	la tuvetapsi
-on to	p‰‰lle	le
+on to	p√§√§lle	le
 on Tuesday	tiistaina	na cetan
 on Tuesdays	tiistaisin	na cetansi
 on Wednesday	keskiviikkona	na ditan
 on Wednesdays	keskiviikkoisin	na ditansi
-on which	jonka p‰‰ll‰	kola
+on which	jonka p√§√§ll√§	kola
 on your side	rinnalla	sidvi
 once	aikoinaan	ofna
 once	kerran	isna
-once in a while	silloin t‰llˆin	itna t‰na
-once more	viel‰ kerran	pirnen isna
-one after the other	per‰j‰lkeen	isdetua
-one more time	viel‰ kerran	pirnen isna
+once in a while	silloin t√§ll√∂in	itna t√§na
+once more	viel√§ kerran	pirnen isna
+one after the other	per√§j√§lkeen	isdetua
+one more time	viel√§ kerran	pirnen isna
 onetime	kerran	isna
 one-time	kerran	isna
 online	online	lanet
 online	verkossa	la net
 onshore	maissa	lamol
-onto	p‰‰lle	le
+onto	p√§√§lle	le
 onward	edelleen	depirna
-opposite	vastap‰‰t‰	ˆgdir
-orderly	j‰rjestyksess‰	in j‰r
-ordinarily	yleens‰	tihna
-other way around	toisinp‰in	tuadirtu
+opposite	vastap√§√§t√§	√∂gdir
+orderly	j√§rjestyksess√§	in j√§r
+ordinarily	yleens√§	tihna
+other way around	toisinp√§in	tuadirtu
 otherworldly	muualla	tuala
 out	esiin	tued
-out	esill‰	kaedla
+out	esill√§	kaedla
 out	julki	tudih
-out	loppuun	tu ˆn
+out	loppuun	tu √∂n
 out	ulos	nitu
 out in the open	ulkona	ni
 out of	ulos	nitu
-out of mind	mielest‰	ut mi
+out of mind	mielest√§	ut mi
 out of reach	ulottuvilta	ut tuloafva
 out of the way	poissa tolalta	yrdakavostana
-out of the way	syrj‰‰n	tu sidlo
+out of the way	syrj√§√§n	tu sidlo
 outdoor	ulkona	ni
 outdoors	ulkona	ni
 outdoors	ulkosalla	niylloal
@@ -1538,20 +1538,20 @@ outside	ulkopuolella	nisidla
 outside	ulos	nitu
 outside of	ulkopuolella	nisidla
 outskirts	laitamilla	la dimsid
-over	p‰‰lle	le
+over	p√§√§lle	le
 over	yli	ylli
 over	ylle	ylle
 over-	yli-	yl
-over against	vastassa	ˆgla
+over against	vastassa	√∂gla
 over everything	yli kaiken	ylli ki
-over here	t‰h‰n	tu t‰
-over there	tuolla	‰tla
-over there	tuonne	‰tle
-overhead	ylh‰‰ll‰	ylla
-overhead	yl‰puolella	ylsidla
+over here	t√§h√§n	tu t√§
+over there	tuolla	√§tla
+over there	tuonne	√§tle
+overhead	ylh√§√§ll√§	ylla
+overhead	yl√§puolella	ylsidla
 overland	maitse	luvi mol
-overnight	hetkess‰	in ipno
-overnight	yli yˆn	ylli nat
+overnight	hetkess√§	in ipno
+overnight	yli y√∂n	ylli nat
 owing to	vuoksi	syfor
 panic-stricken	paniikissa	in raktuohir
 panic-struck	paniikissa	in raktuohir
@@ -1559,27 +1559,27 @@ past	ohi	sidut
 per	kohden	obri
 per	kohti	obri
 per	per	obri
-per annum	vuodessa	in j‰n
-per day	p‰iv‰ss‰	obri tan
+per annum	vuodessa	in j√§n
+per day	p√§iv√§ss√§	obri tan
 per hour	tunnissa	in din
 per week	viikossa	in gun
-per year	vuodessa	in j‰n
-periodically	toisinaan	ˆsina
-piggyback	reppusel‰ss‰	b‰kveb‰gvi
-pleased	mieliss‰‰n	na hamiva
+per year	vuodessa	in j√§n
+periodically	toisinaan	√∂sina
+piggyback	reppusel√§ss√§	b√§kveb√§gvi
+pleased	mieliss√§√§n	na hamiva
 possessive preposition	omistusprepositio	of
 possessive suffix	omistusliite	of
-present	l‰sn‰	tutvi
+present	l√§sn√§	tutvi
 present	paikalla	la lo
-presently	t‰ll‰ hetkell‰	nenipna
+presently	t√§ll√§ hetkell√§	nenipna
 pressing	painamalla	vy polyy
 pretty often	aika usein	rafli sina
 previously	aiemmin	edpirna
 previously	ennen	en
 prior	ennen	en
-pro	pro	gˆ
-pro	puolesta	gˆ
-provided	mik‰li	ifliko
+pro	pro	g√∂
+pro	puolesta	g√∂
+provided	mik√§li	ifliko
 quicker	pikemmin	ripna
 quiescent	lepotilassa	na etsta
 quite often	aika usein	rafli sina
@@ -1594,7 +1594,7 @@ regularly	usein	sina
 respectively	kulloinkin	obkina
 responsible	vastuussa	in okofo
 rest on	varassa	supvi
-retired	el‰kkeell‰	na unrov
+retired	el√§kkeell√§	na unrov
 rid	eroon	erur
 rid of	eroon	erur
 right	oikeassa	inrat
@@ -1606,76 +1606,76 @@ second	toiseksi	duvamu
 secondly	toisekseen	duvamu
 secondly	toiseksi	duvamu
 seldom	harvoin	hitna
-semiannually	puolivuosittain	duikj‰nna
+semiannually	puolivuosittain	duikj√§nna
 sheltered	suojassa	in sef
 shortly	pian	ipne
-showing	esill‰	kaedla
-side by side	rinta rinnan	k‰bve vi k‰bve
+showing	esill√§	kaedla
+side by side	rinta rinnan	k√§bve vi k√§bve
 sidelined	sivussa	in sid
 sideways	sivulle	le sid
-since	siit‰ asti kun	utit na
-since year	jo vuodesta	ripnen ut j‰n
+since	siit√§ asti kun	utit na
+since year	jo vuodesta	ripnen ut j√§n
 single-handedly	yksin	isvi
 solo	yksin	isvi
-some day	jonain p‰iv‰n‰	na ˆ tan
-some time	jonkin aikaa	ˆri no
-someplace	jossain	ˆin
-something like that	sinnep‰in	itdirtu
-sometime	jonkin aikaa	ˆri no
-sometime	joskus	ˆsina
+some day	jonain p√§iv√§n√§	na √∂ tan
+some time	jonkin aikaa	√∂ri no
+someplace	jossain	√∂in
+something like that	sinnep√§in	itdirtu
+sometime	jonkin aikaa	√∂ri no
+sometime	joskus	√∂sina
 sometime	kerran	isna
-sometimes	ajoittain	ˆsina
-sometimes	joskus	ˆsina
-sometimes	toisinaan	ˆsina
-somewhere	jonnekin	ˆtu
-somewhere	jossain	ˆin
+sometimes	ajoittain	√∂sina
+sometimes	joskus	√∂sina
+sometimes	toisinaan	√∂sina
+somewhere	jonnekin	√∂tu
+somewhere	jossain	√∂in
 somewhere else	muualla	tuala
 soon	aikaisin	lyna
 soon	piakkoin	ipne
 soon	pian	ipne
 sooner	ennen	en
-south	etel‰‰n	tu ron
+south	etel√§√§n	tu ron
 southeast	kaakkoon	tu rontev
-southward	etel‰‰n	tu ron
+southward	etel√§√§n	tu ron
 southwest	lounaaseen	tu ronvet
-starting from now	t‰st‰ l‰htien	t‰ne
+starting from now	t√§st√§ l√§htien	t√§ne
 stationary	paikallaan	la itof lo
-step-by-step	askel askeleelta	tuov‰l vy tuov‰l
+step-by-step	askel askeleelta	tuov√§l vy tuov√§l
 sticking	kiinni	ru
 still	edelleen	depirna
 straight past	ohi	sidut
-straight to	pahki	reiˆg
+straight to	pahki	rei√∂g
 strike home	kohdalleen	tu iplo
 stuck	kiinni	ru
 subsequently	sitten	itne
-suddenly	yht‰kki‰	sadna
+suddenly	yht√§kki√§	sadna
 suited	omiaan	hafor
-summerly	kes‰isin	na laknosi
-Sundays	sunnuntaisin	na j‰tansi
+summerly	kes√§isin	na laknosi
+Sundays	sunnuntaisin	na j√§tansi
 super	yli-	yl
-surrounding	ymp‰rill‰	raula
-take off	tiehens‰	tulur
+surrounding	ymp√§rill√§	raula
+take off	tiehens√§	tulur
 terrified	kauhuissaan	hirna
-that way	sinnep‰in	itdirtu
+that way	sinnep√§in	itdirtu
 then	silloin	itna
 then	sitten	itne
-then	tuolloin	‰tna
-then	t‰llˆin	t‰na
-thence	sielt‰	itel
+then	tuolloin	√§tna
+then	t√§ll√∂in	t√§na
+thence	sielt√§	itel
 there	perille	oble
-there	siell‰	itla
+there	siell√§	itla
 there	sinne	itle
-there	tuonne	‰tle
-there	tuossa	‰tin
-thereabouts	niill‰ main	itrafla
-thereafter	sen j‰lkeen	itne
-therefrom	sielt‰	itel
-therefrom	siit‰	ut it
-therein	siin‰	itin
-thereof	siit‰	ut it
-thereon	sen p‰‰ll‰	la it
+there	tuonne	√§tle
+there	tuossa	√§tin
+thereabouts	niill√§ main	itrafla
+thereafter	sen j√§lkeen	itne
+therefrom	sielt√§	itel
+therefrom	siit√§	ut it
+therein	siin√§	itin
+thereof	siit√§	ut it
+thereon	sen p√§√§ll√§	la it
 thereto	siihen	tuit
-this week	t‰ll‰ viikolla	t‰ gunna
+this week	t√§ll√§ viikolla	t√§ gunna
 thither	sinne	itle
 threesome	kolmistaan	trevi
 through	kautta	intuni
@@ -1683,37 +1683,37 @@ through it	sen kautta	intuni it
 throughout	halki	duiktu
 throughout	kaikkialla	kila
 tight	tiukalle	le urtensva
-till	asti	‰ttu
+till	asti	√§ttu
 till	kunnes	tuna
-time is at the end	aika on lopussa	no oo in ˆn
+time is at the end	aika on lopussa	no oo in √∂n
 timely	ajoissa	haedna
-to	jonnekin	ˆtu
+to	jonnekin	√∂tu
 to	luo	tu
 to	luokse	tu
-to	tykˆ	tu
+to	tyk√∂	tu
 to and fro	edestakaisin	tuaut
 to another	toiselle	le tua
-to begin with	aivan aluksi	fulli nˆmu
-to death	kuoliaaksi	mu eˆˆnen
-to deep	syv‰lle	tu dipva
+to begin with	aivan aluksi	fulli n√∂mu
+to death	kuoliaaksi	mu e√∂√∂nen
+to deep	syv√§lle	tu dipva
 to escape	pakosalle	le raktuo
 to everyone	kaikille	tu ki
 to exhaustion	uuvuksiin	mu pouurte
 to life	henkiin	tu ho
-to my husband	miehelleni	tu ajof vim‰
-to my satisfaction	kyll‰kseni	fulaafli for aj
+to my husband	miehelleni	tu ajof vim√§
+to my satisfaction	kyll√§kseni	fulaafli for aj
 to my sorrow	surukseni	mu ajof sor
-to power	valtaan	tu pˆ
-to start with	aluksi	nˆmu
-to that	tuohon	tu ‰t
-to the balcony	parvekkeelle	le b‰lk
+to power	valtaan	tu p√∂
+to start with	aluksi	n√∂mu
+to that	tuohon	tu √§t
+to the balcony	parvekkeelle	le b√§lk
 to the beach	rannalle	le vamdim
-to the beginning	alkuun	tu nˆ
-to the cottage	mˆkille	tu iptol
+to the beginning	alkuun	tu n√∂
+to the cottage	m√∂kille	tu iptol
 to the destination	perille	oble
 to the edge	reunalle	le dim
-to the ends of the world	maailman ‰‰riin	tu kˆlult
-to the exhibition	n‰yttelyyn	tu tekah‰p
+to the ends of the world	maailman √§√§riin	tu k√∂lult
+to the exhibition	n√§yttelyyn	tu tekah√§p
 to the foothills	liepeille	dimtu
 to the house	taloon	tu tol
 to the island	saarelle	le vammol
@@ -1723,47 +1723,47 @@ to the middle	keskelle	tu midlo
 to the middle	keskuuteen	tu siovi
 to the movement	liikkeelle	tu uo
 to the network	verkkoon	tu net
-to the opposite side	vastakkaiselle puolelle	tu ˆgsid
+to the opposite side	vastakkaiselle puolelle	tu √∂gsid
 to the other side	toiselle puolelle	le tua sid
 to the park	puistoon	tu taunpul
 to the place	paikalle	le lo
-to the polyclinic	poliklinikalle	le tanretlˆ
+to the polyclinic	poliklinikalle	le tanretl√∂
 to the right	oikeaan	tu vel
 to the right	oikealle	le vel
-to the sauna	saunaan	tu l‰ktol
+to the sauna	saunaan	tu l√§ktol
 to the side	kyljelleen	tu sidve
 to the side	sivulle	le sid
 to the station	asemalle	le fetultol
-to the table	pˆyt‰‰n	tu laos
-to the utmost	‰‰rimmilleen	tu ultst
-to the village	kyl‰‰n	tu cel
-to the world	maailmalle	le kˆl
-to trace	j‰ljille	tu deka
+to the table	p√∂yt√§√§n	tu laos
+to the utmost	√§√§rimmilleen	tu ultst
+to the village	kyl√§√§n	tu cel
+to the world	maailmalle	le k√∂l
+to trace	j√§ljille	tu deka
 to underdog	alakynteen	tu alvosta
 to us	meille	tu ajsi
-to your wife	vaimollesi	tu jaof vi‰m
+to your wife	vaimollesi	tu jaof vi√§m
 to-and-fro	edestakaisin	tuaut
 today	nykyisin	nenna
-today	nyky‰‰n	nenna
-today	t‰n‰‰n	t‰tanna
-today's	t‰m‰n p‰iv‰n	t‰tan
+today	nyky√§√§n	nenna
+today	t√§n√§√§n	t√§tanna
+today's	t√§m√§n p√§iv√§n	t√§tan
 together	kokoon	tukivi
 together	koolle	le relotuo
 together	koossa	kivi
-together	yhdess‰	revi
+together	yhdess√§	revi
 together	yhteen	tuisvi
 together	yksiin	tu is
 tomorrow	huomenissa	detanna
 tomorrow	huomenna	detanna
-topped	p‰‰ll‰	la
+topped	p√§√§ll√§	la
 touring	kiertueella	na rausio
 toward	kohti	tuob
 toward	suuntaan	tu dir
 towards	kohtaan	obcu
 towards	kohti	tuob
-towards	p‰in	dirtu
-trailed	per‰ss‰	dein
-trailing	per‰ss‰	dein
+towards	p√§in	dirtu
+trailed	per√§ss√§	dein
+trailing	per√§ss√§	dein
 translate in preposition	-ksi	mu
 true	totta	daril
 Tuesdays	tiistaisin	na cetansi
@@ -1771,15 +1771,15 @@ two o'clock	kello kaksi	na du
 ubiquitous	kaikkialla	kila
 ubiquitously	kaikkialla	kila
 ubiquity	kaikkialla	kila
-ugh	hyi	ˆgah
+ugh	hyi	√∂gah
 unaccompanied	yksin	isvi
-unaltered	entisell‰‰n	li en
+unaltered	entisell√§√§n	li en
 under	alla	al
 under	alle	alle
 under-	ali-	al
-under one's feet	tossun alla	pˆal vim‰m
+under one's feet	tossun alla	p√∂al vim√§m
 under the open sky	taivasalla	al yllo
-underhand	k‰sill‰	tut pavesi
+underhand	k√§sill√§	tut pavesi
 underlying	alla	al
 underlying	taustalla	la kadeob
 underneath	alla	al
@@ -1792,37 +1792,37 @@ unfrequently	harvoin	hitna
 unhooked	irti	ur
 unscrewed	irti	ur
 unstuck	irti	ur
-until	asti	‰ttu
+until	asti	√§ttu
 until	kunnes	tuna
-until	saakka	‰ttu
+until	saakka	√§ttu
 until further notice	toistaiseksi	tuaenmu
-unto	tykˆ	tu
+unto	tyk√∂	tu
 up	esille	kaedle
 up	jalkeilla	tuvesila
 up	pystyyn	tisdirtu
 up	umpeen	yvfulmu
-up	ylh‰‰ll‰	ylla
-up	ylˆs	yltu
+up	ylh√§√§ll√§	ylla
+up	yl√∂s	yltu
 up to	aikeissa	na nesoo
-up to	asti	‰ttu
-up-front	edess‰	kaed
-uphill	yl‰m‰keen	tu ylmˆyl
-upon	p‰‰lle	le
-upon	p‰‰ll‰	la
-uppermost	ylimp‰n‰	la yllast
-upstairs	yl‰kerrassa	in ylleiyl
-upwards	ylˆs	yltu
-usually	yleens‰	tihna
+up to	asti	√§ttu
+up-front	edess√§	kaed
+uphill	yl√§m√§keen	tu ylm√∂yl
+upon	p√§√§lle	le
+upon	p√§√§ll√§	la
+uppermost	ylimp√§n√§	la yllast
+upstairs	yl√§kerrassa	in ylleiyl
+upwards	yl√∂s	yltu
+usually	yleens√§	tihna
 wasted	hukkaan	for nivro
-wearing	yll‰‰n	la
+wearing	yll√§√§n	la
 wedded	naimisissa	bajvi
 weekdays	arkisin	na tetansi
-weekends	viikonloppuisin	gunˆnsina
-versus	vastaan	ˆg
-westward	l‰nteen	tu vet
+weekends	viikonloppuisin	gun√∂nsina
+versus	vastaan	√∂g
+westward	l√§nteen	tu vet
 what for	mihin	kofor
 what for	miksi	kofor
-what for	mit‰ varten	kofor
+what for	mit√§ varten	kofor
 when	jolloin	kona
 when	kun	na
 when	milloin	kona
@@ -1834,15 +1834,15 @@ whereby	jonka avulla	kovy
 wherein	jossa	koin
 whereof	josta	kout
 whereunto	mihin	kointu
-whereupon	mink‰ j‰lkeen	kone
+whereupon	mink√§ j√§lkeen	kone
 while	samalla kun	rena
-while	sill‰ v‰lin	itv‰lna
+while	sill√§ v√§lin	itv√§lna
 whilst	aikana	na
-who for	ket‰ varten	kojofor
+who for	ket√§ varten	kojofor
 via	kautta	intuni
-visible	esill‰	kaedla
-visible	n‰kyville	le autkaava
-visible	n‰kyviss‰	in autkaava
+visible	esill√§	kaedla
+visible	n√§kyville	le autkaava
+visible	n√§kyviss√§	in autkaava
 visiting	vieraisilla	la vifaroote
 with	kanssa	vi
 with	kera	vi
@@ -1851,11 +1851,11 @@ with	mukaan	tuvi
 with	mukana	ofvi
 with	parissa	tutvi
 with	seurassa	tutvi
-with an awakened conscience	her‰nneell‰ tunnolla	vi ˆnnuuken hahfi
-with haste	kiireell‰	vi iprino
+with an awakened conscience	her√§nneell√§ tunnolla	vi √∂nnuuken hahfi
+with haste	kiireell√§	vi iprino
 with help	turvin	vy tur
 with interest	mielenkiinnolla	vi ruhami
-with it	sill‰	vy it
+with it	sill√§	vy it
 with me	kanssani	vi aj
 with me	mukanani	ofvi aj
 with proviso	ehdolla	na ifo
@@ -1863,206 +1863,206 @@ with reconciliation	sovinnolla	vy hasop
 with regard to	suhteen	cu
 with someone	jonkun sekaan	tu siovi
 with the flu	flunssassa	in fluret
-with what	mill‰	kovy
-with which	mink‰ kanssa	kovi
+with what	mill√§	kovy
+with which	mink√§ kanssa	kovi
 with who	kenen kanssa	kojovi
 with you	kanssasi	vi ja
 with you	mukanasi	ofvi ja
 withal	ohessa	vi
 withal	samalla	rena
 within	puitteissa	invi
-within	sis‰ll‰	in
+within	sis√§ll√§	in
 within easy reach	saatavissa	voafna
-wrong	v‰‰r‰ss‰	intar
-vs.	vastaan	ˆg
+wrong	v√§√§r√§ss√§	intar
+vs.	vastaan	√∂g
 yesterday	eilen	edtanna
-yonder	tuolla	‰tla
-yuck	hyi	ˆgah
-yuck	y‰k	ˆgah
-yuck	yˆk	yˆk
-See more from a vosa dictionary!	Katso lis‰‰ vosan sanastosta!	Kaa pir ut ˆ vosa sisato!
-Word order	Sanaj‰rjestys	Saj‰r
-In questions, the predicate comes before the subject.	Kysymyksiss‰ predikaatti tulee ennen subjektia.	In kosi teolusaik uut ed josa.
-Are you?	Oletko sin‰?	Ooko ja?
-In the imperative, the verb comes before personal pronoun or the word meaning person.	K‰skymuodossa verbi tulee ennen persoonapronominia tai henkilˆ‰ tarkoittavaa sanaa.	In pˆsakau tesa uut ed hojocuosa taj hojo obmaarkva sa.
+yonder	tuolla	√§tla
+yuck	hyi	√∂gah
+yuck	y√§k	√∂gah
+yuck	y√∂k	y√∂k
+See more from a vosa dictionary!	Katso lis√§√§ vosan sanastosta!	Kaa pir ut √∂ vosa sisato!
+Word order	Sanaj√§rjestys	Saj√§r
+In questions, the predicate comes before the subject.	Kysymyksiss√§ predikaatti tulee ennen subjektia.	In kosi teolusaik uut ed josa.
+Are you?	Oletko sin√§?	Ooko ja?
+In the imperative, the verb comes before personal pronoun or the word meaning person.	K√§skymuodossa verbi tulee ennen persoonapronominia tai henkil√∂√§ tarkoittavaa sanaa.	In p√∂sakau tesa uut ed hojocuosa taj hojo obmaarkva sa.
 Do!	Tee!	Tee ja!
-Let him / her do! 	Tehkˆˆn!	Tee h‰!
-Do! 	Tehk‰‰!	Tee jasi!
-The location of the object may vary. However, it should be noted that subjects and objects do not mix.	Objektin paikka voi vaihdella. On kuitenkin huomioitava, ett‰ subjektit ja objektit eiv‰t sekoitu kesken‰‰n. 	Obsa lo voo siermuu. Oo amut obtaark, syt josasi a obasi ej autr‰‰j vigˆg. 
-By emphasizing words and word order, you can emphasize their importance.	Sanoja painottamalla ja sanaj‰rjestyksell‰ voi korostaa niiden t‰rkeytt‰.	Vy lypoo a saj‰r voo yloob itsi curovao.
-I'll build a beautiful house. A beautiful house I'm building. I am building a beautiful house	Min‰ rakennan kauniin talon. Kauniin talon min‰ rakennan. Min‰ olen rakentamassa kaunista taloa.	Aj tool (toolne) kava tol. Kava tol aj tool. Aj toolnen kava tol.
+Let him / her do! 	Tehk√∂√∂n!	Tee h√§!
+Do! 	Tehk√§√§!	Tee jasi!
+The location of the object may vary. However, it should be noted that subjects and objects do not mix.	Objektin paikka voi vaihdella. On kuitenkin huomioitava, ett√§ subjektit ja objektit eiv√§t sekoitu kesken√§√§n. 	Obsa lo voo siermuu. Oo amut obtaark, syt josasi a obasi ej autr√§√§j vig√∂g. 
+By emphasizing words and word order, you can emphasize their importance.	Sanoja painottamalla ja sanaj√§rjestyksell√§ voi korostaa niiden t√§rkeytt√§.	Vy lypoo a saj√§r voo yloob itsi curovao.
+I'll build a beautiful house. A beautiful house I'm building. I am building a beautiful house	Min√§ rakennan kauniin talon. Kauniin talon min√§ rakennan. Min√§ olen rakentamassa kaunista taloa.	Aj tool (toolne) kava tol. Kava tol aj tool. Aj toolnen kava tol.
 The position of an adverb in a sentence may vary according to its emphasis.	Adverbin paikka lauseessa voi vaihdella painotuksen mukaan.	Linolosa lo in lusa voo siermuu vili lypoote.
-Using punctuation marks	V‰limerkkien k‰yttˆ	V‰lmarksi teo
-Dots, commas, semicolons, colon, question marks, exclamation marks, dashes, 	Pisteet, pilkut, puolipisteet, kaksoispisteet, kysymysmerkit, huutomerkit, ajatusviivat, 	Dotsi, ierdotsi, dotiksi, dudotsi, kootemarksi, s‰marksi, soosolinsi, 
-number separators, hyphens, quotes are just like in Finnish or in English.	numeroiden erottimet, tavuviivat, lainausmerkit ovat kuten suomen tai englannin kieless‰. 	kasiˆ erurpaavosi, saiklinsi oo li in fin taj in eng.
-If two identical vowels appear between compound parts of words, they are separated by a hyphen,	Jos yhdysosien v‰liin tulee kaksi samaa vokaalia, ne erotetaan tavuviivalla, 	If v‰ltu vipaiksi uut du re vousi, itsi erurpaata vi saiklin,
-so that two similar vowels in the word do not become similar looking to the verb.	ettei kaksi samanlaista vokaalia sanassa tule verbin kanssa samann‰kˆiseksi. 	syt ej du re vousi in sa muu vi tesa likava. 
-Likewise, root words in long word can be separated by a hyphen or an empty space for clarity,	Samoin voidaan pitkien sanojen sanakantoja selvyyden vuoksi erottaa tavuviivalla tai tyhj‰ll‰ v‰lill‰ 	Reli voota luva sasi sabessi erurpaa vy saiklinsi taj vy lufva v‰l 
-and also when joining connecting parts would mix the word with other words.	ja myˆs silloin, kun yhdyssosia liitett‰ess‰ sana sekoittuisi toisiin sanoihin.	a ali itna, na rupaata vipaiksi sa autr‰‰jif vi tua sasi.
-Upper case 	Iso alkukirjain	Piva nˆkirka
-The initials of the sentence, proper names, chemical symbols and abbreviations in the names of the substances are capitalized.	Lauseen alkukirjain, erisnimet, aineiden nimiss‰ olevat kemialliset merkit ja lyhenteet kirjoitetaan isolla alkukirjaimella.	Lusa nˆkirka, ersasi, in mo ersasi oova kemdava marksi a ulsasi kiirta vi piva nˆkirka.
-Splitting a word into different lines	Sanan jakaminen eri riveille	Sa iikso le er leij‰rsi
-Split between stem words or preferably not separate words into different lines.	Jaa kantasanojen v‰lilt‰ tai mieluiten ‰l‰ jaa sanoja eri riveille.	Iik ja el v‰l jursasi taj mihastli ej iik sasi intu er leij‰rsi.
+Using punctuation marks	V√§limerkkien k√§ytt√∂	V√§lmarksi teo
+Dots, commas, semicolons, colon, question marks, exclamation marks, dashes, 	Pisteet, pilkut, puolipisteet, kaksoispisteet, kysymysmerkit, huutomerkit, ajatusviivat, 	Dotsi, ierdotsi, dotiksi, dudotsi, kootemarksi, s√§marksi, soosolinsi, 
+number separators, hyphens, quotes are just like in Finnish or in English.	numeroiden erottimet, tavuviivat, lainausmerkit ovat kuten suomen tai englannin kieless√§. 	kasi√∂ erurpaavosi, saiklinsi oo li in fin taj in eng.
+If two identical vowels appear between compound parts of words, they are separated by a hyphen,	Jos yhdysosien v√§liin tulee kaksi samaa vokaalia, ne erotetaan tavuviivalla, 	If v√§ltu vipaiksi uut du re vousi, itsi erurpaata vi saiklin,
+so that two similar vowels in the word do not become similar looking to the verb.	ettei kaksi samanlaista vokaalia sanassa tule verbin kanssa samann√§k√∂iseksi. 	syt ej du re vousi in sa muu vi tesa likava. 
+Likewise, root words in long word can be separated by a hyphen or an empty space for clarity,	Samoin voidaan pitkien sanojen sanakantoja selvyyden vuoksi erottaa tavuviivalla tai tyhj√§ll√§ v√§lill√§ 	Reli voota luva sasi sabessi erurpaa vy saiklinsi taj vy lufva v√§l 
+and also when joining connecting parts would mix the word with other words.	ja my√∂s silloin, kun yhdyssosia liitett√§ess√§ sana sekoittuisi toisiin sanoihin.	a ali itna, na rupaata vipaiksi sa autr√§√§jif vi tua sasi.
+Upper case 	Iso alkukirjain	Piva n√∂kirka
+The initials of the sentence, proper names, chemical symbols and abbreviations in the names of the substances are capitalized.	Lauseen alkukirjain, erisnimet, aineiden nimiss√§ olevat kemialliset merkit ja lyhenteet kirjoitetaan isolla alkukirjaimella.	Lusa n√∂kirka, ersasi, in mo ersasi oova kemdava marksi a ulsasi kiirta vi piva n√∂kirka.
+Splitting a word into different lines	Sanan jakaminen eri riveille	Sa iikso le er leij√§rsi
+Split between stem words or preferably not separate words into different lines.	Jaa kantasanojen v√§lilt√§ tai mieluiten √§l√§ jaa sanoja eri riveille.	Iik ja el v√§l jursasi taj mihastli ej iik sasi intu er leij√§rsi.
 Deriving words	Sanojen johtaminen	Sasi diirte
-The principle is that as many words as possible are derived from basic stem syllables. 	Periaate on, ett‰ mahdollisimman paljon johdetaan sanoja perusjuuritavuista.	Alide oo, syt vostli piri deriivta sasi ob besjursaiksi.
-If the word becomes too long, and can not be understandable they can be derived from the general stem words by combining, could be taken from eg. 	Jos sanasta tulee pitk‰, eik‰ sit‰ voida ymm‰rrett‰v‰sti johtaa yleisist‰ kantasanoista yhdistelem‰ll‰, katsotaan esim.	If sa muu luva, a it ej voota dakavoli deriiv ob tihnava bessasi vy sivipaa, kaata edkali
-English language or globally well known words, which is shortened when needed, 	englannin kielest‰ tai maailmanlaajuisesti hyvin tunnetuista sanoista kanta, joka lyhennet‰‰n tarvittaessa 	ob eng taj kˆlleili hali kavodaaen sasi beso, koˆ uulta na niidta
-and be accompanied by any additional suffix to indicate the word group, for example. animal, place etc. 	ja liitet‰‰n mahdollisesti lis‰p‰‰te ilmaisemaan sanaryhm‰‰ esim. el‰in, paikka jne. 	a rupaata voli pirˆnsa for kautsaa sa iksio edkali pe, lo a itli depirna (aid.).
-And connecting between hyphens, if the word will be mixed with other words, so the perception of connecting elements is more clearly .	Yhdysosia muodostettaessa voidaan laittaa niiden v‰liin tavuviivoja, jos sana sekoittuisi muihin sanoihin ja yhdysosien hahmottaminen on selvemp‰‰. 	Na kauteeta vipasasi voota paa tu itsiof v‰l saiklinsi, if sa autr‰‰jif vi tua sasi a vipaiksi hokauute oo soklirpir. 
-Or a compund word can be a word combination by making empties between parts of the word.	Tai yhdyssana voi olla sanaliitto tyhj‰ tila sanan osien v‰liss‰.	Taj vipasa voo oo savipˆ luf til inv‰l saof iksi.
-Basic concepts	Perusk‰sitteit‰	Besvososi
+The principle is that as many words as possible are derived from basic stem syllables. 	Periaate on, ett√§ mahdollisimman paljon johdetaan sanoja perusjuuritavuista.	Alide oo, syt vostli piri deriivta sasi ob besjursaiksi.
+If the word becomes too long, and can not be understandable they can be derived from the general stem words by combining, could be taken from eg. 	Jos sanasta tulee pitk√§, eik√§ sit√§ voida ymm√§rrett√§v√§sti johtaa yleisist√§ kantasanoista yhdistelem√§ll√§, katsotaan esim.	If sa muu luva, a it ej voota dakavoli deriiv ob tihnava bessasi vy sivipaa, kaata edkali
+English language or globally well known words, which is shortened when needed, 	englannin kielest√§ tai maailmanlaajuisesti hyvin tunnetuista sanoista kanta, joka lyhennet√§√§n tarvittaessa 	ob eng taj k√∂lleili hali kavodaaen sasi beso, ko√∂ uulta na niidta
+and be accompanied by any additional suffix to indicate the word group, for example. animal, place etc. 	ja liitet√§√§n mahdollisesti lis√§p√§√§te ilmaisemaan sanaryhm√§√§ esim. el√§in, paikka jne. 	a rupaata voli pir√∂nsa for kautsaa sa iksio edkali pe, lo a itli depirna (aid.).
+And connecting between hyphens, if the word will be mixed with other words, so the perception of connecting elements is more clearly .	Yhdysosia muodostettaessa voidaan laittaa niiden v√§liin tavuviivoja, jos sana sekoittuisi muihin sanoihin ja yhdysosien hahmottaminen on selvemp√§√§. 	Na kauteeta vipasasi voota paa tu itsiof v√§l saiklinsi, if sa autr√§√§jif vi tua sasi a vipaiksi hokauute oo soklirpir. 
+Or a compund word can be a word combination by making empties between parts of the word.	Tai yhdyssana voi olla sanaliitto tyhj√§ tila sanan osien v√§liss√§.	Taj vipasa voo oo savip√∂ luf til inv√§l saof iksi.
+Basic concepts	Perusk√§sitteit√§	Besvososi
 eng	fin	vosa
-a, an	jokin	ˆ
-ahead / after	edell‰ / j‰ljess‰	ed / de
-amount	m‰‰r‰	ri, -ri
+a, an	jokin	√∂
+ahead / after	edell√§ / j√§ljess√§	ed / de
+amount	m√§√§r√§	ri, -ri
 and	ja	a
 be	olla	oo
 beautiful / ugly	kaunis / ruma	kava / akva
-before / after	ennen / j‰lkeen	ne / en
+before / after	ennen / j√§lkeen	ne / en
 being	olio	o, -o
 believe, belief	uskoa, usko	uus, us
 big / small	suuri / pieni	piva / ipva
 can	voida	voo
-carry / bring	vied‰ / tuoda	gaa / aag
+carry / bring	vied√§ / tuoda	gaa / aag
 cause / effect	syy / vaikutus	sy / ys
 collective	kollektiivi	si-
-color	v‰ri	k‰
-compulsion, must	pakko, t‰yty‰	pit, piit
-data, know	tieto, tiet‰‰	da, daa
+color	v√§ri	k√§
+compulsion, must	pakko, t√§yty√§	pit, piit
+data, know	tieto, tiet√§√§	da, daa
 direction	suunta	dir
-do	tehd‰	tee
+do	tehd√§	tee
 doing	teko	te
-eat, food	syˆd‰, ruoka	eem, em
--er, person	-ja, -j‰, henkilˆ	-jo, hojo
-father / mother	is‰ / ‰iti	ma / am
+eat, food	sy√∂d√§, ruoka	eem, em
+-er, person	-ja, -j√§, henkil√∂	-jo, hojo
+father / mother	is√§ / √§iti	ma / am
 feeling, sense, feel	tunne, tunto, tuntea	fi, fii
 genetive	genetiivi	-of, of
 give / get	antaa / saada	faa / aaf
-go / come	menn‰ / tulla	tuu / uut
-good / bad	hyv‰ / paha	hava / ahva
-happening	tapahtuma	h‰p
-have, possess	olla jllakin, omistaa	oof, ˆˆf
-he, she	h‰n	h‰
+go / come	menn√§ / tulla	tuu / uut
+good / bad	hyv√§ / paha	hava / ahva
+happening	tapahtuma	h√§p
+have, possess	olla jllakin, omistaa	oof, √∂√∂f
+he, she	h√§n	h√§
 health / desease	terveys / sairaus	ter / ret
 high / low	korkea / matala	ylva / lyva
-I / you	min‰ / sin‰	aj / ja
-in / out	sis‰ll‰ / ulkona	in / ni
+I / you	min√§ / sin√§	aj / ja
+in / out	sis√§ll√§ / ulkona	in / ni
 it	se	it
 language	kieli	vos
 light / darkness	valo / pimeys	kat / tak
 like, as, -ly	kuin, -sti, miten	li, -li
-live, life	el‰‰, el‰m‰	ee, eo
+live, life	el√§√§, el√§m√§	ee, eo
 look	katsoa	kaa
-machine	kone	vˆ
-man / woman	mies / nainen	m‰ / ‰m
+machine	kone	v√∂
+man / woman	mies / nainen	m√§ / √§m
 material, substance	aine, materiaali	mo, -mo
 mind	mieli	mi
 movement,moving, move	liike, liikkuminen, liikkua	uo, uu
 new / old	uusi / vanha	novva / vonva
 now	nyt	nen
-on / under	p‰‰ll‰ / alla	la / al
+on / under	p√§√§ll√§ / alla	la / al
 one / many, plural	yksi / moni	is / si, -si
-onto / from on	p‰‰lle / p‰‰lt‰	le / el
-order / disorder	j‰rjestys / ep‰j‰rjestys	j‰r / r‰j
-organ / member	elin / j‰sen	ev / ve
+onto / from on	p√§√§lle / p√§√§lt√§	le / el
+order / disorder	j√§rjestys / ep√§j√§rjestys	j√§r / r√§j
+organ / member	elin / j√§sen	ev / ve
 parents	vanhemmat	mamsi
 passive	passiivi	-ta
-past tense with verbs, future	verbeill‰ mennyt aika, futuuri	-en, -ne
-people	ihmiset	m‰msi
-person	henkilˆ, tekij‰	jo, -jo
+past tense with verbs, future	verbeill√§ mennyt aika, futuuri	-en, -ne
+people	ihmiset	m√§msi
+person	henkil√∂, tekij√§	jo, -jo
 place	paikka	lo, -lo
-plan / animal	kasvi / el‰in	ep / pe
-power	valta	pˆ
+plan / animal	kasvi / el√§in	ep / pe
+power	valta	p√∂
 power, energy	voima, energia	po, pori
 produce	tuottaa	too
 product	tuote	to, -to
 put / take	panna / ottaa	paa / aap
 quality, adjective	laatu, adjektiivi	vao, -va
 relation, attitude	suhde, asenne	cu
-remember / forget	muistaa / unohtaa	sˆˆ / ˆˆs
-roundness	pyˆreys	rau
+remember / forget	muistaa / unohtaa	s√∂√∂ / √∂√∂s
+roundness	py√∂reys	rau
 same / different	sama / eri	re / er
-science	tiede	d‰
+science	tiede	d√§
 self / other	itse / muu	aut / tua
-sight	n‰kˆ	voka
+sight	n√§k√∂	voka
 spirit, air, gas	henki, ilma, kaasu	ho, hom, ham
-status, condition, climate	tilanne, kunto, s‰‰	sta, nista
+status, condition, climate	tilanne, kunto, s√§√§	sta, nista
 than	kuin (vertailussa erilainen kuin)	il
 thing, think	asia, ajatella	so, soo
-this / that, a certain	t‰m‰ / tuo, tietty	t‰ / ‰t
+this / that, a certain	t√§m√§ / tuo, tietty	t√§ / √§t
 time	aika	no, -no
 to / from	luokse / luota	tu / ut
-tool	v‰line	vo
+tool	v√§line	vo
 value, money	arvo, raha	ro, rov
 water	vesi	vam
 way	tapa	lio
 when, during	kun, aikana	na, -na
-with, together	kanssa, yhdess‰	vi, vi- ,-vi
-voice, hear	‰‰ni, kuulla	hˆ, vohˆˆ
+with, together	kanssa, yhdess√§	vi, vi- ,-vi
+voice, hear	√§√§ni, kuulla	h√∂, voh√∂√∂
 word, say	sana, sanoa	sa, saa
-work	tyˆ	tˆ
+work	ty√∂	t√∂
 yuong / old	nuori / vanha	nuva / unva
 Plural and collective: stone, stones, rock land (place where many stones) .	Monikko ja kollektiivi: kivi, kivet, kivikko	Sisakau a sivio: kam, kamsi
-Chemical substances, especially elements, are named mo + chemical sign.	Kemialliset aineet, varsinkin alkuaineet nimet‰‰n mo + kemiallinen merkki.	Kemdava mosi, erobli nˆmosi, ersaata mo + kemdava mark.
-iron = moFe (pronounced mofe), bronze = moCuSn (pronounced mocusn).	moFe = rauta (lausutaan mofe), moCuSn = pronssi lausutaan mocusn).	iron = moFe ( sahˆˆta mofe), bronze = moCuSn ( kausaata mocusn).
-Opposites are formed by reversing the letters or by appending ej-, -ej.	Vastakohdat muodostetaan k‰‰nt‰m‰ll‰ kirjaimet p‰invastaisesti tai ej-, -ej -liittein.	÷giplosi kauteeta vy tˆˆnte kirkasi ˆggˆli taj vy ej-, -ej rupasi.
-good / bad	hyv‰ / paha	hava / ahva
-no, yes	ei, kyll‰	ej, je
+Chemical substances, especially elements, are named mo + chemical sign.	Kemialliset aineet, varsinkin alkuaineet nimet√§√§n mo + kemiallinen merkki.	Kemdava mosi, erobli n√∂mosi, ersaata mo + kemdava mark.
+iron = moFe (pronounced mofe), bronze = moCuSn (pronounced mocusn).	moFe = rauta (lausutaan mofe), moCuSn = pronssi lausutaan mocusn).	iron = moFe ( sah√∂√∂ta mofe), bronze = moCuSn ( kausaata mocusn).
+Opposites are formed by reversing the letters or by appending ej-, -ej.	Vastakohdat muodostetaan k√§√§nt√§m√§ll√§ kirjaimet p√§invastaisesti tai ej-, -ej -liittein.	√ñgiplosi kauteeta vy t√∂√∂nte kirkasi √∂gg√∂li taj vy ej-, -ej rupasi.
+good / bad	hyv√§ / paha	hava / ahva
+no, yes	ei, kyll√§	ej, je
 Verbs are formed by vowel doubling .	Verbit muodostetaan vokaalin kahdennuksella	Tesasi kauteeta vy vouduute.
-prohibit,deny; admit, accept	kielt‰‰; myˆnt‰‰	eej; jee
-Adjectives are formed with -va suffix.	Adjektiivit muodostetaan -va-p‰‰tteell‰	Vasasi kauteeta vy -va rupa
-negative, positive	kielteinen, myˆnteinen	ejva, jeva
-Way how is expressed by the -li suffix.	Tapaa ilmaistaan li-p‰‰tteell‰	Lio kasaata vy -li rupa.
-good, well, bad, badly, poorly.	hyv‰, hyvin, paha, pahoin	hava, hali, ahva, ahli
-Verbs and adjectives are made nouns by adding the -so, -o or -te suffix.	Verbeist‰ ja adjektiiveista tehd‰‰n substantiiveja lis‰‰m‰ll‰ -so, -o tai -te -liite.	Tesasi a vasasi teeta mu osasi vy pirpaa -so, -o taj -te rupa.
-good, goodness	hyv‰, hyvyys	hava, havao
-do, deed, doing	tehd‰, teko, tekeminen	tee, te, teete
-Or the form of verbs without vowel doubling is already a noun. 	Tai verbeill‰ ilman vokaalinkahdennusta oleva muoto on jo substantiivi.	Taj kau of tesasi ejli vouduute oo ripnen osa. 
-When the suffix is added, the verbs can retain the vowel doubling, if you want to emphasize the doing or omit it so becomes a shorter word.	Kun p‰‰te lis‰t‰‰n, niin verbeill‰ voidaan vokaalinkahdennus j‰tt‰‰, jos halutaan korostaa tekemist‰ tai ottaa pois niin tulee lyhyempi sana.	Na rupa pirpaata, itli tesasi voota tej‰‰ vouduute, if obraata yloob teete taj aap yr itli muu lupir sa.
+prohibit,deny; admit, accept	kielt√§√§; my√∂nt√§√§	eej; jee
+Adjectives are formed with -va suffix.	Adjektiivit muodostetaan -va-p√§√§tteell√§	Vasasi kauteeta vy -va rupa
+negative, positive	kielteinen, my√∂nteinen	ejva, jeva
+Way how is expressed by the -li suffix.	Tapaa ilmaistaan li-p√§√§tteell√§	Lio kasaata vy -li rupa.
+good, well, bad, badly, poorly.	hyv√§, hyvin, paha, pahoin	hava, hali, ahva, ahli
+Verbs and adjectives are made nouns by adding the -so, -o or -te suffix.	Verbeist√§ ja adjektiiveista tehd√§√§n substantiiveja lis√§√§m√§ll√§ -so, -o tai -te -liite.	Tesasi a vasasi teeta mu osasi vy pirpaa -so, -o taj -te rupa.
+good, goodness	hyv√§, hyvyys	hava, havao
+do, deed, doing	tehd√§, teko, tekeminen	tee, te, teete
+Or the form of verbs without vowel doubling is already a noun. 	Tai verbeill√§ ilman vokaalinkahdennusta oleva muoto on jo substantiivi.	Taj kau of tesasi ejli vouduute oo ripnen osa. 
+When the suffix is added, the verbs can retain the vowel doubling, if you want to emphasize the doing or omit it so becomes a shorter word.	Kun p√§√§te lis√§t√§√§n, niin verbeill√§ voidaan vokaalinkahdennus j√§tt√§√§, jos halutaan korostaa tekemist√§ tai ottaa pois niin tulee lyhyempi sana.	Na rupa pirpaata, itli tesasi voota tej√§√§ vouduute, if obraata yloob teete taj aap yr itli muu lupir sa.
 By vowels degrees:	Vokaaleilla asteita:	Vy vousi lylrisi:
-knowledge, science	tieto, tiede	da, d‰
-tool, machine	v‰line, kone	vo, vˆ
-place, institution	paikka, laitos	lo, lˆ
-go, run	menn‰, juosta	tuu, tyy
-say, shout	sanoa, huutaa	saa, s‰‰
-think, remember	ajatella, muistaa	soo, sˆˆ
+knowledge, science	tieto, tiede	da, d√§
+tool, machine	v√§line, kone	vo, v√∂
+place, institution	paikka, laitos	lo, l√∂
+go, run	menn√§, juosta	tuu, tyy
+say, shout	sanoa, huutaa	saa, s√§√§
+think, remember	ajatella, muistaa	soo, s√∂√∂
 Repeat, duration, intensity and multiplicity:	Toistoa, kestoa, voimakkutta ja paljoutta:	Dute, nori, povao a pirio:
 say, speak	sanoa, puhua	saa, sasaa
-smile, laugh	hymyill‰, nauraa	hee, hehee
+smile, laugh	hymyill√§, nauraa	hee, hehee
 small, minute	pieni, pienenpieni	ipva, ipipva
-Making smaller and bigger:	Pienennˆs ja suurennos:	Ippiirte a pipiirte:
-man, boy	mies, poika	m‰, ipm‰
-order, mess-up, chaos	j‰rjestys, ep‰j‰rjestys, kaaos	j‰r, r‰j, pir‰j
-maybe, perhaps, shortish by mej- prefix	ehk‰, lyhyehkˆ mej- etuliitteell‰	mejli, (mej + ulva) mejulva
-quite small	pienehkˆ	mejipva
-Classify consecutive series when deriving words! 	Luokittele per‰kk‰isi‰ sarjoja, kun johdat sanoja!	Paersioote eddeva serisi, na ja deriiv sasi!
-Next, the coding system - the classification system , when do not have to come up with so many denominations for consecutive rankings 	Seuraavana koodausj‰rjestelm‰ - luokitusj‰rjestelm‰, jolloin ei tarvitse keksi‰ niin paljon nimityksi‰ per‰kk‰isille arvoasteille, 	Mu deva koodte lij‰r - paersioote lij‰r, kona ej niid ideavoo itli si ersafasi for eddeva rolylrisi, 
-these are phonetically quite different (consonants in alphabetical order followed by vowels in alphabetical order).	n‰m‰ erottuvat foneettisestikin melko hyvin toisistaan (konsonantit aakkosj‰rjestyksess‰, joiden j‰lkeen on laitettu vokaalit aakkosj‰rjestyksess‰). 	t‰si autervokaa ali sahˆli rafli hali ut tuasi (konssi in a-ˆj‰r, ne kosi oo paaenta vousi in a-ˆj‰r.
-The rating system for deriving words in consecutive series, the prefixes: ba-, ce-, di-, fo-, gu-, hy-, j‰-, kˆ-.	Luokitusj‰rjestelm‰ sanojen johtamiseksi per‰kk‰isin‰ sarjoina, etuliitteet: ba-, ce-, di-, fo- , gu-, hy-, j‰-, kˆ-. 	Paersioote lij‰r for deriiv sasi eddeva serisi, edrupasi: ba-, ce-, di-, fo-, gu-, hy-, j‰-, kˆ-.
-It can be used also other well-known stems in deriving words, if they are generally used internationally.	Voidaan k‰ytt‰‰ myˆs muita vakiintuneita kantoja johtamisessa, jos ne ovat kansainv‰lisesti tuttuja.	Voota patee ali tuasi siremuuen bessi na diirte, if itsi oo hyjsiviculi kadava.
-Phonetic beauty, expressiveness, descriptiveness can be obtained more in the language - Sahˆva kavao, liedkavao, katoolivao voota aaf pir tu vos.	Foneettista kauneutta, ilmeikkyytt‰, kuvaannollisuutta voidaan saada kieleen enemm‰n	Sahˆva kavao, liedkavao, katoolivao voota aaf pir tu vos.
-Use more diphthongs in stem words.	K‰ytet‰‰n kantasanoissa enemm‰n diftongeja.	Pateeta ja in bessasi pir duervousi.
-ae. ea, ai, ia, ao, oa, au, ua, ei, ie, eo, oe, eu, ue, io, oi, iu, ui, iy, yi, i‰, ‰i, iˆ, ˆi, ou, uo,y‰, ‰y, yˆ, ˆy, ‰ˆ, ˆ‰. ..	ae. ea, ai, ia, ao, oa, au, ua, ei, ie, eo, oe, eu, ue, io, oi, iu, ui, iy, yi, i‰, ‰i, iˆ, ˆi, ou, uo,y‰, ‰y, yˆ, ˆy, ‰ˆ, ˆ‰. ..	ae. ea, ai, ia, ao, oa, au, ua, ei, ie, eo, oe, eu, ue, io, oi, iu, ui, iy, yi, i‰, ‰i, iˆ, ˆi, ou, uo,y‰, ‰y, yˆ, ˆy, ‰ˆ, ˆ‰. ..
-Verbs come in two successive vowels. On the other hand, one has to think about the ease of pronouncing words and sitting them in complete sentences.	Verbeiss‰ tulee kaksi samaa vokaalia per‰kk‰in. Toisaalta on ajateltava sanojen lausumisen helppoutta ja sanojen istumista kokonaisiin lauseisiin.	Tesasi oof du re eddeva vousi. Tuaelli piit soo sahˆˆte gnovao a sasi siitte tu kiova lusasi.
-Select syllables for stem words, which are not yet used.	Kantasanoiksi valitaan tavuja, jotka eiv‰t ole viel‰ k‰ytˆss‰.	Mu bessasi aphakaata saiksi, kosi ej oo pirnen na teo.
-You can check by the ctrl-f-keys obtained search field in the browser, 	Voi tarkistaa ctrl-f-n‰pp‰imill‰ saatavalla hakukent‰ll‰ selaimessa, 	Voo istaark vy ctrl-f klikvosi aafva seekte leimol in sikariikvo, 
-that there is not in Vosa-dictionaries already the stem word or the letter combination, before creating a new stem or derivative.	ettei sanastossa jo ole t‰t‰ kantaa ja kirjainyhdistelm‰‰, ennen kuin luo uutta kantaa tai johdosta.	syt ej sisato oof ripnen t‰ bes a kirka vipa, en na novtee novva bessa taj deriiven sa.
-How good, clear and easy to learn Vosa becomes depends on the vocabulary.	Sanastosta riippuu kuinka hyv‰, selke‰ ja helposti opittava Vosasta tulee. 	Obh‰‰ng ob sisato koli hava, soklirva a gnoli daav Vosa muu.
-Deriving words is balancing and optimization between these principles:	Sanojen johtaminen on tasapainoilua ja optimointia seuraavien periaatteiden v‰lill‰:	Sasi deriivte oo talhevriite a hastvostaate v‰lla deva alidesi:
-1. Words are as short as possible.	1. Sanat ovat mahdollisimman lyhyit‰.	1. Sasi oo vostli ulva.
+Making smaller and bigger:	Pienenn√∂s ja suurennos:	Ippiirte a pipiirte:
+man, boy	mies, poika	m√§, ipm√§
+order, mess-up, chaos	j√§rjestys, ep√§j√§rjestys, kaaos	j√§r, r√§j, pir√§j
+maybe, perhaps, shortish by mej- prefix	ehk√§, lyhyehk√∂ mej- etuliitteell√§	mejli, (mej + ulva) mejulva
+quite small	pienehk√∂	mejipva
+Classify consecutive series when deriving words! 	Luokittele per√§kk√§isi√§ sarjoja, kun johdat sanoja!	Paersioote eddeva serisi, na ja deriiv sasi!
+Next, the coding system - the classification system , when do not have to come up with so many denominations for consecutive rankings 	Seuraavana koodausj√§rjestelm√§ - luokitusj√§rjestelm√§, jolloin ei tarvitse keksi√§ niin paljon nimityksi√§ per√§kk√§isille arvoasteille, 	Mu deva koodte lij√§r - paersioote lij√§r, kona ej niid ideavoo itli si ersafasi for eddeva rolylrisi, 
+these are phonetically quite different (consonants in alphabetical order followed by vowels in alphabetical order).	n√§m√§ erottuvat foneettisestikin melko hyvin toisistaan (konsonantit aakkosj√§rjestyksess√§, joiden j√§lkeen on laitettu vokaalit aakkosj√§rjestyksess√§). 	t√§si autervokaa ali sah√∂li rafli hali ut tuasi (konssi in a-√∂j√§r, ne kosi oo paaenta vousi in a-√∂j√§r.
+The rating system for deriving words in consecutive series, the prefixes: ba-, ce-, di-, fo-, gu-, hy-, j√§-, k√∂-.	Luokitusj√§rjestelm√§ sanojen johtamiseksi per√§kk√§isin√§ sarjoina, etuliitteet: ba-, ce-, di-, fo- , gu-, hy-, j√§-, k√∂-. 	Paersioote lij√§r for deriiv sasi eddeva serisi, edrupasi: ba-, ce-, di-, fo-, gu-, hy-, j√§-, k√∂-.
+It can be used also other well-known stems in deriving words, if they are generally used internationally.	Voidaan k√§ytt√§√§ my√∂s muita vakiintuneita kantoja johtamisessa, jos ne ovat kansainv√§lisesti tuttuja.	Voota patee ali tuasi siremuuen bessi na diirte, if itsi oo hyjsiviculi kadava.
+Phonetic beauty, expressiveness, descriptiveness can be obtained more in the language - Sah√∂va kavao, liedkavao, katoolivao voota aaf pir tu vos.	Foneettista kauneutta, ilmeikkyytt√§, kuvaannollisuutta voidaan saada kieleen enemm√§n	Sah√∂va kavao, liedkavao, katoolivao voota aaf pir tu vos.
+Use more diphthongs in stem words.	K√§ytet√§√§n kantasanoissa enemm√§n diftongeja.	Pateeta ja in bessasi pir duervousi.
+ae. ea, ai, ia, ao, oa, au, ua, ei, ie, eo, oe, eu, ue, io, oi, iu, ui, iy, yi, i√§, √§i, i√∂, √∂i, ou, uo,y√§, √§y, y√∂, √∂y, √§√∂, √∂√§. ..	ae. ea, ai, ia, ao, oa, au, ua, ei, ie, eo, oe, eu, ue, io, oi, iu, ui, iy, yi, i√§, √§i, i√∂, √∂i, ou, uo,y√§, √§y, y√∂, √∂y, √§√∂, √∂√§. ..	ae. ea, ai, ia, ao, oa, au, ua, ei, ie, eo, oe, eu, ue, io, oi, iu, ui, iy, yi, i√§, √§i, i√∂, √∂i, ou, uo,y√§, √§y, y√∂, √∂y, √§√∂, √∂√§. ..
+Verbs come in two successive vowels. On the other hand, one has to think about the ease of pronouncing words and sitting them in complete sentences.	Verbeiss√§ tulee kaksi samaa vokaalia per√§kk√§in. Toisaalta on ajateltava sanojen lausumisen helppoutta ja sanojen istumista kokonaisiin lauseisiin.	Tesasi oof du re eddeva vousi. Tuaelli piit soo sah√∂√∂te gnovao a sasi siitte tu kiova lusasi.
+Select syllables for stem words, which are not yet used.	Kantasanoiksi valitaan tavuja, jotka eiv√§t ole viel√§ k√§yt√∂ss√§.	Mu bessasi aphakaata saiksi, kosi ej oo pirnen na teo.
+You can check by the ctrl-f-keys obtained search field in the browser, 	Voi tarkistaa ctrl-f-n√§pp√§imill√§ saatavalla hakukent√§ll√§ selaimessa, 	Voo istaark vy ctrl-f klikvosi aafva seekte leimol in sikariikvo, 
+that there is not in Vosa-dictionaries already the stem word or the letter combination, before creating a new stem or derivative.	ettei sanastossa jo ole t√§t√§ kantaa ja kirjainyhdistelm√§√§, ennen kuin luo uutta kantaa tai johdosta.	syt ej sisato oof ripnen t√§ bes a kirka vipa, en na novtee novva bessa taj deriiven sa.
+How good, clear and easy to learn Vosa becomes depends on the vocabulary.	Sanastosta riippuu kuinka hyv√§, selke√§ ja helposti opittava Vosasta tulee. 	Obh√§√§ng ob sisato koli hava, soklirva a gnoli daav Vosa muu.
+Deriving words is balancing and optimization between these principles:	Sanojen johtaminen on tasapainoilua ja optimointia seuraavien periaatteiden v√§lill√§:	Sasi deriivte oo talhevriite a hastvostaate v√§lla deva alidesi:
+1. Words are as short as possible.	1. Sanat ovat mahdollisimman lyhyit√§.	1. Sasi oo vostli ulva.
 2. The words must be different enough from the other words.	2. Sanojen on erotuttava muista sanoista.	2. Sasi piit autervokaa ut tua sasi.
-3. Words are phonologically descriptive, beautiful and easy to pronounce.	3. Sanat ovat ‰‰nteellisesti merkityksi‰ kuvaavia, kauniita ja helppo ‰‰nt‰‰.	3. Sasi oo sahˆli katoova, kava a gnoli sahˆˆ.
-4. Words are logically derived from basic concepts.	4. Sanat ovat loogisesti johdettuja perusk‰sitteist‰.	4. Sasi oo deriiven tuvisdali ut besvososi.
-5. The most common words are often the stem words.	5. Yleisimm‰t sanat ovat usein kantasanoina.	5. Tihnast sasi oo sina bessasi.
-6. Nuances can be expressed by attributes or new basic concepts.	6. Vivahteet voi ilmaista m‰‰ritteill‰ tai uusilla perusk‰sitteill‰.	6. Vaoipsi voo kautsaa vy defsi taj novva besvososi.
-7. Must not be exact synonyms or homonyms.	7. Ei tarkasti samaa tarkoittavia synonyymeja eik‰ homonyymeja.	7. Ej tarkli re obmaarkva remarksasi taj resasi.
-8. Antonyms, opposites of basic words are usually formed by reversing the letters from beginning to end or by ej-prefix.	8. Antonyymit, vastakohdat kantasanoista muodostetaan k‰‰nnettyn‰ kirjaimet alusta loppuun tai ej-liitteell‰	8. ÷gsasi, ˆgiplosi ob bessasi kauteeta tˆˆnen kirkasi ut nˆ tu ˆn taj vy ej-rupa.
-9. Take a distinctive feature of the concepts and use it in deriving.	9. Otetaan k‰sitteist‰ jokin erottuva piirre ja sit‰ k‰ytet‰‰n johtamisessa.	9. Aapta ob voso ˆ autervokaava obervao a it teoota in deriivte.
-10. If the derivative word is described exhaustively in basic stem words, the words will become too long.	10. Jos johdettava sana kuvataan tyhjent‰v‰sti perusk‰sittein, tulee liian pitki‰ sanoja.	10. If deriivva sa kasaata luufli vy besvososi, muu ylrili luva sasi.
-11. Avoid taking words directly from other languages, always try to derive new words from basic concepts.	11. V‰ltet‰‰n muista kielist‰ suoraan sanojen ottamista, pyrit‰‰n aina johtamaan perusk‰sitteist‰.	11. Urpiitta aapte sasi reili ob tua vossi, tutraata kina deriiv ob besvososi.
-12. If a word is phonetically very descriptive and sits in Vosa well and it would be difficult to derive from basic concepts,	12. Jos sana on ‰‰nteellisesti hyvin kuvaava ja istuu Vosaan hyvin ja olisi hankalaa johtaa k‰sitett‰ perusk‰sitteist‰,	12. If sa oo sahˆli hali katoova a siit tu Vosa hali a ooif ongva deriiv ob besvososi ,
-then it can be taken from other languages.	niin voidaan ottaa kantoja muista kielist‰.	itli voo taa aap bessi ob tua vossi.
-13. It is possible to use scientific terms, eg biota, medicine, which are quite rare in general language.	13. Voidaan k‰ytt‰‰ tieteellisi‰ termej‰ esim. eliˆstˆst‰, l‰‰ketieteest‰, mitk‰ ovat yleiskieless‰ melko harvinaisia.	13. Voota teoo d‰va daersasi edkali ˆb eˆsi, terd‰, kosi oo in tihnavos rafli hitnova.
-14. New base syllables need to be added to make the language richer and finer.	14. On lis‰tt‰v‰ uusia kantatavuja, ett‰ kielest‰ tulisi rikkaampi ja hienompi.	14. Piit pirpaata novva bessaiksi, syt vos muu ritspir a v‰kapir.
-15. Vosa must be made a language that expresses accurately and unambiguously.	15. Vosasta tulee tehd‰ tarkkaan ja yksiselitteisesti ilmaiseva kieli.	15. Vosa piit tee tarkli a isklirsoli kautsaava vos.
-16. When translating Vosa into other languages, the best equivalents should be found, their meanings clarified and limited to one concept.	16. K‰‰nnett‰ess‰ Vosaa muihin kieliin, tulisi lˆyt‰‰ parhaimmat vastineet, tarkentaa ja rajata niiden merkitykset yhteen k‰sitteeseen.	16. Na vosmuute Vosa mu tua vossi, piitif kees hast lireobsi, tarkpiir a liim itsiof obmarksi tu is voso.
+3. Words are phonologically descriptive, beautiful and easy to pronounce.	3. Sanat ovat √§√§nteellisesti merkityksi√§ kuvaavia, kauniita ja helppo √§√§nt√§√§.	3. Sasi oo sah√∂li katoova, kava a gnoli sah√∂√∂.
+4. Words are logically derived from basic concepts.	4. Sanat ovat loogisesti johdettuja perusk√§sitteist√§.	4. Sasi oo deriiven tuvisdali ut besvososi.
+5. The most common words are often the stem words.	5. Yleisimm√§t sanat ovat usein kantasanoina.	5. Tihnast sasi oo sina bessasi.
+6. Nuances can be expressed by attributes or new basic concepts.	6. Vivahteet voi ilmaista m√§√§ritteill√§ tai uusilla perusk√§sitteill√§.	6. Vaoipsi voo kautsaa vy defsi taj novva besvososi.
+7. Must not be exact synonyms or homonyms.	7. Ei tarkasti samaa tarkoittavia synonyymeja eik√§ homonyymeja.	7. Ej tarkli re obmaarkva remarksasi taj resasi.
+8. Antonyms, opposites of basic words are usually formed by reversing the letters from beginning to end or by ej-prefix.	8. Antonyymit, vastakohdat kantasanoista muodostetaan k√§√§nnettyn√§ kirjaimet alusta loppuun tai ej-liitteell√§	8. √ñgsasi, √∂giplosi ob bessasi kauteeta t√∂√∂nen kirkasi ut n√∂ tu √∂n taj vy ej-rupa.
+9. Take a distinctive feature of the concepts and use it in deriving.	9. Otetaan k√§sitteist√§ jokin erottuva piirre ja sit√§ k√§ytet√§√§n johtamisessa.	9. Aapta ob voso √∂ autervokaava obervao a it teoota in deriivte.
+10. If the derivative word is described exhaustively in basic stem words, the words will become too long.	10. Jos johdettava sana kuvataan tyhjent√§v√§sti perusk√§sittein, tulee liian pitki√§ sanoja.	10. If deriivva sa kasaata luufli vy besvososi, muu ylrili luva sasi.
+11. Avoid taking words directly from other languages, always try to derive new words from basic concepts.	11. V√§ltet√§√§n muista kielist√§ suoraan sanojen ottamista, pyrit√§√§n aina johtamaan perusk√§sitteist√§.	11. Urpiitta aapte sasi reili ob tua vossi, tutraata kina deriiv ob besvososi.
+12. If a word is phonetically very descriptive and sits in Vosa well and it would be difficult to derive from basic concepts,	12. Jos sana on √§√§nteellisesti hyvin kuvaava ja istuu Vosaan hyvin ja olisi hankalaa johtaa k√§sitett√§ perusk√§sitteist√§,	12. If sa oo sah√∂li hali katoova a siit tu Vosa hali a ooif ongva deriiv ob besvososi ,
+then it can be taken from other languages.	niin voidaan ottaa kantoja muista kielist√§.	itli voo taa aap bessi ob tua vossi.
+13. It is possible to use scientific terms, eg biota, medicine, which are quite rare in general language.	13. Voidaan k√§ytt√§√§ tieteellisi√§ termej√§ esim. eli√∂st√∂st√§, l√§√§ketieteest√§, mitk√§ ovat yleiskieless√§ melko harvinaisia.	13. Voota teoo d√§va daersasi edkali √∂b e√∂si, terd√§, kosi oo in tihnavos rafli hitnova.
+14. New base syllables need to be added to make the language richer and finer.	14. On lis√§tt√§v√§ uusia kantatavuja, ett√§ kielest√§ tulisi rikkaampi ja hienompi.	14. Piit pirpaata novva bessaiksi, syt vos muu ritspir a v√§kapir.
+15. Vosa must be made a language that expresses accurately and unambiguously.	15. Vosasta tulee tehd√§ tarkkaan ja yksiselitteisesti ilmaiseva kieli.	15. Vosa piit tee tarkli a isklirsoli kautsaava vos.
+16. When translating Vosa into other languages, the best equivalents should be found, their meanings clarified and limited to one concept.	16. K√§√§nnett√§ess√§ Vosaa muihin kieliin, tulisi l√∂yt√§√§ parhaimmat vastineet, tarkentaa ja rajata niiden merkitykset yhteen k√§sitteeseen.	16. Na vosmuute Vosa mu tua vossi, piitif kees hast lireobsi, tarkpiir a liim itsiof obmarksi tu is voso.
