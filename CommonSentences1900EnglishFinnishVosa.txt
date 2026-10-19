@@ -71,7 +71,7 @@ Go straight ahead.	Mene suoraan eteenpäin.	Tuu ja reili eddir.
 Turn left at the next corner.	Käänny vasemmalle seuraavassa kulmassa.	Auttöön ja le lev in deva äng.
 Turn right after the traffic lights.	Käänny oikealle liikennevalojen jälkeen.	Auttöön ja le vel ne tustakatsi.
 Where can I buy a ticket?	Mistä voin ostaa lipun?	Kout aj voo ääf tupapr?
-A one-way ticket, please.	Yhdensuuntainen lippu, kiitos.	Redirva tupapr, harorsa.
+A one-way ticket, please.	Yhdensuuntainen lippu, kiitos.	Redirva tupapr, haforsa.
 A round-trip ticket to London.	Menopaluulippu Lontooseen.	Tu-ut tupapr tu London.
 Which platform does the train leave from?	Miltä laiturilta juna lähtee?	Koel fetuvölo fetuvö urtuu?
 The train is delayed.	Juna on myöhässä.	Fetuvö ylnaa.
