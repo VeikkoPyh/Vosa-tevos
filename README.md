@@ -27,6 +27,7 @@ Dictionaries and Vosa texts for downloading and using in learning, for evaluatio
      <li><a href="English_Finnish_Vosa_SentencesAbout8000.txt">Various sentences from Ekovisterlo about 8000 lines.</a></li>
     <li><a href="CommonSentences1900EnglishFinnishVosa.txt">Common sentences in English, Finnish and Vosa about 1900 lines.</a></li>
       <li><a href="VosaGrammarEnglishFinnishVosa.txt">Vosa's Grammar in English, Finnish and Vosa.</a></li>
+    <li><a href="DegreesOfMeaningsUseInVosa.txt">Examples of degrees of meanings use in English, Finnish, Vosa and Vosa's parts.</a></li>
     <li><a href="English_Finnish_Vosa_SentencesReadable8000.txt">Various sentences from Ekovisterlo stacked vertically 8000 lines.</a></li>
      <li><a href="SupplementaryGlossaryEnglishFinnishVosa.txt">Added words about 2000 lines, which are not in Vosa's basic dictionaries.</a></li>
       <li><a href="vosaFinsiEngsi.htm">Vosa-Finnish-English dictionary about 30000 words, good for searching words from page on FireFox in computer by ctrl-f. Download it! 
