@@ -1,0 +1,898 @@
+English	Finnish	Vosa	VosaParts
+1. degree of meaning	1. merkitysaste	ba-	ba-
+species	laji	bab (biologia)	ba-b
+merchant	merkantti	bafäfjo	ba-fäf-jo
+menage	perhe	baj	ba-j
+home	perhe	baj	ba-j
+family	perhe	baj	ba-j
+family mother	perheenäiti	bajam	ba-j-am
+family life	perhe-elämä	bajeo	ba-j-e-o
+family counsellor	perheneuvoja	bajlisaajo	ba-j-li-saa-jo
+family counselling	perheneuvonta	bajlisaate	ba-j-li-saa-te
+sister	sisko	bajnos	ba-j-nos
+sister	sisar	bajnos	ba-j-nos
+brother	veljes	bajson	ba-j-son
+brother	veli	bajson	ba-j-son
+bro	veli	bajson	ba-j-son
+niece	veljentytär	bajsonof nos	ba-j-son-of nos
+nephew	veljenpoika	bajsonof son	ba-j-son-of son
+brothers	veljet	bajsonsi	ba-j-son-si
+brethren	veljet	bajsonsi	ba-j-son-si
+brothers	veljekset	bajsonsi	ba-j-son-si
+brotherhood	veljeskunta	bajsonsio	ba-j-son-si-o
+brotherly	veljellinen	bajsonva	ba-j-son-va
+fraternal	veljellinen	bajsonva	ba-j-son-va
+fraternity	veljeys	bajsonvao	ba-j-son-va-o
+fraternize	veljeillä	bajsoon	ba-j-soon
+family business	perheyritys	bajtralö	ba-j-tra-lö
+family member	perheenjäsen	bajve	ba-j-ve
+wedded	naimisissa	bajvi	ba-j-vi
+married	naimisissa	bajvi	ba-j-vi
+dower	myötäjäiset	bajvi aföfro	ba-j-vi af-öf-ro
+dowry	myötäjäiset	bajvi aföfro	ba-j-vi af-öf-ro
+mother-in-law	anoppi	bajviam	ba-j-vi-am
+lady-in-law	anoppi	bajviam	ba-j-vi-am
+married couple	aviopari	bajvidu	ba-j-vi-du
+married couple	pariskunta	bajvidu	ba-j-vi-du
+mates	pariskunta	bajvidu	ba-j-vi-du
+mating	parittelu	bajviduute	ba-j-vi-duu-te
+bastard	äpärä	bajviejipmäm	ba-j-vi-ej-ip-mäm
+unmarried	sinkku	bajviejjo	ba-j-vi-ej-jo
+bachelor	vanhapoika	bajviejmä	ba-j-vi-ej-mä
+unmarried man	poikamies	bajviejmä	ba-j-vi-ej-mä
+bachelor	poikamies	bajviejmä	ba-j-vi-ej-mä
+unwed	naimaton	bajviejva	ba-j-vi-ej-va
+unmarried	naimaton	bajviejva	ba-j-vi-ej-va
+single	naimaton	bajviejva	ba-j-vi-ej-va
+spinster	vanhapiika	bajviejäm	ba-j-vi-ej-äm
+old maid	vanhapiika	bajviejäm	ba-j-vi-ej-äm
+married-life	avioelämä	bajvieo	ba-j-vi-e-o
+divorce	avioero	bajvier	ba-j-vi-er
+copulate	naida	bajvii	ba-j-vii
+get married	mennä vihille	bajvii	ba-j-vii
+tie the knot	mennä vihille	bajvii	ba-j-vii
+espouse	naida	bajvii	ba-j-vii
+marry	naida	bajvii	ba-j-vii
+take in marriage	naida	bajvii	ba-j-vii
+get married	avioitua	bajvii	ba-j-vii
+married	nainut	bajviien	ba-j-vii-en
+sibling	sisarus	bajvijo	ba-j-vi-jo
+siblings	sisarukset	bajvijosi	ba-j-vi-jo-si
+sisterhood	sisaruus	bajvijovao	ba-j-vi-jo-va-o
+bridesmaid	morsiusneito	bajvikanos	ba-j-vi-ka-nos
+pop the question	kosia	bajvikoo	ba-j-vi-koo
+propose	kosia	bajvikoo	ba-j-vi-koo
+suitor	kosija	bajvikoojo	ba-j-vi-koo-jo
+courting	kosinta	bajvikoote	ba-j-vi-koo-te
+courtship	kosinta	bajvikoote	ba-j-vi-koo-te
+proposal	kosinta	bajvikoote	ba-j-vi-koo-te
+wooing	kosinta	bajvikoote	ba-j-vi-koo-te
+father-in-law	appiukko	bajvima	ba-j-vi-ma
+father-in-law	appi	bajvima	ba-j-vi-ma
+parents-in-law	appivanhemmat	bajvimamsi	ba-j-vi-mam-si
+hubby	aviomies	bajvimä	ba-j-vi-mä
+husband	aviomies	bajvimä	ba-j-vi-mä
+spouse	aviopuoliso	bajvimäm	ba-j-vi-mäm
+sister-in-law	käly	bajvimämbajnos	ba-j-vi-mäm-ba-j-nos
+brother in law	lanko	bajvimämbajson	ba-j-vi-mäm-ba-j-son
+brother-in-law	lanko	bajvimämbajson	ba-j-vi-mäm-ba-j-son
+daughter-in-law	miniä	bajvinos	ba-j-vi-nos
+daughter-of-law	miniä	bajvinos	ba-j-vi-nos
+marriage	avio	bajvio	ba-j-vi-o
+prenuptial	avio-	bajvio-	ba-j-vi-o
+marriage love	aviorakkaus	bajviora	ba-j-vi-o-ra
+matrimonial	avioliitto-	bajvipö-	ba-j-vi-pö
+wedlock	avioliitto	bajvipö	ba-j-vi-pö
+marriage	avioliitto	bajvipö	ba-j-vi-pö
+matrimony	avioliitto	bajvipö	ba-j-vi-pö
+married	avioliitossa	bajvipöli	ba-j-vi-pö-li
+adultery	aviorikos	bajvipösarek	ba-j-vi-pö-sa-rek
+conjugal	aviollinen	bajvipöva	ba-j-vi-pö-va
+connubial	aviollinen	bajvipöva	ba-j-vi-pö-va
+spousal	aviollinen	bajvipöva	ba-j-vi-pö-va
+marital	aviollinen	bajvipöva	ba-j-vi-pö-va
+adulterous	avionrikkoja	bajvireekjo	ba-j-vi-reek-jo
+adulteress	avionrikkoja	bajvireekjo	ba-j-vi-reek-jo
+adulterer	avionrikkoja	bajvireekjo	ba-j-vi-reek-jo
+marital status	siviilisääty	bajvista	ba-j-vi-sta
+with a family	perheellinen	bajviva	ba-j-vi-va
+wife	aviovaimo	bajviäm	ba-j-vi-äm
+familial	perheittäinen	bajvyva	ba-j-vyv-a
+housewife	perheenemäntä	bajäm	ba-j-äm
+domiciliary	koti-	bal-	ba-l
+home	koti	bal	ba-l
+housewife	kotiäiti	balam	ba-l-am
+homemaker	kotiäiti	balam	ba-l-am
+hearth	kotiliesi	balbönos	ba-l-bön-os
+native-bred	kotoperäinen	baldelova	ba-l-de-lo-va
+indigenous	kotoperäinen	baldelova	ba-l-de-lo-va
+home town	kotikunta	baldil	ba-l-di-l
+homeless	koditon	balejva	ba-l-ej-va
+dispossessed	koditon	balejva	ba-l-ej-va
+homelessness	kodittomuus	balejvao	ba-l-ej-va-o
+home care	kotihoito	balhake	ba-l-ha-ke
+home help	kodinhoitaja	balhakeejo	ba-l-ha-kee-jo
+native land	kotimaa	balhyl	ba-l-hy-l
+motherland	kotimaa	balhyl	ba-l-hy-l
+fatherland	kotimaa	balhyl	ba-l-hy-l
+homeland	kotimaa	balhyl	ba-l-hy-l
+mother country	kotimaa	balhyl	ba-l-hy-l
+domestic	kotimainen	balhylva	ba-l-hy-l-va
+homegrown	kotimainen	balhylva	ba-l-hy-l-va
+domesticity	kotimaisuus	balhylvao	ba-l-hy-l-va-o
+home crowd	kotiväki	baljosio	ba-l-jo-si-o
+domestic people	kotiväki	baljosio	ba-l-jo-si-o
+home cleaning	kodin siivous	balkliinte	ba-l-kliin-te
+homespun	kotikutoinen	balkniiten	ba-l-kniit-en
+homely	kodinomainen	balliva	ba-l-li-va
+domicile	kotipaikka	ballo	ba-l-lo
+hometown	kotipaikkakunta	ballodil	ba-l-lo-di-l
+housekeeping	kodinhoito	balobhake	ba-l-ob-ha-ke
+domestic animal	kotieläin	balpe	ba-l-pe
+home area	kotiseutu	balraflo	ba-l-raf-lo
+home	koto	balraflo	ba-l-raf-lo
+homestead	kotitila	balraulo	ba-l-rau-lo
+homestead	kontu	balraulo	ba-l-rau-lo
+household	kotitalous	balrosta	ba-l-ro-sta
+homesteading	kotitalous	balrosta	ba-l-ro-sta
+domestic science	kotitalous	balrostada	ba-l-ro-sta-da
+home service	kotipalvelu	balser	ba-l-ser
+homepage	kotisivu	balsid	ba-l-sid
+home page	kotisivu	balsid	ba-l-sid
+domestic matter	kotiasia	balso	ba-l-so
+home affair	kotiasia	balso	ba-l-so
+home town	kotikaupunki	baltaunlo	ba-l-taun-lo
+hometown	kotikaupunki	baltaunlo	ba-l-taun-lo
+homework	läksy	balteob	ba-l-te-ob
+lesson	läksy	balteob	ba-l-te-ob
+homework	kotitehtävä	balteob	ba-l-te-ob
+canaster	kessu	baltetupak	ba-l-te-tupak
+sarge	kessu	baltetupak	ba-l-te-tupak
+homemade	omatekoinen	baltooen	ba-l-too-en
+homemade	kotitekoinen	baltooen	ba-l-too-en
+homesickness	koti-ikävä	baltura	ba-l-tu-ra
+home run	kunnari	baltyo	ba-l-ty-o
+homework	kotityö	baltö	ba-l-tö
+housework	kotityö	baltö	ba-l-tö
+home services	ompeluseurat	balusser	ba-l-us-ser
+homelike	kotoisa	balva	ba-l-va
+snug	kotoisa	balva	ba-l-va
+homey	kodikas	balva	ba-l-va
+familiar	kotoinen	balva	ba-l-va
+homely	kodikas	balva	ba-l-va
+homelike	kodikas	balva	ba-l-va
+cozy	kodikas	balva	ba-l-va
+cozen	kodikas	balva	ba-l-va
+cosy	kodikas	balva	ba-l-va
+snug	kodikas	balva	ba-l-va
+intimacy	kodikkuus	balvao	ba-l-va-o
+homeliness	kodikkuus	balvao	ba-l-va-o
+home-made beer	kotikalja	balvilalkvem	ba-l-vil-alk-vem
+home-brewed ale	sahti	balvilalkvem	ba-l-vil-alk-vem
+homemaker	kotirouva	balviäm	ba-l-vi-äm
+housewife	kotirouva	balviäm	ba-l-vi-äm
+lady of the house	kotirouva	balviäm	ba-l-vi-äm
+woman of the house	kotirouva	balviäm	ba-l-vi-äm
+home help	kotiapu	balvyo	ba-l-vy-o
+home aid	kotiapu	balvyo	ba-l-vy-o
+domestic help	kotiapu	balvyo	ba-l-vy-o
+domestic appliances	kodinkoneet	balvösi	ba-l-vö-si
+home team	kotijoukkue	balögjosio	ba-l-ög-jo-si-o
+second	sekunti	ban	ba-n
+sec	sek	ban	ba-n
+sec	sekunti	ban	ba-n
+present tense	preesens	banokau	ba-no-kau
+ten	kymmenen	bas	ba-s
+number ten	kymmenen	bas	ba-s
+number eighteen	kahdeksantoista	basaht	ba-s-aht
+eighteen	kahdeksantoista	basaht	ba-s-aht
+eighteenth	kahdeksastoista	basahtva	ba-s-aht-va
+ten thousand	kymmenentuhatta	basdis	ba-s-di-s
+hectare	hehtaari	basdis leirimetr	ba-s-di-s lei-ri-metr
+hectare	ha	basdis leirimetr	ba-s-di-s lei-ri-metr
+twelve	tusina	basdu	ba-s-du
+dozen	tusina	basdu	ba-s-du
+twelve	kaksitoista	basdu	ba-s-du
+number twelve	kaksitoista	basdu	ba-s-du
+December	joulukuu	basduhyn	ba-s-du-hy-n
+december	joulukuinen	basduhynva	ba-s-du-hy-n-va
+twelfth	kahdestoista	basduva	ba-s-du-va
+fifteen	viisitoista	basfiv	ba-s-fiv
+fifteenth	viidestoista	basfivva	ba-s-fiv-va
+October	lokakuu	bashyn	ba-s-hy-n
+tithe	kymmenys	basik	ba-s-ik
+decimal	desimaali	basik	ba-s-ik
+tenth	kymmenesosa	basik	ba-s-ik
+decimal	kymmenesosa	basik	ba-s-ik
+decimal system	kymmenjärjestelmä	basiklijär	ba-s-ik-li-jär
+decimal system	desimaalijärjestelmä	basiklijär	ba-s-ik-li-jär
+decimal number	desimaaliluku	basiksiö	ba-s-ik-si-ö
+sergeant	kersantti	basipjo	ba-sip-jo
+staff sergeant	kersantti	basipjo	ba-sip-jo
+company	komppania	basipsio	ba-sip-si-o
+eleven	yksitoista	basis	ba-s-is
+number eleven	yksitoista	basis	ba-s-is
+November	marraskuu	basishyn	ba-s-is-hy-n
+eleventh	yhdestoista	basisva	ba-s-is-va
+fourteen	neljätoista	baskva	ba-s-kva
+fourteenth	neljästoista	baskvava	ba-s-kva-va
+ten kilometers	peninkulma	basmetrsi	ba-s-metr-si
+nineteen	yhdeksäntoista	basnin	ba-s-nin
+nineteenth	yhdeksästoista	basninva	ba-s-nin-va
+tenfold	kymmenkertainen	basnova	ba-s-no-va
+seventeen	seitsemäntoista	bassev	ba-s-sev
+seventeenth	seitsemästoista	bassevva	ba-s-sev-va
+dozens	kymmeniä	bassi	ba-s-si
+dozens of	kymmeniä	bassi	ba-s-si
+tens	kymmeniä	bassi	ba-s-si
+number sixteen	kuusitoista	bassik	ba-s-sik
+sixteen	kuusitoista	bassik	ba-s-sik
+sixteenth	kuudestoista	bassikva	ba-s-sik-va
+by the dozens	kymmenittäin	bassili	ba-s-si-li
+tenner	kymppi	basto	ba-s-to
+thirteen	kolmetoista	bastre	ba-s-tre
+number thirteen	kolmetoista	bastre	ba-s-tre
+thirteenth	kolmastoista	bastreva	ba-s-tre-va
+tenth	kymmenes	basva	ba-s-va
+decathlete	kymmenottelija	basögtraajo	ba-s-ög-traa-jo
+Monday	maanantai	batan	ba-tan
+pathway	polku	batul	ba-tul
+trail	polku	batul	ba-tul
+path	polku	batul	ba-tul
+reverend	pastori	baussajo	ba-us-sa-jo
+pastor	pastori	baussajo	ba-us-sa-jo
+Rev.	pastori	baussajo	ba-us-sa-jo
+puddle	lammikko	bavamlo	ba-vam-lo
+pond	lammikko	bavamlo	ba-vam-lo
+ditch	oja	bavamtul	ba-vam-tul
+dyke	oja	bavamtul	ba-vam-tul
+dike	oja	bavamtul	ba-vam-tul
+trench	oja	bavamtul	ba-vam-tul
+ditch bank	ojanpenkka	bavamtuldimpail	ba-vam-tul-dim-pa-il
+edge of ditch	ojanpenkka	bavamtuldimpail	ba-vam-tul-dim-pa-il
+ditcher	ojankaivaja	bavamtulmaapjo	ba-vam-tul-maap-jo
+dike	ojittaa	bavamtuul	ba-vam-tuul
+drainage	ojitus	bavamtuulte	ba-vam-tuul-te
+ditching	ojitus	bavamtuulte	ba-vam-tuul-te
+2. degree of meaning	2. merkitysaste	ce-	ce-
+genus	suku biologiassa	ceb	ce-b
+secondary school	oppikoulu	cedavlo	ce-dav-lo
+lyceum	lyseo	cedavlö	ce-dav-lö
+Diploma in Business and Administration	merkonomi	cefäfjo	ce-fäf-jo
+merchant	merkonomi	cefäfjo	ce-fäf-jo
+killings	killingit	ceikrovsi	ce-ik-rov-si
+kinship group	suku	cej	ce-j
+clan	suku	cej	ce-j
+kindred	suku	cej	ce-j
+lineage	suku	cej	ce-j
+relatives	suku	cej	ce-j
+kin group	suku	cej	ce-j
+lineage	sukuperä	cejbes	ce-j-bes
+genealogy	sukututkimus	cejdaka	ce-j-da-ka
+genealogical	sukututkimus-	cejdaka	ce-j-da-ka
+genealogist	sukututkija	cejdakaajo	ce-j-da-kaa-jo
+matriarch	matriarkka	cejdirunäm	ce-j-dir-un-äm
+extinction	sukupuutto	cejejofri	ce-j-ej-of-ri
+extinct	sukupuuttoon kuollut	cejejofrieöönen	ce-j-ej-of-ri-e-öön-en
+surname	sukunimi	cejersa	ce-j-er-sa
+patronymic	sukunimi	cejersa	ce-j-er-sa
+cognomen	sukunimi	cejersa	ce-j-er-sa
+last name	sukunimi	cejersa	ce-j-er-sa
+family name	sukunimi	cejersa	ce-j-er-sa
+family tomb	sukuhauta	cejeönlo	ce-j-e-ön-lo
+relative	sukulainen	cejjo	ce-j-jo
+kinsman	sukulainen	cejjo	ce-j-jo
+kinswoman	sukulainen	cejjo	ce-j-jo
+kin	sukulainen	cejjo	ce-j-jo
+kinsperson	sukulainen	cejjo	ce-j-jo
+kin	sukulaiset	cejjosi	ce-j-jo-si
+kindreds	sukulaiset	cejjosi	ce-j-jo-si
+relatedness	sukulaisuus	cejjovao	ce-j-jo-va-o
+kinship	sukulaisuus	cejjovao	ce-j-jo-va-o
+relationship	sukulaisuus	cejjovao	ce-j-jo-va-o
+lineage	sukujuuri	cejjur	ce-j-jur
+ancestry	sukujuuri	cejjur	ce-j-jur
+lineage	sukulinja	cejjur	ce-j-jur
+pedigree	sukutaulu	cejkatob	ce-j-kat-ob
+generational	sukupolvi-	cejlyl	ce-j-lyl
+generation	sukupolvi	cejlyl	ce-j-lyl
+uncle	setä	cejmä	ce-j-mä
+avuncular	setämäinen	cejmäva	ce-j-mä-va
+family tree	sukupuu	cejpu	ce-j-pu
+gender	sukupuoli	cejsid	ce-j-sid
+sexual	sukupuoli-	cejsid	ce-j-sid
+sex	sukupuoli	cejsid	ce-j-sid
+unisex	sukupuolineutraali	cejsidejjeva	ce-j-sid-ej-je-va
+promiscuity	sukupuolinen holtittomuus	cejsidejobkevao	ce-j-sid-ej-ob-ke-va-o
+sexless	sukupuoleton	cejsidejva	ce-j-sid-ej-va
+genderless	sukupuoleton	cejsidejva	ce-j-sid-ej-va
+sex life	sukupuolielämä	cejsideo	ce-j-sid-e-o
+venereal disease	sukupuolitauti	cejsidret	ce-j-sid-ret
+sexual	sukupuolinen	cejsidva	ce-j-sid-va
+sexuality	sukupuolisuus	cejsidvao	ce-j-sid-va-o
+by generation	suvuittain	cejsili	ce-j-si-li
+family	sukukunta	cejsio	ce-j-si-o
+cousin	serkku	cejsonnos	ce-j-son-nos
+related	sukua	cejva	ce-j-va
+kindred	sukua	cejva	ce-j-va
+cognate	sukua	cejva	ce-j-va
+incest	insesti	cejvisem	ce-j-vi-sem
+incest	sukurutsaus	cejvisem	ce-j-vi-sem
+aunt	täti	cejäm	ce-j-äm
+village	kylä	cel	ce-l
+township	kylä	cel	ce-l
+villager	kyläläinen	celjo	ce-l-jo
+village street	raitti	celpätul	ce-l-pä-tul
+minute	minuutti	cen	ce-n
+imperfect	imperfekti	cenokau	ce-no-kau
+lecturer	lehtori	cepadaavjo	ce-pa-daav-jo
+constable	poliisikonstaapeli	cepöjärjo	ce-pö-jär-jo
+constable	konstaapeli	cepöjärjo	ce-pö-jär-jo
+inspector (br.)	komisario	cepöjärjo	ce-pö-jär-jo
+baron	paroni	cerohamä	ce-ro-ha-mä
+baron	vapaaherra	cerohamä	ce-ro-ha-mä
+barony	paroninarvo	ceroharo	ce-ro-ha-ro
+baronial rank	paroninarvo	ceroharo	ce-ro-ha-ro
+baroness	paronitar	cerohaäm	ce-ro-ha-äm
+hundred	sata	ces	ce-s
+number hundred	sata	ces	ce-s
+hecto	hehto	ces	ce-s
+one hundred	sata	ces	ce-s
+hundred thousand	satatuhatta	cesdis	ce-s-di-s
+one hundred thousand	satatuhatta	cesdis	ce-s-di-s
+one-hundred note	satanen	ceseur	ce-s-eur
+hundred euros	satanen	ceseursi	ce-s-eur-si
+cent	sentti	cesik	ce-s-ik
+percent	prosentti	cesik	ce-s-ik
+one-hundredth	sadasosa	cesik	ce-s-ik
+percentage	prosentti	cesik	ce-s-ik
+centimeter	senttimetri	cesikmetr	ce-s-ik-metr
+centimetre	senttimetri	cesikmetr	ce-s-ik-metr
+cents	senttiä	cesikmetrsi	ce-s-ik-metr-si
+percentage	prosenttiosuus	cesikri	ce-s-ik-ri
+percentage	prosenttimäärä	cesikri	ce-s-ik-ri
+dime	sentti	cesikrov	ce-s-ik-rov
+penny	penni	cesikrov	ce-s-ik-rov
+penniless	pennitön	cesikrovejva	ce-s-ik-rov-ej-va
+pence	penniä	cesikrovsi	ce-s-ik-rov-si
+pennies	pennit	cesikrovsi	ce-s-ik-rov-si
+percentage	prosenttiluku	cesiksiö	ce-s-ik-si-ö
+percentual	prosentuaalinen	cesikva	ce-s-ik-va
+Sergeant Major	vääpeli	cesipjo	ce-sip-jo
+battalion	pataljoona	cesipsio	ce-sip-si-o
+centenary	satavuotisjuhla	cesjänsirono	ce-s-jä-n-si-ro-no
+hundred years old	satavuotias	cesjänsiva	ce-s-jä-n-si-va
+one hundred square metres	aari	ceskvaängmetr	ce-s-kva-äng-metr
+centigrade	aste	ceslylri	ce-s-lyl-ri
+degree Celsius	celsiusaste	ceslylri	ce-s-lyl-ri
+hundredfold	satakertaisesti	cesnoli	ce-s-no-li
+hundredfold	satakertainen	cesnova	ce-s-no-va
+centurion	sadanpäämies	cespämä	ce-s-pä-mä
+hundredth	sadas	cesva	ce-s-va
+nightingale	satakieli	cesvossif	ce-s-vos-sif
+Tuesday	tiistai	cetan	ce-tan
+side road	sivutie	cetul	ce-tul
+byroad	sivutie	cetul	ce-tul
+vicar (Catholic)	kirkkoherra	ceussajo	ce-us-sa-jo
+vicar	kirkkoherra	ceussajo	ce-us-sa-jo
+senior pastor	kirkkoherra	ceussajo	ce-us-sa-jo
+Rector (Protestant)	kirkkoherra	ceussajo	ce-us-sa-jo
+pond	lampi	cevamlo	ce-vam-lo
+streamlet	puro	cevamtul	ce-vam-tul
+stream	puro	cevamtul	ce-vam-tul
+creek	puro	cevamtul	ce-vam-tul
+bourn	puro	cevamtul	ce-vam-tul
+rivulet	puro	cevamtul	ce-vam-tul
+brook	puro	cevamtul	ce-vam-tul
+small river	puro	cevamtul	ce-vam-tul
+rill	puro	cevamtul	ce-vam-tul
+agrologist	agrologi	ceviiljo	ce-viil-jo
+3. degree of meaning	3. merkitysaste	di-	di-
+family	suku (biologia)	dib	di-b
+teen	teini	didavjo	di-dav-jo
+high school student	teini	didavjo	di-dav-jo
+adolescent	teini	didavjo	di-dav-jo
+grammar school pupil	teini	didavjo	di-dav-jo
+high school	lukio	didavlö	di-dav-lö
+Bachelor of Business Administration	tradenomi	difäfjo	di-fäf-jo
+per mil	promille	di-ik	di-ik
+ml	ml	di-iklitr	di-ik-litr
+teenage	teini-ikä	dijänri	di-jä-n-ri
+teen	teini-ikäinen	dijänriva	di-jä-n-ri-va
+teenager	teini-ikäinen	dijänriva	di-jä-n-ri-va
+local authority	kunta	dil	di-l
+community	kunta	dil	di-l
+local community	kunta	dil	di-l
+municipality	kunta	dil	di-l
+parish	pitäjä	dil	di-l
+township	kunta	dil	di-l
+commune	kunta	dil	di-l
+municipal citizen	kuntalainen	diljo	di-l-jo
+municipal councilor	kunnanvaltuutettu	dilpöjofaaen	di-l-pö-jo-faa-en
+municipal council	kunnanvaltuusto	dilpöjofasio	di-l-pö-jo-fa-si-o
+municipal elections	kunnallisvaalit	dilpöurka	di-l-pö-ur-ka
+municipal	kunnallis-	dilva	di-l-va
+municipal	kunnallinen	dilva	di-l-va
+municipal manager	kunnanjohtaja	dilyljo	di-lyl-jo
+psychiatrist	psykiatri	dimiterjo	di-mi-ter-jo
+hour	tunti	din	di-n
+sixty minutes	tunti	din	di-n
+hour	tunnin	din	di-n
+perfective tense	perfekti	dinokau	di-no-kau
+perfect tense	perfekti	dinokau	di-no-kau
+perfect	perfekti	dinokau	di-no-kau
+hours	tuntia	dinsi	di-n-si
+hourly pay	tuntipalkka	dintörov	di-n-tö-rov
+hourly wage	tuntipalkka	dintörov	di-n-tö-rov
+earl	jaarli	dirohamä	di-ro-ha-mä
+count	kreivi	dirohamä	di-ro-ha-mä
+countess	kreivitär	dirohaäm	di-ro-ha-äm
+one thousand	tuhat	dis	di-s
+kilo	kilo	dis	di-s
+thousand	tuhat	dis	di-s
+kilobyte	kilotavu	disdasaik	di-s-da-sa-ik
+kilogram	kilogramma	disgram	di-s-gram
+kilogram	kilo	disgram	di-s-gram
+kilos	kiloa	disgramsi	di-s-gram-si
+milli	milli	disik	di-s-ik
+thousandth	tuhannesosa	disik	di-s-ik
+milligram	milligramma	disikgram	di-s-ik-gram
+milliliter	millilitra	disiklitr	di-s-ik-litr
+millimetre	millimetri	disikmetr	di-s-ik-metr
+mm	millimetri	disikmetr	di-s-ik-metr
+millimeter	millimetri	disikmetr	di-s-ik-metr
+of millimeters	millinen	disikmetrva	di-s-ik-metr-va
+regiment	rykmentti	disipsio	di-sip-si-o
+thousandfold	tuhatkertaisesti	disisnoli	di-s-is-no-li
+kilometre	kilometri	dismetr	di-s-metr
+kilometer	kilometri	dismetr	di-s-metr
+kilometers	kilometriä	dismetrsi	di-s-metr-si
+kilocalorie	kilokalori	dispori	di-s-po-ri
+thousands	tuhansia	dissi	di-s-si
+thousands upon thousands	tuhansittain	dissili	di-s-si-li
+kilowatt	kilowatti	dissähysri	di-s-säh-ys-ri
+centipede	tuhatjalkainen	distuvesimae	di-s-tu-ve-si-mae
+millipede	tuhatjalkainen	distuvesimae	di-s-tu-ve-si-mae
+thousandth	tuhannes	disva	di-s-va
+Wednesday	keskiviikko	ditan	di-tan
+doctor	lääkäri	diterjo	di-ter-jo
+physician	lääkäri	diterjo	di-ter-jo
+doctor examines	lääkäri tutkii	diterjo dakaa	di-ter-jo da-kaa
+doctor examines	lääkäri tähystää	diterjo obkaa	di-ter-jo ob-kaa
+doctor's referral	lääkärin lähete	diterjo pagapapr	di-ter-jo pa-ga-papr
+horticulturist	hortonomi	ditolsiepjo	di-tol-si-ep-jo
+main road	maantie	ditul	di-tul
+bandit	bandiitti	ditulahroapjo	di-tul-ah-ro-ap-jo
+lake	järvi	divamlo	di-vam-lo
+loch	järvi	divamlo	di-vam-lo
+boddagh	järvitaimen	divamlo trautfis	di-vam-lo traut-fis
+lakeside	järvenranta	divamlodim	di-vam-lo-dim
+lakefront	järvenranta	divamlodim	di-vam-lo-dim
+lakeshore	järvenranta	divamlodim	di-vam-lo-dim
+river	joki	divamtul	di-vam-tul
+fluvial	joki-	divamtul-	di-vam-tul
+river	virta	divamtul	di-vam-tul
+river-basin	jokialue	divamtul leilo	di-vam-tul lei-lo
+river area	jokialue	divamtul leilo	di-vam-tul lei-lo
+riverbed	joenuoma	divamtulkäv	di-vam-tul-käv
+agricultural agent	agronomi	diviiljo	di-viil-jo
+agronomist	agronomi	diviiljo	di-viil-jo
+agronomy	agronomia	divilda	di-vil-da
+4. degree of meaning	4. merkitysaste	fo-	fo-
+order (in biology)	lahko (biologiassa)	fob	fo-b
+magister	maisteri	fodavjo	fo-dav-jo
+Master of Science	maisteri	fodavjo	fo-dav-jo
+Msc	maisteri	fodavjo	fo-dav-jo
+tribal	heimo-	foj	fo-j
+clan	klaani	foj	fo-j
+tribe	heimo	foj	fo-j
+sheik	sheikki	fojpäjo	fo-j-pä-jo
+emir	emiiri	fojpäjo	fo-j-pä-jo
+province	maakunta	fol	fo-l
+province	provinssi	fol	fo-l
+provincial	maakuntalainen	foljo	fo-l-jo
+provincial	maakunnallinen	folva	fo-l-va
+twenty-four hours	vuorokausi	fon	fo-n
+day and night	vuorokausi	fon	fo-n
+pluperfect	pluskvamperfekti	fonokau	fo-no-kau
+past perfect	pluskvamperfekti	fonokau	fo-no-kau
+circadian rhythm	vuorokausirytmi	fonrytm	fo-n-rytm
+diurnal	vuorokautinen	fonva	fo-n-va
+million	miljoona	fos	fo-s
+mega	mega	fos	fo-s
+tonne	tonni	fosgram	fo-s-gram
+ton	tonni	fosgram	fo-s-gram
+tons	tonnia	fosgramsi	fo-s-gram-si
+micro	mikro	fosik	fo-s-ik
+microbiology	mikrobiologia	fosikbioda	fo-s-ik-bio-da
+microbiologist	mikrobiologi	fosikbiodajo	fo-s-ik-bio-da-jo
+microprocessor	mikroprosessori	fosikdatötuovö	fo-s-ik-da-tö-tuo-vö
+microcomputer	mikrotietokone	fosikdavö	fo-s-ik-da-vö
+microelectronics	mikroelektroniikka	fosikipsähda	fo-s-ik-ip-säh-da
+microfiche	mikrokortti	fosikkart	fo-s-ik-kart
+microscope	mikroskooppi	fosikkavö	fo-s-ik-ka-vö
+microscopy	mikroskopia	fosikkavöda	fo-s-ik-ka-vö-da
+microscopic	mikroskooppinen	fosikkavöva	fo-s-ik-ka-vö-va
+microcosm	mikrokosmos	fosikkitilvao	fo-s-ik-ki-til-va-o
+microbe	mikrobi	fosikpe	fo-s-ik-pe
+microbial	mikrobi-	fosikpe	fo-s-ik-pe
+microbial strain	mikrobikanta	fosikpebes	fo-s-ik-pe-bes
+prebiotic	prebiootti	fosikpesiem	fo-s-ik-pe-si-em
+micronutrient	mikroravinne	fosikroemmo	fo-s-ik-ro-em-mo
+microeconomic	mikrotaloudellinen	fosikrostava	fo-s-ik-ro-sta-va
+microfilm	mikrofilmi	fosiksikato	fo-s-ik-si-ka-to
+microchip	mikrosiru	fosiksir	fo-s-ik-sir
+microcircuit	mikropiiri	fosiksährauri	fo-s-ik-säh-rau-ri
+integrated circuit	mikropiiri	fosiksährauri	fo-s-ik-säh-rau-ri
+microwave	mikroaalto	fosikveiv	fo-s-ik-veiv
+microwave oven	mikrouuni	fosikveivbekos	fo-s-ik-veiv-be-kos
+microwave oven	mikroaaltouuni	fosikveivbekos	fo-s-ik-veiv-be-kos
+lieutenant	luutnantti	fosipjo	fo-sip-jo
+brigade	prikaati	fosipsio	fo-sip-si-o
+millionaire	miljonääri	fosrovjo	fo-s-rov-jo
+millions	miljoonia	fossi	fo-s-si
+by the millions	miljoonittain	fossili	fo-s-si-li
+millionth	miljoonas	fosva	fo-s-va
+Thursday	torstai	fotan	fo-tan
+photon	fotoni	foton	fo-ton
+thruway	moottoritie	fotul	fo-tul
+superhighway	moottoritie	fotul	fo-tul
+freeway	moottoritie	fotul	fo-tul
+motorway	moottoritie	fotul	fo-tul
+state highway	moottoritie	fotul	fo-tul
+expressway	moottoritie	fotul	fo-tul
+street address	katuosoite	fotul tukasa	fo-tul tu-ka-sa
+barricade	barrikadi	fotulpuoyv	fo-tul-puo-yv
+deanery	rovastikunta	fousdil	fo-us-di-l
+Reverend	rovasti	fousjo	fo-us-jo
+dean	rovasti	fousjo	fo-us-jo
+head pastor	rovasti	fousjo	fo-us-jo
+brine	merivesi	fovam	fo-vam
+saltwater	merivesi	fovam	fo-vam
+sea water	merivesi	fovam	fo-vam
+seawater	merivesi	fovam	fo-vam
+distress at sea	merihätä	fovamahnidsta	fo-vam-ah-nid-sta
+pirate	merirosvo	fovamahroapjo	fo-vam-ah-ro-ap-jo
+buccaneer	merirosvo	fovamahroapjo	fo-vam-ah-ro-ap-jo
+seaweed	merilevä	fovamalg	fo-vam-alg
+undersea	merenalainen	fovamalva	fo-vam-al-va
+torpedo	torpedo	fovamautsipvo	fo-vam-aut-sip-vo
+seascape	merimaisema	fovambioka	fo-vam-bio-ka
+oceanology	merentutkimus	fovamdaka	fo-vam-da-ka
+oceanography	merentutkimus	fovamdaka	fo-vam-da-ka
+seashore	merenranta	fovamdimlo	fo-vam-dim-lo
+seaside	merenranta	fovamdimlo	fo-vam-dim-lo
+seaboard	merenrannikko	fovamdimlo	fo-vam-dim-lo
+sea coast	merenrannikko	fovamdimlo	fo-vam-dim-lo
+seafood	mereneläviä	fovamem	fo-vam-em
+seaworthy	merikelpoinen	fovamforhava	fo-vam-for-ha-va
+seaworthiness	merikelpoisuus	fovamforhavao	fo-vam-for-ha-va-o
+sea container	merikontti	fovamgagboks	fo-vam-gag-boks
+skipper	merikapteeni	fovamgusipjo	fo-vam-gu-sip-jo
+captain	merikapteeni	fovamgusipjo	fo-vam-gu-sip-jo
+sea captain	merikapteeni	fovamgusipjo	fo-vam-gu-sip-jo
+sea monster	merihirviö	fovamhirö	fo-vam-hir-ö
+leviathan	merihirviö	fovamhirö	fo-vam-hir-ö
+ern	merikotka	fovamigsif	fo-vam-ig-sif
+mariner	merimies	fovamjo	fo-vam-jo
+sailor	merimies	fovamjo	fo-vam-jo
+oversea	merentakaisten	fovamkadeva	fo-vam-ka-de-va
+overseas	merentakainen	fovamkadeva	fo-vam-ka-de-va
+mermaid	merenneito	fovamkaäm	fo-vam-ka-äm
+starfish	meritähti	fovamklirpe	fo-vam-klir-pe
+cormorant	merimetso	fovamkotsif	fo-vam-kot-sif
+marine	meri-	fovamlo	fo-vam-lo
+sea	meri	fovamlo	fo-vam-lo
+waves of the sea	meren aaltoilu	fovamlo veiivte	fo-vam-lo veiiv-te
+seagull	merilokki	fovamloksif	fo-vam-lok-sif
+sea gull	merilokki	fovamloksif	fo-vam-lok-sif
+maritime	merellinen	fovamlova	fo-vam-lo-va
+marine	merellinen	fovamlova	fo-vam-lo-va
+seaman	matruusi	fovammä	fo-vam-mä
+seaman	merimies	fovammä	fo-vam-mä
+sea bass	meriahven	fovampötsfis	fo-vam-pöts-fis
+seasick	merisairas	fovamretva	fo-vam-ret-va
+naval forces	merivoimat	fovamsipposi	fo-vam-sip-po-si
+navy	merivoimat	fovamsipposi	fo-vam-sip-po-si
+oyster	osteri	fovamskal	fo-vam-skal
+sea trout	meritaimen	fovamtrautfis	fo-vam-traut-fis
+buoy	merimerkki	fovamtukavo	fo-vam-tu-ka-vo
+shipping	merenkulku	fovamtuo	fo-vam-tuo
+maritime	merenkulun	fovamtuo	fo-vam-tuo
+seafaring	merenkulku	fovamtuo	fo-vam-tuo
+nautical	merenkulun	fovamtuo	fo-vam-tuo
+seaman	merenkulkija	fovamtuojo	fo-vam-tuo-jo
+seafarer	merenkulkija	fovamtuojo	fo-vam-tuo-jo
+marine museum	merimuseo	fovamundatol	fo-vam-un-da-tol
+maritime museum	merimuseo	fovamundatol	fo-vam-un-da-tol
+swell of the sea	merenkäynti	fovamveiivte	fo-vam-veiiv-te
+5. degree of meaning	5. merkitysaste	gu-	gu-
+class	luokka	gub (biologia)	gu-b
+doctor	tohtori	gudavjo	gu-dav-jo
+doctoral	tohtorin-	gudavjo	gu-dav-jo
+doctorate	tohtorinarvo	gudavro	gu-dav-ro
+doctor's degree	tohtorinarvo	gudavro	gu-dav-ro
+county	piirikunta	gul	gu-l
+province	lääni	gul	gu-l
+county	lääni	gul	gu-l
+district dean	lääninrovasti	gulfousjo	gu-l-fo-us-jo
+feudalism	feodalismi	gulide	gu-l-ide
+feudal	feodaalinen	gulideva	gu-l-ide-va
+district governor	maaherra	gulpöjo	gu-l-pö-jo
+gubernatorial	kuvernööri-	gulpöjo	gu-l-pö-jo
+governor	kuvernööri	gulpöjo	gu-l-pö-jo
+county governor	maaherra	gulpöjo	gu-l-pö-jo
+governor	maaherra	gulpöjo	gu-l-pö-jo
+week	viikko	gun	gu-n
+weekly magazine	viikkolehti	gundapapr	gu-n-da-papr
+weekend	viikonvaihde	gunermuo	gu-n-er-mu-o
+during the week	viikolla	gunna	gu-n-na
+weekly allowance	viikkoraha	gunrov	gu-n-rov
+weekly pocket money	viikkoraha	gunrov	gu-n-rov
+weekly	viikoittain	gunsili	gu-n-si-li
+weekly	viikottain	gunsili	gu-n-si-li
+weekly	viikottainen	gunsiliva	gu-n-si-li-va
+week day	viikonpäivä	guntan	gu-n-tan
+weekend	viikonloppu	gunön	gu-n-ön
+weekender	viikonlopun viettäjä	gunönnoteejo	gu-n-ön-no-tee-jo
+weekends	viikonloppuisin	gunönsina	gu-n-ön-si-na
+billion (Am)	miljardi	gus	gu-s
+milliard (Br)	miljardi	gus	gu-s
+nano	nano-	gusik	gu-s-ik
+nanopollution	nanosaaste	gusikahnilkmo	gu-s-ik-ah-nilk-mo
+nanomaterial	nanomateriaali	gusikmo	gu-s-ik-mo
+skipper	kapteeni	gusipjo	gu-sip-jo
+captain	kapteeni	gusipjo	gu-sip-jo
+division	divisioona	gusipsio	gu-sip-si-o
+billionaire	miljardööri	gusrovjo	gu-s-rov-jo
+Friday	perjantai	gutan	gu-tan
+dean	dekaani	gu-usjo	gu-us-jo
+ocean	valtameri	guvamlo	gu-vam-lo
+6. degree of meaning	6. merkitysaste	hy-	hy-
+phylum	pääjakso (biologia)	hyb	hy-b
+folk	kansa	hyj	hy-j
+nation	kansa	hyj	hy-j
+people	kansa	hyj	hy-j
+populace	kansa	hyj	hy-j
+genocide	kansanmurha	hyjaheap	hy-j-ah-e-ap
+jingoism	kansalliskiihko	hyjbönmi	hy-j-bön-mi
+nationalism	kansalliskiihko	hyjbönmi	hy-j-bön-mi
+popularly	kansantajuisesti	hyjdafili	hy-j-da-fi-li
+popular	kansantajuinen	hyjdafiva	hy-j-da-fi-va
+folkloric	kansantajuinen	hyjdafiva	hy-j-da-fi-va
+simplicity	kansantajuisuus	hyjdafivao	hy-j-da-fi-va-o
+public school	kansakoulu	hyjdavlo	hy-j-dav-lo
+ethnology	etnologia	hyjdä	hy-j-dä
+ethnologist	etnologi	hyjdäjo	hy-j-dä-jo
+ethnologically	etnologisesti	hyjdäli	hy-j-dä-li
+folklore	kansanperinne	hyjenlio	hy-j-en-li-o
+People's Party	kansanpuolue	hyjgösio	hy-j-gö-si-o
+national hero	kansallissankari	hyjhonvojo	hy-j-hon-vo-jo
+rhapsody	rapsodia	hyjhöfrikauto	hy-j-hö-fri-kau-to
+folksong	kansanlaulu	hyjhösa	hy-j-hö-sa
+folk song	kansanlaulu	hyjhösa	hy-j-hö-sa
+national instrument	kansallissoitin	hyjhöv	hy-j-höv
+citizen	kansalainen	hyjjo	hy-j-jo
+national	kansalainen	hyjjo	hy-j-jo
+civic	kansalais-	hyjjo	hy-j-jo
+civics	kansalaistaito	hyjjoda	hy-j-jo-da
+civil liberties	kansalaisvapaudet	hyjjofrivaosi	hy-j-jo-fri-va-o-si
+civil rights	kansalaisoikeudet	hyjjoratafsi	hy-j-jo-rat-af-si
+citizens	kansalaiset	hyjjosi	hy-j-jo-si
+civil address	kansalaisadressi	hyjjosiallekirsa	hy-j-jo-si-al-le-kir-sa
+direct initiative	kansalaisaloite	hyjjotenöso	hy-j-jo-te-nö-so
+nationality	kansalaisuus	hyjjovao	hy-j-jo-va-o
+civic	kansalaisuus	hyjjovao	hy-j-jo-va-o
+citizenship	kansalaisuus	hyjjovao	hy-j-jo-va-o
+citizenry	kansalaisuus	hyjjovao	hy-j-jo-va-o
+civilities	kansalaisuus	hyjjovao	hy-j-jo-va-o
+civil society	kansalaisyhteiskunta	hyjjovisoslo	hy-j-jo-vi-sos-lo
+ethnography	etnografia	hyjkadä	hy-j-ka-dä
+ethnographer	etnografi	hyjkadäjo	hy-j-ka-dä-jo
+ethnographic	etnografinen	hyjkadäli	hy-j-ka-dä-li
+nationally	kansallisesti	hyjli	hy-j-li
+ethnically	etnisesti	hyjli	hy-j-li
+popularly	kansanomaisesti	hyjlili	hy-j-li-li
+common	kansanomainen	hyjliva	hy-j-li-va
+demotic	kansanomainen	hyjliva	hy-j-li-va
+folksy	kansanomainen	hyjliva	hy-j-li-va
+plebeian	kansanomainen	hyjliva	hy-j-li-va
+popular	kansanomainen	hyjliva	hy-j-li-va
+unwashed	kansanomainen	hyjliva	hy-j-li-va
+vulgar	kansanomainen	hyjliva	hy-j-li-va
+vernacular	kansanomainen	hyjliva	hy-j-li-va
+nationalism	nationalismi	hyjmiide	hy-j-mi-ide
+nationalist	nationalisti	hyjmijo	hy-j-mi-jo
+nationalistic	nationalistinen	hyjmiva	hy-j-mi-va
+nationalist	kansallismielinen	hyjmiva	hy-j-mi-va
+nationalistic	kansallismielinen	hyjmiva	hy-j-mi-va
+nationalism	kansallismielisyys	hyjmivao	hy-j-mi-va-o
+democracy	kansanvalta	hyjpö	hy-j-pö
+nation state	kansallisvaltio	hyjpöhyl	hy-j-pö-hy-l
+referendum	kansanäänestys	hyjpöurka	hy-j-pö-ur-ka
+plebiscite	kansanäänestys	hyjpöurka	hy-j-pö-ur-ka
+democratic	kansanvaltainen	hyjpöva	hy-j-pö-va
+economics	kansantalous	hyjrosta	hy-j-ro-sta
+economics	kansantaloustiede	hyjrostadä	hy-j-ro-sta-dä
+folk dance	tanhuta	hyjrytmheuu	hy-j-rytm-heuu
+Member of Parliament	kansanedustaja	hyjsieedjo	hy-j-si-eed-jo
+parliamentarian	kansanedustaja	hyjsieedjo	hy-j-si-eed-jo
+Congressman	kansanedustaja	hyjsieedjo	hy-j-si-eed-jo
+congresswoman	kansanedustaja	hyjsieedjo	hy-j-si-eed-jo
+parliament	kansanedustuslaitos	hyjsieedlö	hy-j-si-eed-lö
+nation	kansakunta	hyjsio	hy-j-si-o
+rout	kansanjoukko	hyjsio	hy-j-si-o
+internationally	kansainvälisesti	hyjsivälli	hy-j-si-väl-li
+international	kansainvälinen	hyjsivälva	hy-j-si-väl-va
+internationalism	kansainvälisyys	hyjsivälvao	hy-j-si-väl-va-o
+internationalization	kansainvälistäminen	hyjsiväälte	hy-j-si-vääl-te
+demagogy	demagogia	hyjtebönmiida	hy-j-te-bön-mii-da
+demagogue	kansankiihottaja	hyjtebönmiijo	hy-j-te-bön-mii-jo
+demagogue	demagogi	hyjtebönmiijo	hy-j-te-bön-mii-jo
+demagogic	demagoginen	hyjtebönmiiva	hy-j-te-bön-mii-va
+folk healer	kansanparantaja	hyjtermuujo	hy-j-ter-muu-jo
+pensioner	kansaneläkeläinen	hyjunrovaafjo	hy-j-un-rov-aaf-jo
+national church	kansankirkko	hyjustol	hy-j-us-tol
+national	kansallinen	hyjva	hy-j-va
+ethnic	etninen	hyjva	hy-j-va
+nationality	kansallisuus	hyjvao	hy-j-va-o
+Commonwealth	Kansainyhteisö	Hyjvisio	hy-j-vi-si-o
+vernacular	kansankielinen	hyjvosva	hy-j-vos-va
+uprising	kansannousu	hyjyylte	hy-j-yyl-te
+country	maa	hyl	hy-l
+treason	maanpetos	hylahdir	hy-l-ah-dir
+far-famed	maankuulu	hyldahonva	hy-l-da-hon-va
+famous	maankuulu	hyldahonva	hy-l-da-hon-va
+folklorist	folkloristi	hylenliodakaajo	hy-l-en-li-o-da-kaa-jo
+traitor	maanpetturi	hylhatuaahjo	hy-l-ha-tu-aah-jo
+countrywide	maanlaajuisesti	hylleileili	hy-l-lei-lei-li
+nationwide	maanlaajuisesti	hylleileili	hy-l-lei-lei-li
+nationally	maanlaajuisesti	hylleileili	hy-l-lei-lei-li
+nationwide	maanlaajuinen	hylleileiva	hy-l-lei-lei-va
+countryman	maanmies	hylmä	hy-l-mä
+compatriot	maanmies	hylmä	hy-l-mä
+landsman	maanmies	hylmä	hy-l-mä
+ambassador	suurlähettiläs	hylpitusajo	hy-l-pi-tu-sa-jo
+embassy	suurlähetystö	hylpitusalö	hy-l-pi-tu-sa-lö
+state power	valtiovalta	hylpö	hy-l-pö
+state authority	valtiovalta	hylpö	hy-l-pö
+exile	maanpakolainen	hylraktujo	hy-l-rak-tu-jo
+exile	pakolaisuus	hylraktujovao	hy-l-rak-tu-jo-va-o
+exile	maanpako	hylraktuo	hy-l-rak-tuo
+expatriation	maanpako	hylraktuo	hy-l-rak-tuo
+consul	konsuli	hylsieedjo	hy-l-si-eed-jo
+consular	konsulin	hylsieedva	hy-l-si-eed-va
+agitator	agitaattori	hyltebönmiijo	hy-l-te-bön-mii-jo
+earth trouble	maanvaiva	hyltesaf	hy-l-te-saf
+public nuisance	maanvaiva	hyltesaf	hy-l-te-saf
+state authority	valtion viranomainen	hyltöropöjo	hy-l-tö-ro-pö-jo
+sovhose	sovhoosi	hylvillö	hy-l-vil-lö
+sovkhoz	sovhoosi	hylvillö	hy-l-vil-lö
+confederation	valtioliitto	hylvipösio	hy-l-vi-pö-si-o
+protocol	protokolla	hylvisdalio	hy-l-vis-da-li-o
+diplomacy	diplomatia	hylvälda	hy-l-väl-da
+diplomatist	diplomaatti	hylväldajo	hy-l-väl-da-jo
+diplomat	diplomaatti	hylväldajo	hy-l-väl-da-jo
+diplomatic relations	diplomaattisuhteet	hylväldajovicusi	hy-l-väl-da-jo-vi-cu-si
+diplomatically	diplomaattisesti	hylväldali	hy-l-väl-da-li
+diplomatic	diplomaattinen	hylväldava	hy-l-väl-da-va
+national defence	maanpuolustus	hylögyv	hy-l-ög-yv
+lunar	kuun-	hyn	hy-n
+month	kuukausi	hyn	hy-n
+month	kuu	hyn	hy-n
+monthly publication	kuukausijulkaisu	hyndihpato	hy-n-dih-pa-to
+monthly	kuukausittain	hynli	hy-n-li
+monthly	kuukausittainen	hynliva	hy-n-li-va
+monthly fee	kuukausimaksu	hynrovfa	hy-n-rov-fa
+monthly salary	kuukausipalkka	hyntörov	hy-n-tö-rov
+professor	professori	hypadaavjo	hy-pa-daav-jo
+professorship	professuuri	hypadaavvao	hy-pa-daav-va-o
+major	majuri	hysipjo	hy-sip-jo
+military corps	armeijakunta	hysipsio	hy-sip-si-o
+army corps	armeijakunta	hysipsio	hy-sip-si-o
+Saturday	lauantai	hytan	hy-tan
+Saturday evening	lauantai-ilta	hytanennat	hy-tan-en-nat
+7. degree of meaning	7. merkitysaste	jä-	jä-
+kingdom	eliökunta (biologia)	jäb	jä-b
+lieutenant colonel	everstiluutnantti	jäfosipjo	jä-fo-sip-jo
+continent	maanosa	jäl	jä-l
+year	vuosi	jän	jä-n
+decade	vuosikymmen	jänbas	jä-n-ba-s
+century	vuosisata	jänces	jä-n-ce-s
+centuries	vuosisadat	jäncessi	jä-n-ce-s-si
+millennium	vuosituhat	jändis	jä-n-di-s
+millennia	vuosituhat	jändis	jä-n-di-s
+annual volume	vuosikerta	jänisno	jä-n-is-no
+yearbook	vuosikirja	jänkirto	jä-n-kir-to
+annual	vuosikirja	jänkirto	jä-n-kir-to
+in the year	vuonna	jänna	jä-n-na
+season	vuodenaika	jänno	jä-n-no
+due to the season	vuodenajasta johtuva	jänno öbsyyva	jä-n-no öb-syy-va
+seasons	vuodenajat	jännosi	jä-n-no-si
+age	ikä	jänri	jä-n-ri
+age distribution	ikäjakauma	jänri iikri	jä-n-ri iik-ri
+age group	ikäryhmä	jänri iksio	jä-n-ri ik-si-o
+generation	ikäluokka	jänri paersio	jä-n-ri pa-er-si-o
+age bracket	ikäluokka	jänri paersio	jä-n-ri pa-er-si-o
+age class	ikäluokka	jänri paersio	jä-n-ri pa-er-si-o
+ageless	iätön	jänriejva	jä-n-ri-ej-va
+age difference	ikäero	jänrierka	jä-n-ri-er-ka
+age	ikääntyä	jänrii	jä-n-rii
+aged	ikääntynyt	jänriien	jä-n-rii-en
+age-limit	ikäraja	jänrilim	jä-n-ri-lim
+years old	-vuotias	-jänriva	jä-n-ri-va
+aged	ikäinen	jänriva	jä-n-ri-va
+superannuated	ikäloppu	jänriön	jä-n-ri-ön
+annual fee	vuosimaksu	jänrovfa	jä-n-rov-fa
+years	vuotta	jänsi	jä-n-si
+annually	vuosittain	jänsili	jä-n-si-li
+yearly	vuosittain	jänsili	jä-n-si-li
+annual	vuosittainen	jänsiva	jä-n-si-va
+yearly	vuosittainen	jänsiva	jä-n-si-va
+annuity	annuiteetti	jäntalylikrov	jä-n-tal-yl-ik-rov
+anniversary	vuosipäivä	jäntan	jä-n-tan
+turn of the year	vuodenvaihde	jäntön	jä-n-tön
+annual holiday	vuosiloma	jänurtöno	jä-n-ur-tö-no
+annual vacation	vuosiloma	jänurtöno	jä-n-ur-tö-no
+annual leave	vuosiloma	jänurtöno	jä-n-ur-tö-no
+yearly	vuotuinen	jänva	jä-n-va
+annual	vuotuinen	jänva	jä-n-va
+annual meeting	vuosikokous	jänvisahäp	jä-n-vi-sa-häp
+duke	herttua	järohamä	jä-ro-ha-mä
+duchy	herttuakunta	järohamädil	jä-ro-ha-mä-di-l
+duchess	herttuatar	järohaäm	jä-ro-ha-äm
+quadrillion	tuhat biljoonaa	jäs	jä-s
+quadrillion	biljardi	jäs	jä-s
+colonel	eversti	jäsipjo	jä-sip-jo
+Col.	eversti	jäsipjo	jä-sip-jo
+billiards	biljardeja	jässi	jä-s-si
+Sunday	sunnuntai	jätan	jä-tan
+archdiocese	arkkihiippakunta	jäusgul	jä-us-gul
+archbishop	arkkipiispa	jäussajo	jä-us-sa-jo
+most Reverand	arkkipiispa	jäussajo	jä-us-sa-jo
+metropolitan	metropoliitta	jäussajo	jä-us-sa-jo
+metropolitan	arkkipiispa	jäussajo	jä-us-sa-jo
+8. degree of meaning	8. merkitysaste	kö-	kö-
+domain	alue (biologia)	köb	kö-b
+major general	kenraalimajuri	köhysipjo	kö-hy-sip-jo
+world	maailma	köl	kö-l
+world-famous	maailmankuulu	köldahonva	kö-l-da-hon-va
+geography	maantiede	köldä	kö-l-dä
+geographer	maantieteilijä	köldäjo	kö-l-dä-jo
+geographically	maantieteellisesti	köldäli	kö-l-dä-li
+geographical	maantieteellinen	köldäva	kö-l-dä-va
+geographic	maantieteellinen	köldäva	kö-l-dä-va
+cosmopolitan	kosmopoliitti	köljo	kö-l-jo
+world outlook	maailmankatsomus	kölkaide	kö-l-ka-ide
+ideological	maailmankatsomuksellinen	kölkaideva	kö-l-ka-ide-va
+world view	maailmankuva	kölkaob	kö-l-ka-ob
+globalization	globalisaatio	kölleiite	kö-l-leii-te
+globally	globaalisti	kölleili	kö-l-lei-li
+globally	maailmanlaajuisesti	kölleili	kö-l-lei-li
+global	maailmanlaajuisesti	kölleili	kö-l-lei-li
+global	maailmanlaajuinen	kölleiva	kö-l-lei-va
+worldwide	maailmanlaajuinen	kölleiva	kö-l-lei-va
+global	globaali	kölleiva	kö-l-lei-va
+world-wide	maailmanlaajuinen	kölleiva	kö-l-lei-va
+world season	maailmankausi	köllimno	kö-l-lim-no
+aeon	maailmankausi	köllimno	kö-l-lim-no
+worldly	maailmallinen	kölliva	kö-l-li-va
+mundane	maailmallinen	kölliva	kö-l-li-va
+worldliness	maailmallisuus	köllivao	kö-l-li-va-o
+world political	maailmanpoliittinen	kölpögöteva	kö-l-pö-gö-te-va
+globetrotter	maailmanmatkaaja	kölrotuujo	kö-l-ro-tuu-jo
+world war	maailmansota	kölsip	kö-l-sip
+world record	maailmanennätys	költunovoote	kö-l-tu-no-voo-te
+ends of the earth	maailmanääri	kölult	kö-l-ult
+worldly	maallinen	kölva	kö-l-va
+world language	maailmankieli	kölvos	kö-l-vos
+world champion	maailmanmestari	kölylvojo	kö-l-yl-vo-jo
+world championship	maailmanmestaruus	kölylvojovao	kö-l-yl-vo-jo-va-o
+world championship	maailmanmestaruuskilpailu	kölylvojovao vintra	kö-l-yl-vo-jo-va-o vin-tra
+end of the world	maailmanloppu	kölön	kö-l-ön
+quintillion (Am)	triljoona	kös	kö-s
+trillion (Br)	triljoona	kös	kö-s
+full general	kenraali	kösipjo	kö-sip-jo
+general	kenraali	kösipjo	kö-sip-jo
+five-star general	kenraali	kösipjo	kö-sip-jo
+admiral	amiraali	kövusipjo	kö-vu-sip-jo
