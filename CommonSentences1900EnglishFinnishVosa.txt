@@ -40,7 +40,7 @@ I have two kids.	Minulla on kaksi lasta.	Aj oof du ipmämsi.
 What is your phone number?	Mikä on puhelinnumerosi?	Ko oo jaof visavö kasiö?
 When is your birthday?	Milloin on syntymäpäiväsi?	Kona oo jaof nöetan?
 My birthday is in May.	Syntymäpäiväni on toukokuussa.	Ajof nöetan oo na fivhyn.
-I have a large family.	Minulla on suuri perhe.	Aj oo piva baj.
+I have a large family.	Minulla on suuri perhe.	Aj oof piva baj.
 I live with my parents.	Asun vanhempieni kanssa.	Aj eloo vi ajof mamsi.
 Communication and Understanding	Keskustelun ylläpitäminen ja ymmärtäminen	Visasa yllapao a dakavoote
 Do you speak English?	Puhutko englantia?	Sasako ja eng?
@@ -72,7 +72,7 @@ Turn left at the next corner.	Käänny vasemmalle seuraavassa kulmassa.	Auttöö
 Turn right after the traffic lights.	Käänny oikealle liikennevalojen jälkeen.	Auttöön ja le vel ne tustakatsi.
 Where can I buy a ticket?	Mistä voin ostaa lipun?	Kout aj voo ääf tupapr?
 A one-way ticket, please.	Yhdensuuntainen lippu, kiitos.	Redirva tupapr, harorsa.
-A round-trip ticket to London.	Menopaluulippu Lontooseen.	Tu-ut tupapr ti London.
+A round-trip ticket to London.	Menopaluulippu Lontooseen.	Tu-ut tupapr tu London.
 Which platform does the train leave from?	Miltä laiturilta juna lähtee?	Koel fetuvölo fetuvö urtuu?
 The train is delayed.	Juna on myöhässä.	Fetuvö ylnaa.
 Excuse me, is this seat taken?	Anteeksi, onko tämä paikka varattu?	Ahhafali, ooko tä lo reesen?
