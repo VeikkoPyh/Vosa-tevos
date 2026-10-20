@@ -24,6 +24,7 @@ Dictionaries and Vosa texts for downloading and using in learning, for evaluatio
     <li><a href="VosaInLengthVosaPartsFinnishEnglish30000.txt">Vosa words in length order and Vosa building blocks English-Finnish dictionary about 30000 words</a></li>
     <li><a href="VosaReverseVosaPartsFinnishEnglish30000.txt">Vosa words in reverse order and Finnish-English  dictionary about 30000 words</a></li>
     <li><a href="VosaVosaPartsFinnishEnglishSL58000.txt">Vosa words, Vosa building blocks and Finnish-English  dictionary about 58000 english words and about 30000 Vosa and Finnish words</a></li>
+    <li><a href="CommonSentences1900EnglishFinnishVosa.txt">Common sentences made by AI, translated in Vosa over 1900 lines.</a></li>
      <li><a href="English_Finnish_Vosa_SentencesAbout8000.txt">Various sentences from Ekovisterlo about 8000 lines.</a></li>
       <li><a href="VosaGrammarEnglishFinnishVosa.txt">Vosa's Grammar in English, Finnish and Vosa.</a></li>
     <li><a href="DegreesOfMeaningsUseInVosa.txt">Examples of degrees of meanings use in English, Finnish, Vosa and Vosa's parts.</a></li>
